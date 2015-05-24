@@ -1,0 +1,129 @@
+rptid,metricid,metric,status_date,text,patients,hgid,hgroup
+rpt00,1,Outpatient Trend,23-Dec-2014,outpatient,385781,,
+rpt00,1,Outpatient Trend,9-Jan-2015,outpatient,389749,,
+rpt00,1,Outpatient Trend,16-Jan-2015,outpatient,391883,,
+rpt00,1,Outpatient Trend,23-Jan-2015,outpatient,393074,,
+rpt00,1,Outpatient Trend,30-Jan-2015,outpatient,395720,,
+rpt00,1,Outpatient Trend,5-Feb-2015,outpatient,397028,,
+rpt00,1,Outpatient Trend,12-Feb-2015,outpatient,396937,,
+rpt00,1,Outpatient Trend,19-Feb-2015,outpatient,398288,,
+rpt00,1,Outpatient Trend,26-Feb-2015,outpatient,399399,,
+rpt00,1,Outpatient Trend,5-Mar-2015,outpatient,401147,,
+rpt00,1,Outpatient Trend,12-Mar-2015,outpatient,400587,,
+rpt00,1,Outpatient Trend,19-Mar-2015,outpatient,403944,,
+rpt00,1,Outpatient Trend,26-Mar-2015,outpatient,405501,,
+rpt00,2,Outpatient by Group,26-Mar-2015,outpatient,76219,1,Saolta University Health Care Group
+rpt00,2,Outpatient by Group,26-Mar-2015,outpatient,66760,2,Ireland East Hospital Group
+rpt00,2,Outpatient by Group,26-Mar-2015,outpatient,63612,3,Dublin Midlands Hospital Group
+rpt00,2,Outpatient by Group,26-Mar-2015,outpatient,54222,4,RCSI Hospitals Group
+rpt00,2,Outpatient by Group,26-Mar-2015,outpatient,94435,5,South/South West Hospital Group
+rpt00,2,Outpatient by Group,26-Mar-2015,outpatient,24996,6,University of Limerick Hospital Group
+rpt00,2,Outpatient by Group,26-Mar-2015,outpatient,25257,7,Children's Hospital Group
+rpt00,3,Inpatient (inpatient),23-Dec-2014,inpatient,19717,,
+rpt00,3,Inpatient (inpatient),9-Jan-2015,inpatient,20052,,
+rpt00,3,Inpatient (inpatient),16-Jan-2015,inpatient,20166,,
+rpt00,3,Inpatient (inpatient),23-Jan-2015,inpatient,20288,,
+rpt00,3,Inpatient (inpatient),30-Jan-2015,inpatient,20274,,
+rpt00,3,Inpatient (inpatient),5-Feb-2015,inpatient,20519,,
+rpt00,3,Inpatient (inpatient),12-Feb-2015,inpatient,20823,,
+rpt00,3,Inpatient (inpatient),19-Feb-2015,inpatient,20795,,
+rpt00,3,Inpatient (inpatient),26-Feb-2015,inpatient,21026,,
+rpt00,3,Inpatient (inpatient),5-Mar-2015,inpatient,21219,,
+rpt00,3,Inpatient (inpatient),12-Mar-2015,inpatient,21688,,
+rpt00,3,Inpatient (inpatient),19-Mar-2015,inpatient,21810,,
+rpt00,3,Inpatient (inpatient),26-Mar-2015,inpatient,21710,,
+rpt00,4,Inpatient (day),23-Dec-2014,daycase,43888,,
+rpt00,4,Inpatient (day),9-Jan-2015,daycase,44130,,
+rpt00,4,Inpatient (day),16-Jan-2015,daycase,43748,,
+rpt00,4,Inpatient (day),23-Jan-2015,daycase,43959,,
+rpt00,4,Inpatient (day),30-Jan-2015,daycase,43466,,
+rpt00,4,Inpatient (day),5-Feb-2015,daycase,43367,,
+rpt00,4,Inpatient (day),12-Feb-2015,daycase,43562,,
+rpt00,4,Inpatient (day),19-Feb-2015,daycase,43739,,
+rpt00,4,Inpatient (day),26-Feb-2015,daycase,43866,,
+rpt00,4,Inpatient (day),5-Mar-2015,daycase,44095,,
+rpt00,4,Inpatient (day),12-Mar-2015,daycase,44453,,
+rpt00,4,Inpatient (day),19-Mar-2015,daycase,45027,,
+rpt00,4,Inpatient (day),26-Mar-2015,daycase,45162,,
+rpt00,6,Inpatient by Group (day),26-Mar-2015,daycase,10744,1,Saolta University Health Care Group
+rpt00,6,Inpatient by Group (day),26-Mar-2015,daycase,9047,2,Ireland East Hospital Group
+rpt00,6,Inpatient by Group (day),26-Mar-2015,daycase,7478,3,Dublin Midlands Hospital Group
+rpt00,6,Inpatient by Group (day),26-Mar-2015,daycase,6143,4,RCSI Hospitals Group
+rpt00,6,Inpatient by Group (day),26-Mar-2015,daycase,6891,5,South/South West Hospital Group
+rpt00,6,Inpatient by Group (day),26-Mar-2015,daycase,3517,6,University of Limerick Hospital Group
+rpt00,6,Inpatient by Group (day),26-Mar-2015,daycase,1342,7,Children's Hospital Group
+rpt00,5,Inpatient by Group (inpatient),26-Mar-2015,inpatient,4250,1,Saolta University Health Care Group
+rpt00,5,Inpatient by Group (inpatient),26-Mar-2015,inpatient,5399,2,Ireland East Hospital Group
+rpt00,5,Inpatient by Group (inpatient),26-Mar-2015,inpatient,3829,3,Dublin Midlands Hospital Group
+rpt00,5,Inpatient by Group (inpatient),26-Mar-2015,inpatient,3515,4,RCSI Hospitals Group
+rpt00,5,Inpatient by Group (inpatient),26-Mar-2015,inpatient,2197,5,South/South West Hospital Group
+rpt00,5,Inpatient by Group (inpatient),26-Mar-2015,inpatient,886,6,University of Limerick Hospital Group
+rpt00,5,Inpatient by Group (inpatient),26-Mar-2015,inpatient,1634,7,Children's Hospital Group
+rpt00,7,GI Trend,23-Dec-2014,GI,12978,,
+rpt00,7,GI Trend,9-Jan-2015,GI,12852,,
+rpt00,7,GI Trend,16-Jan-2015,GI,12864,,
+rpt00,7,GI Trend,23-Jan-2015,GI,12809,,
+rpt00,7,GI Trend,30-Jan-2015,GI,12926,,
+rpt00,7,GI Trend,5-Feb-2015,GI,13093,,
+rpt00,7,GI Trend,12-Feb-2015,GI,13479,,
+rpt00,7,GI Trend,19-Feb-2015,GI,13432,,
+rpt00,7,GI Trend,26-Feb-2015,GI,13706,,
+rpt00,7,GI Trend,5-Mar-2015,GI,13855,,
+rpt00,7,GI Trend,12-Mar-2015,GI,14238,,
+rpt00,7,GI Trend,19-Mar-2015,GI,14414,,
+rpt00,7,GI Trend,26-Mar-2015,GI,14206,,
+rpt00,8,GI by Group,26-Mar-2015,outpatient,1398,1,Saolta University Health Care Group
+rpt00,8,GI by Group,26-Mar-2015,outpatient,1827,2,Ireland East Hospital Group
+rpt00,8,GI by Group,26-Mar-2015,outpatient,4268,3,Dublin Midlands Hospital Group
+rpt00,8,GI by Group,26-Mar-2015,outpatient,4123,4,RCSI Hospitals Group
+rpt00,8,GI by Group,26-Mar-2015,outpatient,1528,5,South/South West Hospital Group
+rpt00,8,GI by Group,26-Mar-2015,outpatient,1003,6,University of Limerick Hospital Group
+rpt00,8,GI by Group,26-Mar-2015,outpatient,59,7,Children's Hospital Group
+rpt03,7,GI Trend,2-Apr-2015,GI,14579,,
+rpt03,7,GI Trend,9-Apr-2015,GI,14653,,
+rpt03,7,GI Trend,16-Apr-2015,GI,14480,,
+rpt03,7,GI Trend,23-Apr-2015,GI,14426,,
+rpt03,7,GI Trend,29-Apr-2015,GI,14519,,
+rpt03a,8,GI by Group,29-Apr-2015,outpatient,1767,1,Saolta University Health Care Group
+rpt03a,8,GI by Group,29-Apr-2015,outpatient,1731,2,Ireland East Hospital Group
+rpt03a,8,GI by Group,29-Apr-2015,outpatient,4384,3,Dublin Midlands Hospital Group
+rpt03a,8,GI by Group,29-Apr-2015,outpatient,4083,4,RCSI Hospitals Group
+rpt03a,8,GI by Group,29-Apr-2015,outpatient,1547,5,South/South West Hospital Group
+rpt03a,8,GI by Group,29-Apr-2015,outpatient,923,6,University of Limerick Hospital Group
+rpt03a,8,GI by Group,29-Apr-2015,outpatient,84,7,Children's Hospital Group
+rpt01,4,Inpatient (day),2-Apr-2015,daycase,45491,,
+rpt01,4,Inpatient (day),9-Apr-2015,daycase,45460,,
+rpt01,4,Inpatient (day),16-Apr-2015,daycase,45817,,
+rpt01,4,Inpatient (day),23-Apr-2015,daycase,46000,,
+rpt01,4,Inpatient (day),29-Apr-2015,daycase,46174,,
+rpt01a,6,Inpatient by Group (day),29-Apr-2015,daycase,11068,1,Saolta University Health Care Group
+rpt01a,6,Inpatient by Group (day),29-Apr-2015,daycase,9356,2,Ireland East Hospital Group
+rpt01a,6,Inpatient by Group (day),29-Apr-2015,daycase,7586,3,Dublin Midlands Hospital Group
+rpt01a,6,Inpatient by Group (day),29-Apr-2015,daycase,6983,4,RCSI Hospitals Group
+rpt01a,6,Inpatient by Group (day),29-Apr-2015,daycase,7355,5,South/South West Hospital Group
+rpt01a,6,Inpatient by Group (day),29-Apr-2015,daycase,3465,6,University of Limerick Hospital Group
+rpt01a,6,Inpatient by Group (day),29-Apr-2015,daycase,1361,7,Children's Hospital Group
+rpt01b,5,Inpatient by Group (inpatient),29-Apr-2015,inpatient,4330,1,Saolta University Health Care Group
+rpt01b,5,Inpatient by Group (inpatient),29-Apr-2015,inpatient,5247,2,Ireland East Hospital Group
+rpt01b,5,Inpatient by Group (inpatient),29-Apr-2015,inpatient,3745,3,Dublin Midlands Hospital Group
+rpt01b,5,Inpatient by Group (inpatient),29-Apr-2015,inpatient,3472,4,RCSI Hospitals Group
+rpt01b,5,Inpatient by Group (inpatient),29-Apr-2015,inpatient,1816,5,South/South West Hospital Group
+rpt01b,5,Inpatient by Group (inpatient),29-Apr-2015,inpatient,844,6,University of Limerick Hospital Group
+rpt01b,5,Inpatient by Group (inpatient),29-Apr-2015,inpatient,1537,7,Children's Hospital Group
+rpt01,3,Inpatient (inpatient),2-Apr-2015,inpatient,21816,,
+rpt01,3,Inpatient (inpatient),9-Apr-2015,inpatient,21700,,
+rpt01,3,Inpatient (inpatient),16-Apr-2015,inpatient,21613,,
+rpt01,3,Inpatient (inpatient),23-Apr-2015,inpatient,21378,,
+rpt01,3,Inpatient (inpatient),29-Apr-2015,inpatient,20991,,
+rpt02,1,Outpatient Trend,2-Apr-2015,outpatient,406427,,
+rpt02,1,Outpatient Trend,9-Apr-2015,outpatient,408593,,
+rpt02,1,Outpatient Trend,16-Apr-2015,outpatient,409672,,
+rpt02,1,Outpatient Trend,23-Apr-2015,outpatient,410597,,
+rpt02,1,Outpatient Trend,29-Apr-2015,outpatient,412422,,
+rpt02a,2,Outpatient by Group,29-Apr-2015,outpatient,77809,1,Saolta University Health Care Group
+rpt02a,2,Outpatient by Group,29-Apr-2015,outpatient,68546,2,Ireland East Hospital Group
+rpt02a,2,Outpatient by Group,29-Apr-2015,outpatient,64541,3,Dublin Midlands Hospital Group
+rpt02a,2,Outpatient by Group,29-Apr-2015,outpatient,55544,4,RCSI Hospitals Group
+rpt02a,2,Outpatient by Group,29-Apr-2015,outpatient,95060,5,South/South West Hospital Group
+rpt02a,2,Outpatient by Group,29-Apr-2015,outpatient,25932,6,University of Limerick Hospital Group
+rpt02a,2,Outpatient by Group,29-Apr-2015,outpatient,24990,7,Children's Hospital Group
