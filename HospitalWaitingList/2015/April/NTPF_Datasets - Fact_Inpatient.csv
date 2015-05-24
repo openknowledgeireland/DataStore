@@ -1,0 +1,1651 @@
+hid,specialty,hospital,hgroup,dm_wait,patients,wait,rptid,status_date
+1,Small Volume Specialities,Bantry General Hospital,South/South West Hospital Group,A,1,All Waiting,rpt01,29/04/2015
+2,Cardiology,Beaumont Hospital,RCSI Hospitals Group,A,424,All Waiting,rpt01,29/04/2015
+2,Clinical Immunology,Beaumont Hospital,RCSI Hospitals Group,A,55,All Waiting,rpt01,29/04/2015
+2,Dermatology,Beaumont Hospital,RCSI Hospitals Group,A,127,All Waiting,rpt01,29/04/2015
+2,Endocrinology,Beaumont Hospital,RCSI Hospitals Group,A,5,All Waiting,rpt01,29/04/2015
+2,Gastro-Enterology,Beaumont Hospital,RCSI Hospitals Group,A,52,All Waiting,rpt01,29/04/2015
+2,General Surgery,Beaumont Hospital,RCSI Hospitals Group,A,1020,All Waiting,rpt01,29/04/2015
+2,Gynaecology,Beaumont Hospital,RCSI Hospitals Group,A,197,All Waiting,rpt01,29/04/2015
+2,Nephrology,Beaumont Hospital,RCSI Hospitals Group,A,25,All Waiting,rpt01,29/04/2015
+2,Neurology,Beaumont Hospital,RCSI Hospitals Group,A,54,All Waiting,rpt01,29/04/2015
+2,Neurosurgery,Beaumont Hospital,RCSI Hospitals Group,A,623,All Waiting,rpt01,29/04/2015
+2,Orthopaedics,Beaumont Hospital,RCSI Hospitals Group,A,359,All Waiting,rpt01,29/04/2015
+2,Otolaryngology (ENT),Beaumont Hospital,RCSI Hospitals Group,A,706,All Waiting,rpt01,29/04/2015
+2,Pain Relief,Beaumont Hospital,RCSI Hospitals Group,A,409,All Waiting,rpt01,29/04/2015
+2,Plastic Surgery,Beaumont Hospital,RCSI Hospitals Group,A,721,All Waiting,rpt01,29/04/2015
+2,Respiratory Medicine,Beaumont Hospital,RCSI Hospitals Group,A,6,All Waiting,rpt01,29/04/2015
+2,Urology,Beaumont Hospital,RCSI Hospitals Group,A,840,All Waiting,rpt01,29/04/2015
+2,Vascular Surgery,Beaumont Hospital,RCSI Hospitals Group,A,399,All Waiting,rpt01,29/04/2015
+2,Small Volume Specialities,Beaumont Hospital,RCSI Hospitals Group,A,3,All Waiting,rpt01,29/04/2015
+3,Orthopaedics,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,A,2679,All Waiting,rpt01,29/04/2015
+3,Small Volume Specialities,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,A,1,All Waiting,rpt01,29/04/2015
+4,General Medicine,Cavan General Hospital,RCSI Hospitals Group,A,10,All Waiting,rpt01,29/04/2015
+4,General Surgery,Cavan General Hospital,RCSI Hospitals Group,A,284,All Waiting,rpt01,29/04/2015
+4,Gynaecology,Cavan General Hospital,RCSI Hospitals Group,A,129,All Waiting,rpt01,29/04/2015
+4,Otolaryngology (ENT),Cavan General Hospital,RCSI Hospitals Group,A,238,All Waiting,rpt01,29/04/2015
+4,Small Volume Specialities,Cavan General Hospital,RCSI Hospitals Group,A,5,All Waiting,rpt01,29/04/2015
+5,Dental Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,A,23,All Waiting,rpt01,29/04/2015
+5,Ophthalmology,Childrens University Hospital Temple Street,Children's Hospital Group,A,11,All Waiting,rpt01,29/04/2015
+5,Orthopaedics,Childrens University Hospital Temple Street,Children's Hospital Group,A,251,All Waiting,rpt01,29/04/2015
+5,Otolaryngology (ENT),Childrens University Hospital Temple Street,Children's Hospital Group,A,141,All Waiting,rpt01,29/04/2015
+5,Paediatric Respiratory Medicine,Childrens University Hospital Temple Street,Children's Hospital Group,A,63,All Waiting,rpt01,29/04/2015
+5,Paediatric Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,A,16,All Waiting,rpt01,29/04/2015
+5,Paediatrics,Childrens University Hospital Temple Street,Children's Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+5,Plastic Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,A,58,All Waiting,rpt01,29/04/2015
+5,Urology,Childrens University Hospital Temple Street,Children's Hospital Group,A,13,All Waiting,rpt01,29/04/2015
+5,Small Volume Specialities,Childrens University Hospital Temple Street,Children's Hospital Group,A,17,All Waiting,rpt01,29/04/2015
+6,Cardiology,Connolly Hospital,RCSI Hospitals Group,A,140,All Waiting,rpt01,29/04/2015
+6,Dermatology,Connolly Hospital,RCSI Hospitals Group,A,23,All Waiting,rpt01,29/04/2015
+6,General Surgery,Connolly Hospital,RCSI Hospitals Group,A,320,All Waiting,rpt01,29/04/2015
+6,Geriatric Medicine,Connolly Hospital,RCSI Hospitals Group,A,7,All Waiting,rpt01,29/04/2015
+6,Orthopaedics,Connolly Hospital,RCSI Hospitals Group,A,22,All Waiting,rpt01,29/04/2015
+6,Plastic Surgery,Connolly Hospital,RCSI Hospitals Group,A,32,All Waiting,rpt01,29/04/2015
+6,Respiratory Medicine,Connolly Hospital,RCSI Hospitals Group,A,219,All Waiting,rpt01,29/04/2015
+6,Urology,Connolly Hospital,RCSI Hospitals Group,A,187,All Waiting,rpt01,29/04/2015
+6,Small Volume Specialities,Connolly Hospital,RCSI Hospitals Group,A,8,All Waiting,rpt01,29/04/2015
+7,Breast Surgery,Cork University Hospital,South/South West Hospital Group,A,28,All Waiting,rpt01,29/04/2015
+7,Cardiology,Cork University Hospital,South/South West Hospital Group,A,51,All Waiting,rpt01,29/04/2015
+7,Cardio-Thoracic Surgery,Cork University Hospital,South/South West Hospital Group,A,37,All Waiting,rpt01,29/04/2015
+7,General Surgery,Cork University Hospital,South/South West Hospital Group,A,217,All Waiting,rpt01,29/04/2015
+7,Gynaecology,Cork University Hospital,South/South West Hospital Group,A,502,All Waiting,rpt01,29/04/2015
+7,Neurology,Cork University Hospital,South/South West Hospital Group,A,12,All Waiting,rpt01,29/04/2015
+7,Neurosurgery,Cork University Hospital,South/South West Hospital Group,A,34,All Waiting,rpt01,29/04/2015
+7,Plastic Surgery,Cork University Hospital,South/South West Hospital Group,A,111,All Waiting,rpt01,29/04/2015
+7,Respiratory Medicine,Cork University Hospital,South/South West Hospital Group,A,10,All Waiting,rpt01,29/04/2015
+7,Urology,Cork University Hospital,South/South West Hospital Group,A,187,All Waiting,rpt01,29/04/2015
+7,Vascular Surgery,Cork University Hospital,South/South West Hospital Group,A,148,All Waiting,rpt01,29/04/2015
+7,Small Volume Specialities,Cork University Hospital,South/South West Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+23,Anaesthetics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,A,44,All Waiting,rpt01,29/04/2015
+23,Orthopaedics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,A,109,All Waiting,rpt01,29/04/2015
+23,Rheumatology,Croom Orthopaedic Hospital,University of Limerick Hospital Group,A,9,All Waiting,rpt01,29/04/2015
+21,General Surgery,Ennis Hospital,University of Limerick Hospital Group,A,79,All Waiting,rpt01,29/04/2015
+21,Plastic Surgery,Ennis Hospital,University of Limerick Hospital Group,A,13,All Waiting,rpt01,29/04/2015
+21,Urology,Ennis Hospital,University of Limerick Hospital Group,A,422,All Waiting,rpt01,29/04/2015
+21,Vascular Surgery,Ennis Hospital,University of Limerick Hospital Group,A,41,All Waiting,rpt01,29/04/2015
+21,Small Volume Specialities,Ennis Hospital,University of Limerick Hospital Group,A,1,All Waiting,rpt01,29/04/2015
+8,Cardiology,Galway University Hospital,Saolta University Health Care Group,A,1056,All Waiting,rpt01,29/04/2015
+8,Cardio-Thoracic Surgery,Galway University Hospital,Saolta University Health Care Group,A,68,All Waiting,rpt01,29/04/2015
+8,Dermatology,Galway University Hospital,Saolta University Health Care Group,A,10,All Waiting,rpt01,29/04/2015
+8,Endocrinology,Galway University Hospital,Saolta University Health Care Group,A,27,All Waiting,rpt01,29/04/2015
+8,Gastro-Enterology,Galway University Hospital,Saolta University Health Care Group,A,5,All Waiting,rpt01,29/04/2015
+8,General Medicine,Galway University Hospital,Saolta University Health Care Group,A,115,All Waiting,rpt01,29/04/2015
+8,General Surgery,Galway University Hospital,Saolta University Health Care Group,A,948,All Waiting,rpt01,29/04/2015
+8,Gynaecology,Galway University Hospital,Saolta University Health Care Group,A,233,All Waiting,rpt01,29/04/2015
+8,Neurology,Galway University Hospital,Saolta University Health Care Group,A,80,All Waiting,rpt01,29/04/2015
+8,Ophthalmology,Galway University Hospital,Saolta University Health Care Group,A,1495,All Waiting,rpt01,29/04/2015
+8,Oral Surgery,Galway University Hospital,Saolta University Health Care Group,A,866,All Waiting,rpt01,29/04/2015
+8,Orthopaedics,Galway University Hospital,Saolta University Health Care Group,A,782,All Waiting,rpt01,29/04/2015
+8,Otolaryngology (ENT),Galway University Hospital,Saolta University Health Care Group,A,802,All Waiting,rpt01,29/04/2015
+8,Pain Relief,Galway University Hospital,Saolta University Health Care Group,A,358,All Waiting,rpt01,29/04/2015
+8,Plastic Surgery,Galway University Hospital,Saolta University Health Care Group,A,1127,All Waiting,rpt01,29/04/2015
+8,Respiratory Medicine,Galway University Hospital,Saolta University Health Care Group,A,182,All Waiting,rpt01,29/04/2015
+8,Urology,Galway University Hospital,Saolta University Health Care Group,A,1205,All Waiting,rpt01,29/04/2015
+8,Vascular Surgery,Galway University Hospital,Saolta University Health Care Group,A,401,All Waiting,rpt01,29/04/2015
+8,Small Volume Specialities,Galway University Hospital,Saolta University Health Care Group,A,6,All Waiting,rpt01,29/04/2015
+9,General Surgery,Kerry General Hospital,South/South West Hospital Group,A,46,All Waiting,rpt01,29/04/2015
+9,Gynaecology,Kerry General Hospital,South/South West Hospital Group,A,8,All Waiting,rpt01,29/04/2015
+9,Orthopaedics,Kerry General Hospital,South/South West Hospital Group,A,114,All Waiting,rpt01,29/04/2015
+9,Otolaryngology (ENT),Kerry General Hospital,South/South West Hospital Group,A,25,All Waiting,rpt01,29/04/2015
+9,Small Volume Specialities,Kerry General Hospital,South/South West Hospital Group,A,2,All Waiting,rpt01,29/04/2015
+10,Cardiology,Letterkenny General Hospital,Saolta University Health Care Group,A,52,All Waiting,rpt01,29/04/2015
+10,General Medicine,Letterkenny General Hospital,Saolta University Health Care Group,A,101,All Waiting,rpt01,29/04/2015
+10,General Surgery,Letterkenny General Hospital,Saolta University Health Care Group,A,894,All Waiting,rpt01,29/04/2015
+10,Gynaecology,Letterkenny General Hospital,Saolta University Health Care Group,A,365,All Waiting,rpt01,29/04/2015
+10,Ophthalmology,Letterkenny General Hospital,Saolta University Health Care Group,A,36,All Waiting,rpt01,29/04/2015
+10,Orthopaedics,Letterkenny General Hospital,Saolta University Health Care Group,A,372,All Waiting,rpt01,29/04/2015
+10,Urology,Letterkenny General Hospital,Saolta University Health Care Group,A,205,All Waiting,rpt01,29/04/2015
+10,Vascular Surgery,Letterkenny General Hospital,Saolta University Health Care Group,A,14,All Waiting,rpt01,29/04/2015
+10,Small Volume Specialities,Letterkenny General Hospital,Saolta University Health Care Group,A,4,All Waiting,rpt01,29/04/2015
+11,Orthopaedics,Lourdes Orthopaedic Hospital Kilcreene,South/South West Hospital Group,A,307,All Waiting,rpt01,29/04/2015
+12,General Surgery,Louth County Hospital,RCSI Hospitals Group,A,141,All Waiting,rpt01,29/04/2015
+12,Geriatric Medicine,Louth County Hospital,RCSI Hospitals Group,A,148,All Waiting,rpt01,29/04/2015
+12,Gynaecology,Louth County Hospital,RCSI Hospitals Group,A,58,All Waiting,rpt01,29/04/2015
+12,Ophthalmology,Louth County Hospital,RCSI Hospitals Group,A,111,All Waiting,rpt01,29/04/2015
+12,Urology,Louth County Hospital,RCSI Hospitals Group,A,106,All Waiting,rpt01,29/04/2015
+13,General Surgery,Mallow General Hospital,South/South West Hospital Group,A,9,All Waiting,rpt01,29/04/2015
+13,Vascular Surgery,Mallow General Hospital,South/South West Hospital Group,A,7,All Waiting,rpt01,29/04/2015
+13,Small Volume Specialities,Mallow General Hospital,South/South West Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+14,Cardiology,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,1199,All Waiting,rpt01,29/04/2015
+14,Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,112,All Waiting,rpt01,29/04/2015
+14,Dental Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,30,All Waiting,rpt01,29/04/2015
+14,Gastro-Intestinal Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,375,All Waiting,rpt01,29/04/2015
+14,General Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,289,All Waiting,rpt01,29/04/2015
+14,Gynaecology,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,112,All Waiting,rpt01,29/04/2015
+14,Ophthalmology,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,1769,All Waiting,rpt01,29/04/2015
+14,Orthopaedics,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,248,All Waiting,rpt01,29/04/2015
+14,Otolaryngology (ENT),Mater Misericordiae University Hospital,Ireland East Hospital Group,A,168,All Waiting,rpt01,29/04/2015
+14,Pain Relief,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,314,All Waiting,rpt01,29/04/2015
+14,Plastic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,177,All Waiting,rpt01,29/04/2015
+14,Respiratory Medicine,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,8,All Waiting,rpt01,29/04/2015
+14,Rheumatology,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,7,All Waiting,rpt01,29/04/2015
+14,Urology,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,755,All Waiting,rpt01,29/04/2015
+14,Vascular Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,203,All Waiting,rpt01,29/04/2015
+14,Small Volume Specialities,Mater Misericordiae University Hospital,Ireland East Hospital Group,A,2,All Waiting,rpt01,29/04/2015
+15,Gynaecology,Mayo General Hospital,Saolta University Health Care Group,A,339,All Waiting,rpt01,29/04/2015
+15,Orthopaedics,Mayo General Hospital,Saolta University Health Care Group,A,677,All Waiting,rpt01,29/04/2015
+15,Small Volume Specialities,Mayo General Hospital,Saolta University Health Care Group,A,1,All Waiting,rpt01,29/04/2015
+16,Cardiology,Mercy University Hospital,South/South West Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+16,Gastro-Enterology,Mercy University Hospital,South/South West Hospital Group,A,10,All Waiting,rpt01,29/04/2015
+16,Gastro-Intestinal Surgery,Mercy University Hospital,South/South West Hospital Group,A,55,All Waiting,rpt01,29/04/2015
+16,General Surgery,Mercy University Hospital,South/South West Hospital Group,A,199,All Waiting,rpt01,29/04/2015
+16,Hepato-Biliary Surgery,Mercy University Hospital,South/South West Hospital Group,A,115,All Waiting,rpt01,29/04/2015
+16,Ophthalmology,Mercy University Hospital,South/South West Hospital Group,A,9,All Waiting,rpt01,29/04/2015
+16,Pain Relief,Mercy University Hospital,South/South West Hospital Group,A,447,All Waiting,rpt01,29/04/2015
+16,Respiratory Medicine,Mercy University Hospital,South/South West Hospital Group,A,45,All Waiting,rpt01,29/04/2015
+16,Urology,Mercy University Hospital,South/South West Hospital Group,A,278,All Waiting,rpt01,29/04/2015
+16,Vascular Surgery,Mercy University Hospital,South/South West Hospital Group,A,157,All Waiting,rpt01,29/04/2015
+16,Small Volume Specialities,Mercy University Hospital,South/South West Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+17,General Surgery,Midland Regional Hospital Mullingar,Ireland East Hospital Group,A,100,All Waiting,rpt01,29/04/2015
+17,Gynaecology,Midland Regional Hospital Mullingar,Ireland East Hospital Group,A,153,All Waiting,rpt01,29/04/2015
+18,General Surgery,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,A,56,All Waiting,rpt01,29/04/2015
+18,Gynaecology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,A,81,All Waiting,rpt01,29/04/2015
+18,Pain Relief,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+18,Urology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,A,55,All Waiting,rpt01,29/04/2015
+18,Small Volume Specialities,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,A,1,All Waiting,rpt01,29/04/2015
+19,Anaesthetics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,A,6,All Waiting,rpt01,29/04/2015
+19,Cardiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,A,96,All Waiting,rpt01,29/04/2015
+19,General Surgery,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,A,98,All Waiting,rpt01,29/04/2015
+19,Orthopaedics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,A,868,All Waiting,rpt01,29/04/2015
+19,Otolaryngology (ENT),Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,A,1136,All Waiting,rpt01,29/04/2015
+19,Radiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,A,9,All Waiting,rpt01,29/04/2015
+19,Small Volume Specialities,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,A,4,All Waiting,rpt01,29/04/2015
+24,General Surgery,Naas General Hospital,Dublin Midlands Hospital Group,A,77,All Waiting,rpt01,29/04/2015
+24,Small Volume Specialities,Naas General Hospital,Dublin Midlands Hospital Group,A,1,All Waiting,rpt01,29/04/2015
+22,Dermatology,Nenagh Hospital,University of Limerick Hospital Group,A,11,All Waiting,rpt01,29/04/2015
+22,General Surgery,Nenagh Hospital,University of Limerick Hospital Group,A,557,All Waiting,rpt01,29/04/2015
+22,Maxillo-Facial,Nenagh Hospital,University of Limerick Hospital Group,A,22,All Waiting,rpt01,29/04/2015
+22,Orthopaedics,Nenagh Hospital,University of Limerick Hospital Group,A,12,All Waiting,rpt01,29/04/2015
+22,Urology,Nenagh Hospital,University of Limerick Hospital Group,A,31,All Waiting,rpt01,29/04/2015
+22,Vascular Surgery,Nenagh Hospital,University of Limerick Hospital Group,A,37,All Waiting,rpt01,29/04/2015
+22,Small Volume Specialities,Nenagh Hospital,University of Limerick Hospital Group,A,2,All Waiting,rpt01,29/04/2015
+25,General Medicine,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,A,6,All Waiting,rpt01,29/04/2015
+25,General Surgery,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,A,311,All Waiting,rpt01,29/04/2015
+25,Gynaecology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,A,142,All Waiting,rpt01,29/04/2015
+25,Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,A,514,All Waiting,rpt01,29/04/2015
+25,Urology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,A,267,All Waiting,rpt01,29/04/2015
+25,Small Volume Specialities,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,A,2,All Waiting,rpt01,29/04/2015
+26,Cardio-Thoracic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,45,All Waiting,rpt01,29/04/2015
+26,Dental Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,152,All Waiting,rpt01,29/04/2015
+26,Dermatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,7,All Waiting,rpt01,29/04/2015
+26,General Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+26,General Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,113,All Waiting,rpt01,29/04/2015
+26,Maxillo-Facial,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,26,All Waiting,rpt01,29/04/2015
+26,Ophthalmology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,201,All Waiting,rpt01,29/04/2015
+26,Orthopaedics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,498,All Waiting,rpt01,29/04/2015
+26,Otolaryngology (ENT),Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,346,All Waiting,rpt01,29/04/2015
+26,Paed Cardiology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,237,All Waiting,rpt01,29/04/2015
+26,Paediatrics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,171,All Waiting,rpt01,29/04/2015
+26,Plastic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,123,All Waiting,rpt01,29/04/2015
+26,Respiratory Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,333,All Waiting,rpt01,29/04/2015
+26,Rheumatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,28,All Waiting,rpt01,29/04/2015
+26,Small Volume Specialities,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,A,15,All Waiting,rpt01,29/04/2015
+27,Orthopaedics,Our Lady's Hospital Navan,Ireland East Hospital Group,A,358,All Waiting,rpt01,29/04/2015
+27,Small Volume Specialities,Our Lady's Hospital Navan,Ireland East Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+29,General Surgery,Roscommon County Hospital,Saolta University Health Care Group,A,39,All Waiting,rpt01,29/04/2015
+29,Plastic Surgery,Roscommon County Hospital,Saolta University Health Care Group,A,480,All Waiting,rpt01,29/04/2015
+29,Vascular Surgery,Roscommon County Hospital,Saolta University Health Care Group,A,9,All Waiting,rpt01,29/04/2015
+30,Ophthalmology,Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,A,1786,All Waiting,rpt01,29/04/2015
+30,Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,A,344,All Waiting,rpt01,29/04/2015
+32,Dermatology,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,21,All Waiting,rpt01,29/04/2015
+32,Endocrinology,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,6,All Waiting,rpt01,29/04/2015
+32,General Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,86,All Waiting,rpt01,29/04/2015
+32,Gynaecology,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,35,All Waiting,rpt01,29/04/2015
+32,Ophthalmology,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,919,All Waiting,rpt01,29/04/2015
+32,Orthopaedics,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,185,All Waiting,rpt01,29/04/2015
+32,Otolaryngology (ENT),South Infirmary Victoria University Hospital,South/South West Hospital Group,A,218,All Waiting,rpt01,29/04/2015
+32,Pain Relief,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,49,All Waiting,rpt01,29/04/2015
+32,Plastic Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,190,All Waiting,rpt01,29/04/2015
+32,Small Volume Specialities,South Infirmary Victoria University Hospital,South/South West Hospital Group,A,6,All Waiting,rpt01,29/04/2015
+33,General Medicine,South Tipperary General Hospital,South/South West Hospital Group,A,6,All Waiting,rpt01,29/04/2015
+33,General Surgery,South Tipperary General Hospital,South/South West Hospital Group,A,142,All Waiting,rpt01,29/04/2015
+33,Gynaecology,South Tipperary General Hospital,South/South West Hospital Group,A,28,All Waiting,rpt01,29/04/2015
+33,Small Volume Specialities,South Tipperary General Hospital,South/South West Hospital Group,A,2,All Waiting,rpt01,29/04/2015
+34,General Surgery,St. Columcille's Hospital,Ireland East Hospital Group,A,44,All Waiting,rpt01,29/04/2015
+34,Urology,St. Columcille's Hospital,Ireland East Hospital Group,A,8,All Waiting,rpt01,29/04/2015
+34,Small Volume Specialities,St. Columcille's Hospital,Ireland East Hospital Group,A,4,All Waiting,rpt01,29/04/2015
+35,Cardiology,St. James's Hospital,Dublin Midlands Hospital Group,A,174,All Waiting,rpt01,29/04/2015
+35,Cardio-Thoracic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,A,170,All Waiting,rpt01,29/04/2015
+35,Dermatology,St. James's Hospital,Dublin Midlands Hospital Group,A,97,All Waiting,rpt01,29/04/2015
+35,General Surgery,St. James's Hospital,Dublin Midlands Hospital Group,A,778,All Waiting,rpt01,29/04/2015
+35,Geriatric Medicine,St. James's Hospital,Dublin Midlands Hospital Group,A,41,All Waiting,rpt01,29/04/2015
+35,Gynaecology,St. James's Hospital,Dublin Midlands Hospital Group,A,95,All Waiting,rpt01,29/04/2015
+35,Maxillo-Facial,St. James's Hospital,Dublin Midlands Hospital Group,A,618,All Waiting,rpt01,29/04/2015
+35,Orthopaedics,St. James's Hospital,Dublin Midlands Hospital Group,A,413,All Waiting,rpt01,29/04/2015
+35,Otolaryngology (ENT),St. James's Hospital,Dublin Midlands Hospital Group,A,341,All Waiting,rpt01,29/04/2015
+35,Pain Relief,St. James's Hospital,Dublin Midlands Hospital Group,A,383,All Waiting,rpt01,29/04/2015
+35,Plastic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,A,780,All Waiting,rpt01,29/04/2015
+35,Respiratory Medicine,St. James's Hospital,Dublin Midlands Hospital Group,A,10,All Waiting,rpt01,29/04/2015
+35,Urology,St. James's Hospital,Dublin Midlands Hospital Group,A,489,All Waiting,rpt01,29/04/2015
+35,Vascular Surgery,St. James's Hospital,Dublin Midlands Hospital Group,A,844,All Waiting,rpt01,29/04/2015
+35,Small Volume Specialities,St. James's Hospital,Dublin Midlands Hospital Group,A,7,All Waiting,rpt01,29/04/2015
+36,Anaesthetics,St. John's Hospital Limerick,University of Limerick Hospital Group,A,281,All Waiting,rpt01,29/04/2015
+36,General Medicine,St. John's Hospital Limerick,University of Limerick Hospital Group,A,11,All Waiting,rpt01,29/04/2015
+36,General Surgery,St. John's Hospital Limerick,University of Limerick Hospital Group,A,475,All Waiting,rpt01,29/04/2015
+36,Gynaecology,St. John's Hospital Limerick,University of Limerick Hospital Group,A,28,All Waiting,rpt01,29/04/2015
+36,Urology,St. John's Hospital Limerick,University of Limerick Hospital Group,A,85,All Waiting,rpt01,29/04/2015
+36,Small Volume Specialities,St. John's Hospital Limerick,University of Limerick Hospital Group,A,1,All Waiting,rpt01,29/04/2015
+37,General Surgery,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,A,351,All Waiting,rpt01,29/04/2015
+37,Gynaecology,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,A,404,All Waiting,rpt01,29/04/2015
+37,Small Volume Specialities,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,A,4,All Waiting,rpt01,29/04/2015
+39,Anaesthetics,Tallaght Hospital,Dublin Midlands Hospital Group,A,15,All Waiting,rpt01,29/04/2015
+39,Cardiology,Tallaght Hospital,Dublin Midlands Hospital Group,A,64,All Waiting,rpt01,29/04/2015
+39,Dental Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,A,6,All Waiting,rpt01,29/04/2015
+39,Dermatology,Tallaght Hospital,Dublin Midlands Hospital Group,A,25,All Waiting,rpt01,29/04/2015
+39,Gastro-Enterology,Tallaght Hospital,Dublin Midlands Hospital Group,A,712,All Waiting,rpt01,29/04/2015
+39,General Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+39,General Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,A,712,All Waiting,rpt01,29/04/2015
+39,Gynaecology,Tallaght Hospital,Dublin Midlands Hospital Group,A,21,All Waiting,rpt01,29/04/2015
+39,Haematology,Tallaght Hospital,Dublin Midlands Hospital Group,A,19,All Waiting,rpt01,29/04/2015
+39,Neurology,Tallaght Hospital,Dublin Midlands Hospital Group,A,14,All Waiting,rpt01,29/04/2015
+39,Orthopaedics,Tallaght Hospital,Dublin Midlands Hospital Group,A,1043,All Waiting,rpt01,29/04/2015
+39,Otolaryngology (ENT),Tallaght Hospital,Dublin Midlands Hospital Group,A,154,All Waiting,rpt01,29/04/2015
+39,Paed Orthopaedic,Tallaght Hospital,Dublin Midlands Hospital Group,A,25,All Waiting,rpt01,29/04/2015
+39,Paediatric ENT,Tallaght Hospital,Dublin Midlands Hospital Group,A,128,All Waiting,rpt01,29/04/2015
+39,Paediatric Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,A,121,All Waiting,rpt01,29/04/2015
+39,Paediatric Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,A,11,All Waiting,rpt01,29/04/2015
+39,Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,A,138,All Waiting,rpt01,29/04/2015
+39,Rheumatology,Tallaght Hospital,Dublin Midlands Hospital Group,A,18,All Waiting,rpt01,29/04/2015
+39,Urology,Tallaght Hospital,Dublin Midlands Hospital Group,A,220,All Waiting,rpt01,29/04/2015
+39,Vascular Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,A,139,All Waiting,rpt01,29/04/2015
+39,Small Volume Specialities,Tallaght Hospital,Dublin Midlands Hospital Group,A,8,All Waiting,rpt01,29/04/2015
+42,Cardiology,University Hospital Limerick,University of Limerick Hospital Group,A,102,All Waiting,rpt01,29/04/2015
+42,Dental Surgery,University Hospital Limerick,University of Limerick Hospital Group,A,31,All Waiting,rpt01,29/04/2015
+42,Gastro-Intestinal Surgery,University Hospital Limerick,University of Limerick Hospital Group,A,8,All Waiting,rpt01,29/04/2015
+42,General Medicine,University Hospital Limerick,University of Limerick Hospital Group,A,7,All Waiting,rpt01,29/04/2015
+42,General Surgery,University Hospital Limerick,University of Limerick Hospital Group,A,66,All Waiting,rpt01,29/04/2015
+42,Gynaecology,University Hospital Limerick,University of Limerick Hospital Group,A,93,All Waiting,rpt01,29/04/2015
+42,Maxillo-Facial,University Hospital Limerick,University of Limerick Hospital Group,A,230,All Waiting,rpt01,29/04/2015
+42,Ophthalmology,University Hospital Limerick,University of Limerick Hospital Group,A,1044,All Waiting,rpt01,29/04/2015
+42,Otolaryngology (ENT),University Hospital Limerick,University of Limerick Hospital Group,A,316,All Waiting,rpt01,29/04/2015
+42,Urology,University Hospital Limerick,University of Limerick Hospital Group,A,134,All Waiting,rpt01,29/04/2015
+42,Vascular Surgery,University Hospital Limerick,University of Limerick Hospital Group,A,7,All Waiting,rpt01,29/04/2015
+40,Breast Surgery,University Hospital Waterford,South/South West Hospital Group,A,18,All Waiting,rpt01,29/04/2015
+40,Gastro-Enterology,University Hospital Waterford,South/South West Hospital Group,A,25,All Waiting,rpt01,29/04/2015
+40,Gastro-Intestinal Surgery,University Hospital Waterford,South/South West Hospital Group,A,34,All Waiting,rpt01,29/04/2015
+40,General Surgery,University Hospital Waterford,South/South West Hospital Group,A,226,All Waiting,rpt01,29/04/2015
+40,Gynaecology,University Hospital Waterford,South/South West Hospital Group,A,52,All Waiting,rpt01,29/04/2015
+40,Ophthalmology,University Hospital Waterford,South/South West Hospital Group,A,2849,All Waiting,rpt01,29/04/2015
+40,Orthopaedics,University Hospital Waterford,South/South West Hospital Group,A,105,All Waiting,rpt01,29/04/2015
+40,Otolaryngology (ENT),University Hospital Waterford,South/South West Hospital Group,A,508,All Waiting,rpt01,29/04/2015
+40,Pain Relief,University Hospital Waterford,South/South West Hospital Group,A,140,All Waiting,rpt01,29/04/2015
+40,Urology,University Hospital Waterford,South/South West Hospital Group,A,18,All Waiting,rpt01,29/04/2015
+40,Vascular Surgery,University Hospital Waterford,South/South West Hospital Group,A,110,All Waiting,rpt01,29/04/2015
+40,Small Volume Specialities,University Hospital Waterford,South/South West Hospital Group,A,2,All Waiting,rpt01,29/04/2015
+41,General Surgery,Wexford General Hospital,Ireland East Hospital Group,A,304,All Waiting,rpt01,29/04/2015
+41,Small Volume Specialities,Wexford General Hospital,Ireland East Hospital Group,A,5,All Waiting,rpt01,29/04/2015
+1,Small Volume Specialities,Bantry General Hospital,South/South West Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+2,Cardiology,Beaumont Hospital,RCSI Hospitals Group,B,237,0 to 3,rpt01,29/04/2015
+2,Clinical Immunology,Beaumont Hospital,RCSI Hospitals Group,B,34,0 to 3,rpt01,29/04/2015
+2,Dermatology,Beaumont Hospital,RCSI Hospitals Group,B,37,0 to 3,rpt01,29/04/2015
+2,Endocrinology,Beaumont Hospital,RCSI Hospitals Group,B,5,0 to 3,rpt01,29/04/2015
+2,Gastro-Enterology,Beaumont Hospital,RCSI Hospitals Group,B,13,0 to 3,rpt01,29/04/2015
+2,General Surgery,Beaumont Hospital,RCSI Hospitals Group,B,298,0 to 3,rpt01,29/04/2015
+2,Gynaecology,Beaumont Hospital,RCSI Hospitals Group,B,31,0 to 3,rpt01,29/04/2015
+2,Nephrology,Beaumont Hospital,RCSI Hospitals Group,B,21,0 to 3,rpt01,29/04/2015
+2,Neurology,Beaumont Hospital,RCSI Hospitals Group,B,20,0 to 3,rpt01,29/04/2015
+2,Neurosurgery,Beaumont Hospital,RCSI Hospitals Group,B,162,0 to 3,rpt01,29/04/2015
+2,Orthopaedics,Beaumont Hospital,RCSI Hospitals Group,B,48,0 to 3,rpt01,29/04/2015
+2,Otolaryngology (ENT),Beaumont Hospital,RCSI Hospitals Group,B,184,0 to 3,rpt01,29/04/2015
+2,Pain Relief,Beaumont Hospital,RCSI Hospitals Group,B,118,0 to 3,rpt01,29/04/2015
+2,Plastic Surgery,Beaumont Hospital,RCSI Hospitals Group,B,215,0 to 3,rpt01,29/04/2015
+2,Respiratory Medicine,Beaumont Hospital,RCSI Hospitals Group,B,3,0 to 3,rpt01,29/04/2015
+2,Urology,Beaumont Hospital,RCSI Hospitals Group,B,386,0 to 3,rpt01,29/04/2015
+2,Vascular Surgery,Beaumont Hospital,RCSI Hospitals Group,B,102,0 to 3,rpt01,29/04/2015
+2,Small Volume Specialities,Beaumont Hospital,RCSI Hospitals Group,B,1,0 to 3,rpt01,29/04/2015
+3,Orthopaedics,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,B,731,0 to 3,rpt01,29/04/2015
+3,Small Volume Specialities,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+4,General Medicine,Cavan General Hospital,RCSI Hospitals Group,B,10,0 to 3,rpt01,29/04/2015
+4,General Surgery,Cavan General Hospital,RCSI Hospitals Group,B,250,0 to 3,rpt01,29/04/2015
+4,Gynaecology,Cavan General Hospital,RCSI Hospitals Group,B,102,0 to 3,rpt01,29/04/2015
+4,Otolaryngology (ENT),Cavan General Hospital,RCSI Hospitals Group,B,42,0 to 3,rpt01,29/04/2015
+4,Small Volume Specialities,Cavan General Hospital,RCSI Hospitals Group,B,4,0 to 3,rpt01,29/04/2015
+5,Dental Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,B,10,0 to 3,rpt01,29/04/2015
+5,Ophthalmology,Childrens University Hospital Temple Street,Children's Hospital Group,B,10,0 to 3,rpt01,29/04/2015
+5,Orthopaedics,Childrens University Hospital Temple Street,Children's Hospital Group,B,136,0 to 3,rpt01,29/04/2015
+5,Otolaryngology (ENT),Childrens University Hospital Temple Street,Children's Hospital Group,B,110,0 to 3,rpt01,29/04/2015
+5,Paediatric Respiratory Medicine,Childrens University Hospital Temple Street,Children's Hospital Group,B,24,0 to 3,rpt01,29/04/2015
+5,Paediatric Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,B,12,0 to 3,rpt01,29/04/2015
+5,Paediatrics,Childrens University Hospital Temple Street,Children's Hospital Group,B,5,0 to 3,rpt01,29/04/2015
+5,Plastic Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,B,48,0 to 3,rpt01,29/04/2015
+5,Urology,Childrens University Hospital Temple Street,Children's Hospital Group,B,9,0 to 3,rpt01,29/04/2015
+5,Small Volume Specialities,Childrens University Hospital Temple Street,Children's Hospital Group,B,11,0 to 3,rpt01,29/04/2015
+6,Cardiology,Connolly Hospital,RCSI Hospitals Group,B,46,0 to 3,rpt01,29/04/2015
+6,Dermatology,Connolly Hospital,RCSI Hospitals Group,B,9,0 to 3,rpt01,29/04/2015
+6,General Surgery,Connolly Hospital,RCSI Hospitals Group,B,199,0 to 3,rpt01,29/04/2015
+6,Geriatric Medicine,Connolly Hospital,RCSI Hospitals Group,B,7,0 to 3,rpt01,29/04/2015
+6,Orthopaedics,Connolly Hospital,RCSI Hospitals Group,B,11,0 to 3,rpt01,29/04/2015
+6,Plastic Surgery,Connolly Hospital,RCSI Hospitals Group,B,17,0 to 3,rpt01,29/04/2015
+6,Respiratory Medicine,Connolly Hospital,RCSI Hospitals Group,B,40,0 to 3,rpt01,29/04/2015
+6,Urology,Connolly Hospital,RCSI Hospitals Group,B,73,0 to 3,rpt01,29/04/2015
+6,Small Volume Specialities,Connolly Hospital,RCSI Hospitals Group,B,8,0 to 3,rpt01,29/04/2015
+7,Breast Surgery,Cork University Hospital,South/South West Hospital Group,B,28,0 to 3,rpt01,29/04/2015
+7,Cardiology,Cork University Hospital,South/South West Hospital Group,B,18,0 to 3,rpt01,29/04/2015
+7,Cardio-Thoracic Surgery,Cork University Hospital,South/South West Hospital Group,B,19,0 to 3,rpt01,29/04/2015
+7,General Surgery,Cork University Hospital,South/South West Hospital Group,B,99,0 to 3,rpt01,29/04/2015
+7,Gynaecology,Cork University Hospital,South/South West Hospital Group,B,118,0 to 3,rpt01,29/04/2015
+7,Neurology,Cork University Hospital,South/South West Hospital Group,B,10,0 to 3,rpt01,29/04/2015
+7,Neurosurgery,Cork University Hospital,South/South West Hospital Group,B,25,0 to 3,rpt01,29/04/2015
+7,Plastic Surgery,Cork University Hospital,South/South West Hospital Group,B,49,0 to 3,rpt01,29/04/2015
+7,Respiratory Medicine,Cork University Hospital,South/South West Hospital Group,B,4,0 to 3,rpt01,29/04/2015
+7,Urology,Cork University Hospital,South/South West Hospital Group,B,132,0 to 3,rpt01,29/04/2015
+7,Vascular Surgery,Cork University Hospital,South/South West Hospital Group,B,30,0 to 3,rpt01,29/04/2015
+7,Small Volume Specialities,Cork University Hospital,South/South West Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+23,Anaesthetics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,B,43,0 to 3,rpt01,29/04/2015
+23,Orthopaedics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,B,98,0 to 3,rpt01,29/04/2015
+23,Rheumatology,Croom Orthopaedic Hospital,University of Limerick Hospital Group,B,7,0 to 3,rpt01,29/04/2015
+21,General Surgery,Ennis Hospital,University of Limerick Hospital Group,B,66,0 to 3,rpt01,29/04/2015
+21,Plastic Surgery,Ennis Hospital,University of Limerick Hospital Group,B,13,0 to 3,rpt01,29/04/2015
+21,Urology,Ennis Hospital,University of Limerick Hospital Group,B,160,0 to 3,rpt01,29/04/2015
+21,Vascular Surgery,Ennis Hospital,University of Limerick Hospital Group,B,24,0 to 3,rpt01,29/04/2015
+21,Small Volume Specialities,Ennis Hospital,University of Limerick Hospital Group,B,0,0 to 3,rpt01,29/04/2015
+8,Cardiology,Galway University Hospital,Saolta University Health Care Group,B,368,0 to 3,rpt01,29/04/2015
+8,Cardio-Thoracic Surgery,Galway University Hospital,Saolta University Health Care Group,B,29,0 to 3,rpt01,29/04/2015
+8,Dermatology,Galway University Hospital,Saolta University Health Care Group,B,4,0 to 3,rpt01,29/04/2015
+8,Endocrinology,Galway University Hospital,Saolta University Health Care Group,B,5,0 to 3,rpt01,29/04/2015
+8,Gastro-Enterology,Galway University Hospital,Saolta University Health Care Group,B,2,0 to 3,rpt01,29/04/2015
+8,General Medicine,Galway University Hospital,Saolta University Health Care Group,B,46,0 to 3,rpt01,29/04/2015
+8,General Surgery,Galway University Hospital,Saolta University Health Care Group,B,253,0 to 3,rpt01,29/04/2015
+8,Gynaecology,Galway University Hospital,Saolta University Health Care Group,B,112,0 to 3,rpt01,29/04/2015
+8,Neurology,Galway University Hospital,Saolta University Health Care Group,B,35,0 to 3,rpt01,29/04/2015
+8,Ophthalmology,Galway University Hospital,Saolta University Health Care Group,B,347,0 to 3,rpt01,29/04/2015
+8,Oral Surgery,Galway University Hospital,Saolta University Health Care Group,B,202,0 to 3,rpt01,29/04/2015
+8,Orthopaedics,Galway University Hospital,Saolta University Health Care Group,B,340,0 to 3,rpt01,29/04/2015
+8,Otolaryngology (ENT),Galway University Hospital,Saolta University Health Care Group,B,219,0 to 3,rpt01,29/04/2015
+8,Pain Relief,Galway University Hospital,Saolta University Health Care Group,B,50,0 to 3,rpt01,29/04/2015
+8,Plastic Surgery,Galway University Hospital,Saolta University Health Care Group,B,343,0 to 3,rpt01,29/04/2015
+8,Respiratory Medicine,Galway University Hospital,Saolta University Health Care Group,B,50,0 to 3,rpt01,29/04/2015
+8,Urology,Galway University Hospital,Saolta University Health Care Group,B,477,0 to 3,rpt01,29/04/2015
+8,Vascular Surgery,Galway University Hospital,Saolta University Health Care Group,B,232,0 to 3,rpt01,29/04/2015
+8,Small Volume Specialities,Galway University Hospital,Saolta University Health Care Group,B,2,0 to 3,rpt01,29/04/2015
+9,General Surgery,Kerry General Hospital,South/South West Hospital Group,B,42,0 to 3,rpt01,29/04/2015
+9,Gynaecology,Kerry General Hospital,South/South West Hospital Group,B,8,0 to 3,rpt01,29/04/2015
+9,Orthopaedics,Kerry General Hospital,South/South West Hospital Group,B,47,0 to 3,rpt01,29/04/2015
+9,Otolaryngology (ENT),Kerry General Hospital,South/South West Hospital Group,B,16,0 to 3,rpt01,29/04/2015
+9,Small Volume Specialities,Kerry General Hospital,South/South West Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+10,Cardiology,Letterkenny General Hospital,Saolta University Health Care Group,B,42,0 to 3,rpt01,29/04/2015
+10,General Medicine,Letterkenny General Hospital,Saolta University Health Care Group,B,101,0 to 3,rpt01,29/04/2015
+10,General Surgery,Letterkenny General Hospital,Saolta University Health Care Group,B,193,0 to 3,rpt01,29/04/2015
+10,Gynaecology,Letterkenny General Hospital,Saolta University Health Care Group,B,134,0 to 3,rpt01,29/04/2015
+10,Ophthalmology,Letterkenny General Hospital,Saolta University Health Care Group,B,0,0 to 3,rpt01,29/04/2015
+10,Orthopaedics,Letterkenny General Hospital,Saolta University Health Care Group,B,169,0 to 3,rpt01,29/04/2015
+10,Urology,Letterkenny General Hospital,Saolta University Health Care Group,B,40,0 to 3,rpt01,29/04/2015
+10,Vascular Surgery,Letterkenny General Hospital,Saolta University Health Care Group,B,0,0 to 3,rpt01,29/04/2015
+10,Small Volume Specialities,Letterkenny General Hospital,Saolta University Health Care Group,B,4,0 to 3,rpt01,29/04/2015
+11,Orthopaedics,Lourdes Orthopaedic Hospital Kilcreene,South/South West Hospital Group,B,225,0 to 3,rpt01,29/04/2015
+12,General Surgery,Louth County Hospital,RCSI Hospitals Group,B,103,0 to 3,rpt01,29/04/2015
+12,Geriatric Medicine,Louth County Hospital,RCSI Hospitals Group,B,35,0 to 3,rpt01,29/04/2015
+12,Gynaecology,Louth County Hospital,RCSI Hospitals Group,B,47,0 to 3,rpt01,29/04/2015
+12,Ophthalmology,Louth County Hospital,RCSI Hospitals Group,B,60,0 to 3,rpt01,29/04/2015
+12,Urology,Louth County Hospital,RCSI Hospitals Group,B,59,0 to 3,rpt01,29/04/2015
+13,General Surgery,Mallow General Hospital,South/South West Hospital Group,B,5,0 to 3,rpt01,29/04/2015
+13,Vascular Surgery,Mallow General Hospital,South/South West Hospital Group,B,7,0 to 3,rpt01,29/04/2015
+13,Small Volume Specialities,Mallow General Hospital,South/South West Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+14,Cardiology,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,464,0 to 3,rpt01,29/04/2015
+14,Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,49,0 to 3,rpt01,29/04/2015
+14,Dental Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,3,0 to 3,rpt01,29/04/2015
+14,Gastro-Intestinal Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,95,0 to 3,rpt01,29/04/2015
+14,General Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,127,0 to 3,rpt01,29/04/2015
+14,Gynaecology,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,64,0 to 3,rpt01,29/04/2015
+14,Ophthalmology,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,377,0 to 3,rpt01,29/04/2015
+14,Orthopaedics,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,62,0 to 3,rpt01,29/04/2015
+14,Otolaryngology (ENT),Mater Misericordiae University Hospital,Ireland East Hospital Group,B,93,0 to 3,rpt01,29/04/2015
+14,Pain Relief,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,109,0 to 3,rpt01,29/04/2015
+14,Plastic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,44,0 to 3,rpt01,29/04/2015
+14,Respiratory Medicine,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,7,0 to 3,rpt01,29/04/2015
+14,Rheumatology,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+14,Urology,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,244,0 to 3,rpt01,29/04/2015
+14,Vascular Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,91,0 to 3,rpt01,29/04/2015
+14,Small Volume Specialities,Mater Misericordiae University Hospital,Ireland East Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+15,Gynaecology,Mayo General Hospital,Saolta University Health Care Group,B,223,0 to 3,rpt01,29/04/2015
+15,Orthopaedics,Mayo General Hospital,Saolta University Health Care Group,B,369,0 to 3,rpt01,29/04/2015
+15,Small Volume Specialities,Mayo General Hospital,Saolta University Health Care Group,B,1,0 to 3,rpt01,29/04/2015
+16,Cardiology,Mercy University Hospital,South/South West Hospital Group,B,5,0 to 3,rpt01,29/04/2015
+16,Gastro-Enterology,Mercy University Hospital,South/South West Hospital Group,B,10,0 to 3,rpt01,29/04/2015
+16,Gastro-Intestinal Surgery,Mercy University Hospital,South/South West Hospital Group,B,11,0 to 3,rpt01,29/04/2015
+16,General Surgery,Mercy University Hospital,South/South West Hospital Group,B,46,0 to 3,rpt01,29/04/2015
+16,Hepato-Biliary Surgery,Mercy University Hospital,South/South West Hospital Group,B,43,0 to 3,rpt01,29/04/2015
+16,Ophthalmology,Mercy University Hospital,South/South West Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+16,Pain Relief,Mercy University Hospital,South/South West Hospital Group,B,215,0 to 3,rpt01,29/04/2015
+16,Respiratory Medicine,Mercy University Hospital,South/South West Hospital Group,B,21,0 to 3,rpt01,29/04/2015
+16,Urology,Mercy University Hospital,South/South West Hospital Group,B,150,0 to 3,rpt01,29/04/2015
+16,Vascular Surgery,Mercy University Hospital,South/South West Hospital Group,B,24,0 to 3,rpt01,29/04/2015
+16,Small Volume Specialities,Mercy University Hospital,South/South West Hospital Group,B,5,0 to 3,rpt01,29/04/2015
+17,General Surgery,Midland Regional Hospital Mullingar,Ireland East Hospital Group,B,53,0 to 3,rpt01,29/04/2015
+17,Gynaecology,Midland Regional Hospital Mullingar,Ireland East Hospital Group,B,70,0 to 3,rpt01,29/04/2015
+18,General Surgery,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,B,26,0 to 3,rpt01,29/04/2015
+18,Gynaecology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,B,29,0 to 3,rpt01,29/04/2015
+18,Pain Relief,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,B,0,0 to 3,rpt01,29/04/2015
+18,Urology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,B,45,0 to 3,rpt01,29/04/2015
+18,Small Volume Specialities,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+19,Anaesthetics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+19,Cardiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,B,43,0 to 3,rpt01,29/04/2015
+19,General Surgery,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,B,71,0 to 3,rpt01,29/04/2015
+19,Orthopaedics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,B,295,0 to 3,rpt01,29/04/2015
+19,Otolaryngology (ENT),Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,B,310,0 to 3,rpt01,29/04/2015
+19,Radiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,B,9,0 to 3,rpt01,29/04/2015
+19,Small Volume Specialities,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,B,4,0 to 3,rpt01,29/04/2015
+24,General Surgery,Naas General Hospital,Dublin Midlands Hospital Group,B,56,0 to 3,rpt01,29/04/2015
+24,Small Volume Specialities,Naas General Hospital,Dublin Midlands Hospital Group,B,0,0 to 3,rpt01,29/04/2015
+22,Dermatology,Nenagh Hospital,University of Limerick Hospital Group,B,6,0 to 3,rpt01,29/04/2015
+22,General Surgery,Nenagh Hospital,University of Limerick Hospital Group,B,337,0 to 3,rpt01,29/04/2015
+22,Maxillo-Facial,Nenagh Hospital,University of Limerick Hospital Group,B,18,0 to 3,rpt01,29/04/2015
+22,Orthopaedics,Nenagh Hospital,University of Limerick Hospital Group,B,11,0 to 3,rpt01,29/04/2015
+22,Urology,Nenagh Hospital,University of Limerick Hospital Group,B,26,0 to 3,rpt01,29/04/2015
+22,Vascular Surgery,Nenagh Hospital,University of Limerick Hospital Group,B,22,0 to 3,rpt01,29/04/2015
+22,Small Volume Specialities,Nenagh Hospital,University of Limerick Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+25,General Medicine,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,B,0,0 to 3,rpt01,29/04/2015
+25,General Surgery,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,B,75,0 to 3,rpt01,29/04/2015
+25,Gynaecology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,B,57,0 to 3,rpt01,29/04/2015
+25,Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,B,87,0 to 3,rpt01,29/04/2015
+25,Urology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,B,87,0 to 3,rpt01,29/04/2015
+25,Small Volume Specialities,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,B,0,0 to 3,rpt01,29/04/2015
+26,Cardio-Thoracic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,36,0 to 3,rpt01,29/04/2015
+26,Dental Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,54,0 to 3,rpt01,29/04/2015
+26,Dermatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,5,0 to 3,rpt01,29/04/2015
+26,General Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,4,0 to 3,rpt01,29/04/2015
+26,General Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,71,0 to 3,rpt01,29/04/2015
+26,Maxillo-Facial,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,4,0 to 3,rpt01,29/04/2015
+26,Ophthalmology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,66,0 to 3,rpt01,29/04/2015
+26,Orthopaedics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,128,0 to 3,rpt01,29/04/2015
+26,Otolaryngology (ENT),Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,118,0 to 3,rpt01,29/04/2015
+26,Paed Cardiology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,94,0 to 3,rpt01,29/04/2015
+26,Paediatrics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,97,0 to 3,rpt01,29/04/2015
+26,Plastic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,47,0 to 3,rpt01,29/04/2015
+26,Respiratory Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,51,0 to 3,rpt01,29/04/2015
+26,Rheumatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,23,0 to 3,rpt01,29/04/2015
+26,Small Volume Specialities,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,B,9,0 to 3,rpt01,29/04/2015
+27,Orthopaedics,Our Lady's Hospital Navan,Ireland East Hospital Group,B,239,0 to 3,rpt01,29/04/2015
+27,Small Volume Specialities,Our Lady's Hospital Navan,Ireland East Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+29,General Surgery,Roscommon County Hospital,Saolta University Health Care Group,B,17,0 to 3,rpt01,29/04/2015
+29,Plastic Surgery,Roscommon County Hospital,Saolta University Health Care Group,B,274,0 to 3,rpt01,29/04/2015
+29,Vascular Surgery,Roscommon County Hospital,Saolta University Health Care Group,B,1,0 to 3,rpt01,29/04/2015
+30,Ophthalmology,Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,B,637,0 to 3,rpt01,29/04/2015
+30,Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,B,145,0 to 3,rpt01,29/04/2015
+32,Dermatology,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,19,0 to 3,rpt01,29/04/2015
+32,Endocrinology,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,5,0 to 3,rpt01,29/04/2015
+32,General Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,84,0 to 3,rpt01,29/04/2015
+32,Gynaecology,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,13,0 to 3,rpt01,29/04/2015
+32,Ophthalmology,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,321,0 to 3,rpt01,29/04/2015
+32,Orthopaedics,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,89,0 to 3,rpt01,29/04/2015
+32,Otolaryngology (ENT),South Infirmary Victoria University Hospital,South/South West Hospital Group,B,182,0 to 3,rpt01,29/04/2015
+32,Pain Relief,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,39,0 to 3,rpt01,29/04/2015
+32,Plastic Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,132,0 to 3,rpt01,29/04/2015
+32,Small Volume Specialities,South Infirmary Victoria University Hospital,South/South West Hospital Group,B,6,0 to 3,rpt01,29/04/2015
+33,General Medicine,South Tipperary General Hospital,South/South West Hospital Group,B,3,0 to 3,rpt01,29/04/2015
+33,General Surgery,South Tipperary General Hospital,South/South West Hospital Group,B,118,0 to 3,rpt01,29/04/2015
+33,Gynaecology,South Tipperary General Hospital,South/South West Hospital Group,B,26,0 to 3,rpt01,29/04/2015
+33,Small Volume Specialities,South Tipperary General Hospital,South/South West Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+34,General Surgery,St. Columcille's Hospital,Ireland East Hospital Group,B,40,0 to 3,rpt01,29/04/2015
+34,Urology,St. Columcille's Hospital,Ireland East Hospital Group,B,7,0 to 3,rpt01,29/04/2015
+34,Small Volume Specialities,St. Columcille's Hospital,Ireland East Hospital Group,B,3,0 to 3,rpt01,29/04/2015
+35,Cardiology,St. James's Hospital,Dublin Midlands Hospital Group,B,67,0 to 3,rpt01,29/04/2015
+35,Cardio-Thoracic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,B,37,0 to 3,rpt01,29/04/2015
+35,Dermatology,St. James's Hospital,Dublin Midlands Hospital Group,B,17,0 to 3,rpt01,29/04/2015
+35,General Surgery,St. James's Hospital,Dublin Midlands Hospital Group,B,230,0 to 3,rpt01,29/04/2015
+35,Geriatric Medicine,St. James's Hospital,Dublin Midlands Hospital Group,B,30,0 to 3,rpt01,29/04/2015
+35,Gynaecology,St. James's Hospital,Dublin Midlands Hospital Group,B,22,0 to 3,rpt01,29/04/2015
+35,Maxillo-Facial,St. James's Hospital,Dublin Midlands Hospital Group,B,56,0 to 3,rpt01,29/04/2015
+35,Orthopaedics,St. James's Hospital,Dublin Midlands Hospital Group,B,118,0 to 3,rpt01,29/04/2015
+35,Otolaryngology (ENT),St. James's Hospital,Dublin Midlands Hospital Group,B,94,0 to 3,rpt01,29/04/2015
+35,Pain Relief,St. James's Hospital,Dublin Midlands Hospital Group,B,166,0 to 3,rpt01,29/04/2015
+35,Plastic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,B,276,0 to 3,rpt01,29/04/2015
+35,Respiratory Medicine,St. James's Hospital,Dublin Midlands Hospital Group,B,3,0 to 3,rpt01,29/04/2015
+35,Urology,St. James's Hospital,Dublin Midlands Hospital Group,B,127,0 to 3,rpt01,29/04/2015
+35,Vascular Surgery,St. James's Hospital,Dublin Midlands Hospital Group,B,154,0 to 3,rpt01,29/04/2015
+35,Small Volume Specialities,St. James's Hospital,Dublin Midlands Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+36,Anaesthetics,St. John's Hospital Limerick,University of Limerick Hospital Group,B,94,0 to 3,rpt01,29/04/2015
+36,General Medicine,St. John's Hospital Limerick,University of Limerick Hospital Group,B,6,0 to 3,rpt01,29/04/2015
+36,General Surgery,St. John's Hospital Limerick,University of Limerick Hospital Group,B,278,0 to 3,rpt01,29/04/2015
+36,Gynaecology,St. John's Hospital Limerick,University of Limerick Hospital Group,B,18,0 to 3,rpt01,29/04/2015
+36,Urology,St. John's Hospital Limerick,University of Limerick Hospital Group,B,62,0 to 3,rpt01,29/04/2015
+36,Small Volume Specialities,St. John's Hospital Limerick,University of Limerick Hospital Group,B,0,0 to 3,rpt01,29/04/2015
+37,General Surgery,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,B,148,0 to 3,rpt01,29/04/2015
+37,Gynaecology,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,B,130,0 to 3,rpt01,29/04/2015
+37,Small Volume Specialities,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,B,1,0 to 3,rpt01,29/04/2015
+39,Anaesthetics,Tallaght Hospital,Dublin Midlands Hospital Group,B,12,0 to 3,rpt01,29/04/2015
+39,Cardiology,Tallaght Hospital,Dublin Midlands Hospital Group,B,47,0 to 3,rpt01,29/04/2015
+39,Dental Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,B,4,0 to 3,rpt01,29/04/2015
+39,Dermatology,Tallaght Hospital,Dublin Midlands Hospital Group,B,18,0 to 3,rpt01,29/04/2015
+39,Gastro-Enterology,Tallaght Hospital,Dublin Midlands Hospital Group,B,142,0 to 3,rpt01,29/04/2015
+39,General Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+39,General Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,B,275,0 to 3,rpt01,29/04/2015
+39,Gynaecology,Tallaght Hospital,Dublin Midlands Hospital Group,B,15,0 to 3,rpt01,29/04/2015
+39,Haematology,Tallaght Hospital,Dublin Midlands Hospital Group,B,15,0 to 3,rpt01,29/04/2015
+39,Neurology,Tallaght Hospital,Dublin Midlands Hospital Group,B,9,0 to 3,rpt01,29/04/2015
+39,Orthopaedics,Tallaght Hospital,Dublin Midlands Hospital Group,B,387,0 to 3,rpt01,29/04/2015
+39,Otolaryngology (ENT),Tallaght Hospital,Dublin Midlands Hospital Group,B,72,0 to 3,rpt01,29/04/2015
+39,Paed Orthopaedic,Tallaght Hospital,Dublin Midlands Hospital Group,B,21,0 to 3,rpt01,29/04/2015
+39,Paediatric ENT,Tallaght Hospital,Dublin Midlands Hospital Group,B,86,0 to 3,rpt01,29/04/2015
+39,Paediatric Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,B,77,0 to 3,rpt01,29/04/2015
+39,Paediatric Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,B,9,0 to 3,rpt01,29/04/2015
+39,Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,B,83,0 to 3,rpt01,29/04/2015
+39,Rheumatology,Tallaght Hospital,Dublin Midlands Hospital Group,B,10,0 to 3,rpt01,29/04/2015
+39,Urology,Tallaght Hospital,Dublin Midlands Hospital Group,B,73,0 to 3,rpt01,29/04/2015
+39,Vascular Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,B,44,0 to 3,rpt01,29/04/2015
+39,Small Volume Specialities,Tallaght Hospital,Dublin Midlands Hospital Group,B,4,0 to 3,rpt01,29/04/2015
+42,Cardiology,University Hospital Limerick,University of Limerick Hospital Group,B,86,0 to 3,rpt01,29/04/2015
+42,Dental Surgery,University Hospital Limerick,University of Limerick Hospital Group,B,27,0 to 3,rpt01,29/04/2015
+42,Gastro-Intestinal Surgery,University Hospital Limerick,University of Limerick Hospital Group,B,8,0 to 3,rpt01,29/04/2015
+42,General Medicine,University Hospital Limerick,University of Limerick Hospital Group,B,6,0 to 3,rpt01,29/04/2015
+42,General Surgery,University Hospital Limerick,University of Limerick Hospital Group,B,36,0 to 3,rpt01,29/04/2015
+42,Gynaecology,University Hospital Limerick,University of Limerick Hospital Group,B,67,0 to 3,rpt01,29/04/2015
+42,Maxillo-Facial,University Hospital Limerick,University of Limerick Hospital Group,B,146,0 to 3,rpt01,29/04/2015
+42,Ophthalmology,University Hospital Limerick,University of Limerick Hospital Group,B,433,0 to 3,rpt01,29/04/2015
+42,Otolaryngology (ENT),University Hospital Limerick,University of Limerick Hospital Group,B,113,0 to 3,rpt01,29/04/2015
+42,Urology,University Hospital Limerick,University of Limerick Hospital Group,B,62,0 to 3,rpt01,29/04/2015
+42,Vascular Surgery,University Hospital Limerick,University of Limerick Hospital Group,B,4,0 to 3,rpt01,29/04/2015
+40,Breast Surgery,University Hospital Waterford,South/South West Hospital Group,B,3,0 to 3,rpt01,29/04/2015
+40,Gastro-Enterology,University Hospital Waterford,South/South West Hospital Group,B,11,0 to 3,rpt01,29/04/2015
+40,Gastro-Intestinal Surgery,University Hospital Waterford,South/South West Hospital Group,B,27,0 to 3,rpt01,29/04/2015
+40,General Surgery,University Hospital Waterford,South/South West Hospital Group,B,111,0 to 3,rpt01,29/04/2015
+40,Gynaecology,University Hospital Waterford,South/South West Hospital Group,B,36,0 to 3,rpt01,29/04/2015
+40,Ophthalmology,University Hospital Waterford,South/South West Hospital Group,B,701,0 to 3,rpt01,29/04/2015
+40,Orthopaedics,University Hospital Waterford,South/South West Hospital Group,B,23,0 to 3,rpt01,29/04/2015
+40,Otolaryngology (ENT),University Hospital Waterford,South/South West Hospital Group,B,221,0 to 3,rpt01,29/04/2015
+40,Pain Relief,University Hospital Waterford,South/South West Hospital Group,B,37,0 to 3,rpt01,29/04/2015
+40,Urology,University Hospital Waterford,South/South West Hospital Group,B,12,0 to 3,rpt01,29/04/2015
+40,Vascular Surgery,University Hospital Waterford,South/South West Hospital Group,B,31,0 to 3,rpt01,29/04/2015
+40,Small Volume Specialities,University Hospital Waterford,South/South West Hospital Group,B,2,0 to 3,rpt01,29/04/2015
+41,General Surgery,Wexford General Hospital,Ireland East Hospital Group,B,173,0 to 3,rpt01,29/04/2015
+41,Small Volume Specialities,Wexford General Hospital,Ireland East Hospital Group,B,3,0 to 3,rpt01,29/04/2015
+1,Small Volume Specialities,Bantry General Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+2,Cardiology,Beaumont Hospital,RCSI Hospitals Group,C,142,3 to 6,rpt01,29/04/2015
+2,Clinical Immunology,Beaumont Hospital,RCSI Hospitals Group,C,4,3 to 6,rpt01,29/04/2015
+2,Dermatology,Beaumont Hospital,RCSI Hospitals Group,C,33,3 to 6,rpt01,29/04/2015
+2,Endocrinology,Beaumont Hospital,RCSI Hospitals Group,C,0,3 to 6,rpt01,29/04/2015
+2,Gastro-Enterology,Beaumont Hospital,RCSI Hospitals Group,C,8,3 to 6,rpt01,29/04/2015
+2,General Surgery,Beaumont Hospital,RCSI Hospitals Group,C,156,3 to 6,rpt01,29/04/2015
+2,Gynaecology,Beaumont Hospital,RCSI Hospitals Group,C,33,3 to 6,rpt01,29/04/2015
+2,Nephrology,Beaumont Hospital,RCSI Hospitals Group,C,4,3 to 6,rpt01,29/04/2015
+2,Neurology,Beaumont Hospital,RCSI Hospitals Group,C,13,3 to 6,rpt01,29/04/2015
+2,Neurosurgery,Beaumont Hospital,RCSI Hospitals Group,C,100,3 to 6,rpt01,29/04/2015
+2,Orthopaedics,Beaumont Hospital,RCSI Hospitals Group,C,44,3 to 6,rpt01,29/04/2015
+2,Otolaryngology (ENT),Beaumont Hospital,RCSI Hospitals Group,C,140,3 to 6,rpt01,29/04/2015
+2,Pain Relief,Beaumont Hospital,RCSI Hospitals Group,C,86,3 to 6,rpt01,29/04/2015
+2,Plastic Surgery,Beaumont Hospital,RCSI Hospitals Group,C,124,3 to 6,rpt01,29/04/2015
+2,Respiratory Medicine,Beaumont Hospital,RCSI Hospitals Group,C,2,3 to 6,rpt01,29/04/2015
+2,Urology,Beaumont Hospital,RCSI Hospitals Group,C,223,3 to 6,rpt01,29/04/2015
+2,Vascular Surgery,Beaumont Hospital,RCSI Hospitals Group,C,68,3 to 6,rpt01,29/04/2015
+2,Small Volume Specialities,Beaumont Hospital,RCSI Hospitals Group,C,0,3 to 6,rpt01,29/04/2015
+3,Orthopaedics,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,C,638,3 to 6,rpt01,29/04/2015
+3,Small Volume Specialities,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+4,General Medicine,Cavan General Hospital,RCSI Hospitals Group,C,0,3 to 6,rpt01,29/04/2015
+4,General Surgery,Cavan General Hospital,RCSI Hospitals Group,C,33,3 to 6,rpt01,29/04/2015
+4,Gynaecology,Cavan General Hospital,RCSI Hospitals Group,C,24,3 to 6,rpt01,29/04/2015
+4,Otolaryngology (ENT),Cavan General Hospital,RCSI Hospitals Group,C,11,3 to 6,rpt01,29/04/2015
+4,Small Volume Specialities,Cavan General Hospital,RCSI Hospitals Group,C,1,3 to 6,rpt01,29/04/2015
+5,Dental Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,C,8,3 to 6,rpt01,29/04/2015
+5,Ophthalmology,Childrens University Hospital Temple Street,Children's Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+5,Orthopaedics,Childrens University Hospital Temple Street,Children's Hospital Group,C,81,3 to 6,rpt01,29/04/2015
+5,Otolaryngology (ENT),Childrens University Hospital Temple Street,Children's Hospital Group,C,24,3 to 6,rpt01,29/04/2015
+5,Paediatric Respiratory Medicine,Childrens University Hospital Temple Street,Children's Hospital Group,C,19,3 to 6,rpt01,29/04/2015
+5,Paediatric Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+5,Paediatrics,Childrens University Hospital Temple Street,Children's Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+5,Plastic Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,C,9,3 to 6,rpt01,29/04/2015
+5,Urology,Childrens University Hospital Temple Street,Children's Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+5,Small Volume Specialities,Childrens University Hospital Temple Street,Children's Hospital Group,C,5,3 to 6,rpt01,29/04/2015
+6,Cardiology,Connolly Hospital,RCSI Hospitals Group,C,39,3 to 6,rpt01,29/04/2015
+6,Dermatology,Connolly Hospital,RCSI Hospitals Group,C,11,3 to 6,rpt01,29/04/2015
+6,General Surgery,Connolly Hospital,RCSI Hospitals Group,C,65,3 to 6,rpt01,29/04/2015
+6,Geriatric Medicine,Connolly Hospital,RCSI Hospitals Group,C,0,3 to 6,rpt01,29/04/2015
+6,Orthopaedics,Connolly Hospital,RCSI Hospitals Group,C,10,3 to 6,rpt01,29/04/2015
+6,Plastic Surgery,Connolly Hospital,RCSI Hospitals Group,C,12,3 to 6,rpt01,29/04/2015
+6,Respiratory Medicine,Connolly Hospital,RCSI Hospitals Group,C,37,3 to 6,rpt01,29/04/2015
+6,Urology,Connolly Hospital,RCSI Hospitals Group,C,63,3 to 6,rpt01,29/04/2015
+6,Small Volume Specialities,Connolly Hospital,RCSI Hospitals Group,C,0,3 to 6,rpt01,29/04/2015
+7,Breast Surgery,Cork University Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+7,Cardiology,Cork University Hospital,South/South West Hospital Group,C,12,3 to 6,rpt01,29/04/2015
+7,Cardio-Thoracic Surgery,Cork University Hospital,South/South West Hospital Group,C,6,3 to 6,rpt01,29/04/2015
+7,General Surgery,Cork University Hospital,South/South West Hospital Group,C,50,3 to 6,rpt01,29/04/2015
+7,Gynaecology,Cork University Hospital,South/South West Hospital Group,C,112,3 to 6,rpt01,29/04/2015
+7,Neurology,Cork University Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+7,Neurosurgery,Cork University Hospital,South/South West Hospital Group,C,5,3 to 6,rpt01,29/04/2015
+7,Plastic Surgery,Cork University Hospital,South/South West Hospital Group,C,32,3 to 6,rpt01,29/04/2015
+7,Respiratory Medicine,Cork University Hospital,South/South West Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+7,Urology,Cork University Hospital,South/South West Hospital Group,C,21,3 to 6,rpt01,29/04/2015
+7,Vascular Surgery,Cork University Hospital,South/South West Hospital Group,C,31,3 to 6,rpt01,29/04/2015
+7,Small Volume Specialities,Cork University Hospital,South/South West Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+23,Anaesthetics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+23,Orthopaedics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,C,8,3 to 6,rpt01,29/04/2015
+23,Rheumatology,Croom Orthopaedic Hospital,University of Limerick Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+21,General Surgery,Ennis Hospital,University of Limerick Hospital Group,C,11,3 to 6,rpt01,29/04/2015
+21,Plastic Surgery,Ennis Hospital,University of Limerick Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+21,Urology,Ennis Hospital,University of Limerick Hospital Group,C,107,3 to 6,rpt01,29/04/2015
+21,Vascular Surgery,Ennis Hospital,University of Limerick Hospital Group,C,9,3 to 6,rpt01,29/04/2015
+21,Small Volume Specialities,Ennis Hospital,University of Limerick Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+8,Cardiology,Galway University Hospital,Saolta University Health Care Group,C,278,3 to 6,rpt01,29/04/2015
+8,Cardio-Thoracic Surgery,Galway University Hospital,Saolta University Health Care Group,C,25,3 to 6,rpt01,29/04/2015
+8,Dermatology,Galway University Hospital,Saolta University Health Care Group,C,5,3 to 6,rpt01,29/04/2015
+8,Endocrinology,Galway University Hospital,Saolta University Health Care Group,C,3,3 to 6,rpt01,29/04/2015
+8,Gastro-Enterology,Galway University Hospital,Saolta University Health Care Group,C,2,3 to 6,rpt01,29/04/2015
+8,General Medicine,Galway University Hospital,Saolta University Health Care Group,C,17,3 to 6,rpt01,29/04/2015
+8,General Surgery,Galway University Hospital,Saolta University Health Care Group,C,157,3 to 6,rpt01,29/04/2015
+8,Gynaecology,Galway University Hospital,Saolta University Health Care Group,C,20,3 to 6,rpt01,29/04/2015
+8,Neurology,Galway University Hospital,Saolta University Health Care Group,C,18,3 to 6,rpt01,29/04/2015
+8,Ophthalmology,Galway University Hospital,Saolta University Health Care Group,C,317,3 to 6,rpt01,29/04/2015
+8,Oral Surgery,Galway University Hospital,Saolta University Health Care Group,C,155,3 to 6,rpt01,29/04/2015
+8,Orthopaedics,Galway University Hospital,Saolta University Health Care Group,C,158,3 to 6,rpt01,29/04/2015
+8,Otolaryngology (ENT),Galway University Hospital,Saolta University Health Care Group,C,152,3 to 6,rpt01,29/04/2015
+8,Pain Relief,Galway University Hospital,Saolta University Health Care Group,C,49,3 to 6,rpt01,29/04/2015
+8,Plastic Surgery,Galway University Hospital,Saolta University Health Care Group,C,268,3 to 6,rpt01,29/04/2015
+8,Respiratory Medicine,Galway University Hospital,Saolta University Health Care Group,C,71,3 to 6,rpt01,29/04/2015
+8,Urology,Galway University Hospital,Saolta University Health Care Group,C,308,3 to 6,rpt01,29/04/2015
+8,Vascular Surgery,Galway University Hospital,Saolta University Health Care Group,C,61,3 to 6,rpt01,29/04/2015
+8,Small Volume Specialities,Galway University Hospital,Saolta University Health Care Group,C,1,3 to 6,rpt01,29/04/2015
+9,General Surgery,Kerry General Hospital,South/South West Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+9,Gynaecology,Kerry General Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+9,Orthopaedics,Kerry General Hospital,South/South West Hospital Group,C,39,3 to 6,rpt01,29/04/2015
+9,Otolaryngology (ENT),Kerry General Hospital,South/South West Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+9,Small Volume Specialities,Kerry General Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+10,Cardiology,Letterkenny General Hospital,Saolta University Health Care Group,C,9,3 to 6,rpt01,29/04/2015
+10,General Medicine,Letterkenny General Hospital,Saolta University Health Care Group,C,0,3 to 6,rpt01,29/04/2015
+10,General Surgery,Letterkenny General Hospital,Saolta University Health Care Group,C,189,3 to 6,rpt01,29/04/2015
+10,Gynaecology,Letterkenny General Hospital,Saolta University Health Care Group,C,103,3 to 6,rpt01,29/04/2015
+10,Ophthalmology,Letterkenny General Hospital,Saolta University Health Care Group,C,5,3 to 6,rpt01,29/04/2015
+10,Orthopaedics,Letterkenny General Hospital,Saolta University Health Care Group,C,111,3 to 6,rpt01,29/04/2015
+10,Urology,Letterkenny General Hospital,Saolta University Health Care Group,C,75,3 to 6,rpt01,29/04/2015
+10,Vascular Surgery,Letterkenny General Hospital,Saolta University Health Care Group,C,11,3 to 6,rpt01,29/04/2015
+10,Small Volume Specialities,Letterkenny General Hospital,Saolta University Health Care Group,C,0,3 to 6,rpt01,29/04/2015
+11,Orthopaedics,Lourdes Orthopaedic Hospital Kilcreene,South/South West Hospital Group,C,41,3 to 6,rpt01,29/04/2015
+12,General Surgery,Louth County Hospital,RCSI Hospitals Group,C,31,3 to 6,rpt01,29/04/2015
+12,Geriatric Medicine,Louth County Hospital,RCSI Hospitals Group,C,39,3 to 6,rpt01,29/04/2015
+12,Gynaecology,Louth County Hospital,RCSI Hospitals Group,C,10,3 to 6,rpt01,29/04/2015
+12,Ophthalmology,Louth County Hospital,RCSI Hospitals Group,C,49,3 to 6,rpt01,29/04/2015
+12,Urology,Louth County Hospital,RCSI Hospitals Group,C,33,3 to 6,rpt01,29/04/2015
+13,General Surgery,Mallow General Hospital,South/South West Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+13,Vascular Surgery,Mallow General Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+13,Small Volume Specialities,Mallow General Hospital,South/South West Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+14,Cardiology,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,221,3 to 6,rpt01,29/04/2015
+14,Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,20,3 to 6,rpt01,29/04/2015
+14,Dental Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,17,3 to 6,rpt01,29/04/2015
+14,Gastro-Intestinal Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,95,3 to 6,rpt01,29/04/2015
+14,General Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,84,3 to 6,rpt01,29/04/2015
+14,Gynaecology,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,29,3 to 6,rpt01,29/04/2015
+14,Ophthalmology,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,264,3 to 6,rpt01,29/04/2015
+14,Orthopaedics,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,64,3 to 6,rpt01,29/04/2015
+14,Otolaryngology (ENT),Mater Misericordiae University Hospital,Ireland East Hospital Group,C,28,3 to 6,rpt01,29/04/2015
+14,Pain Relief,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,76,3 to 6,rpt01,29/04/2015
+14,Plastic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,39,3 to 6,rpt01,29/04/2015
+14,Respiratory Medicine,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+14,Rheumatology,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+14,Urology,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,217,3 to 6,rpt01,29/04/2015
+14,Vascular Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,43,3 to 6,rpt01,29/04/2015
+14,Small Volume Specialities,Mater Misericordiae University Hospital,Ireland East Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+15,Gynaecology,Mayo General Hospital,Saolta University Health Care Group,C,100,3 to 6,rpt01,29/04/2015
+15,Orthopaedics,Mayo General Hospital,Saolta University Health Care Group,C,220,3 to 6,rpt01,29/04/2015
+15,Small Volume Specialities,Mayo General Hospital,Saolta University Health Care Group,C,0,3 to 6,rpt01,29/04/2015
+16,Cardiology,Mercy University Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+16,Gastro-Enterology,Mercy University Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+16,Gastro-Intestinal Surgery,Mercy University Hospital,South/South West Hospital Group,C,7,3 to 6,rpt01,29/04/2015
+16,General Surgery,Mercy University Hospital,South/South West Hospital Group,C,48,3 to 6,rpt01,29/04/2015
+16,Hepato-Biliary Surgery,Mercy University Hospital,South/South West Hospital Group,C,24,3 to 6,rpt01,29/04/2015
+16,Ophthalmology,Mercy University Hospital,South/South West Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+16,Pain Relief,Mercy University Hospital,South/South West Hospital Group,C,143,3 to 6,rpt01,29/04/2015
+16,Respiratory Medicine,Mercy University Hospital,South/South West Hospital Group,C,13,3 to 6,rpt01,29/04/2015
+16,Urology,Mercy University Hospital,South/South West Hospital Group,C,53,3 to 6,rpt01,29/04/2015
+16,Vascular Surgery,Mercy University Hospital,South/South West Hospital Group,C,23,3 to 6,rpt01,29/04/2015
+16,Small Volume Specialities,Mercy University Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+17,General Surgery,Midland Regional Hospital Mullingar,Ireland East Hospital Group,C,23,3 to 6,rpt01,29/04/2015
+17,Gynaecology,Midland Regional Hospital Mullingar,Ireland East Hospital Group,C,30,3 to 6,rpt01,29/04/2015
+18,General Surgery,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,C,16,3 to 6,rpt01,29/04/2015
+18,Gynaecology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,C,31,3 to 6,rpt01,29/04/2015
+18,Pain Relief,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,C,5,3 to 6,rpt01,29/04/2015
+18,Urology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+18,Small Volume Specialities,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+19,Anaesthetics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+19,Cardiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,C,33,3 to 6,rpt01,29/04/2015
+19,General Surgery,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,C,11,3 to 6,rpt01,29/04/2015
+19,Orthopaedics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,C,225,3 to 6,rpt01,29/04/2015
+19,Otolaryngology (ENT),Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,C,296,3 to 6,rpt01,29/04/2015
+19,Radiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+19,Small Volume Specialities,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+24,General Surgery,Naas General Hospital,Dublin Midlands Hospital Group,C,6,3 to 6,rpt01,29/04/2015
+24,Small Volume Specialities,Naas General Hospital,Dublin Midlands Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+22,Dermatology,Nenagh Hospital,University of Limerick Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+22,General Surgery,Nenagh Hospital,University of Limerick Hospital Group,C,132,3 to 6,rpt01,29/04/2015
+22,Maxillo-Facial,Nenagh Hospital,University of Limerick Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+22,Orthopaedics,Nenagh Hospital,University of Limerick Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+22,Urology,Nenagh Hospital,University of Limerick Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+22,Vascular Surgery,Nenagh Hospital,University of Limerick Hospital Group,C,15,3 to 6,rpt01,29/04/2015
+22,Small Volume Specialities,Nenagh Hospital,University of Limerick Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+25,General Medicine,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,C,2,3 to 6,rpt01,29/04/2015
+25,General Surgery,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,C,81,3 to 6,rpt01,29/04/2015
+25,Gynaecology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,C,42,3 to 6,rpt01,29/04/2015
+25,Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,C,66,3 to 6,rpt01,29/04/2015
+25,Urology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,C,80,3 to 6,rpt01,29/04/2015
+25,Small Volume Specialities,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,C,0,3 to 6,rpt01,29/04/2015
+26,Cardio-Thoracic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,7,3 to 6,rpt01,29/04/2015
+26,Dental Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,33,3 to 6,rpt01,29/04/2015
+26,Dermatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+26,General Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+26,General Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,30,3 to 6,rpt01,29/04/2015
+26,Maxillo-Facial,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,12,3 to 6,rpt01,29/04/2015
+26,Ophthalmology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,48,3 to 6,rpt01,29/04/2015
+26,Orthopaedics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,92,3 to 6,rpt01,29/04/2015
+26,Otolaryngology (ENT),Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,53,3 to 6,rpt01,29/04/2015
+26,Paed Cardiology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,58,3 to 6,rpt01,29/04/2015
+26,Paediatrics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,70,3 to 6,rpt01,29/04/2015
+26,Plastic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,52,3 to 6,rpt01,29/04/2015
+26,Respiratory Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,45,3 to 6,rpt01,29/04/2015
+26,Rheumatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+26,Small Volume Specialities,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+27,Orthopaedics,Our Lady's Hospital Navan,Ireland East Hospital Group,C,83,3 to 6,rpt01,29/04/2015
+27,Small Volume Specialities,Our Lady's Hospital Navan,Ireland East Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+29,General Surgery,Roscommon County Hospital,Saolta University Health Care Group,C,2,3 to 6,rpt01,29/04/2015
+29,Plastic Surgery,Roscommon County Hospital,Saolta University Health Care Group,C,203,3 to 6,rpt01,29/04/2015
+29,Vascular Surgery,Roscommon County Hospital,Saolta University Health Care Group,C,5,3 to 6,rpt01,29/04/2015
+30,Ophthalmology,Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,C,403,3 to 6,rpt01,29/04/2015
+30,Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,C,76,3 to 6,rpt01,29/04/2015
+32,Dermatology,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+32,Endocrinology,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+32,General Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+32,Gynaecology,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,16,3 to 6,rpt01,29/04/2015
+32,Ophthalmology,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,121,3 to 6,rpt01,29/04/2015
+32,Orthopaedics,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,58,3 to 6,rpt01,29/04/2015
+32,Otolaryngology (ENT),South Infirmary Victoria University Hospital,South/South West Hospital Group,C,31,3 to 6,rpt01,29/04/2015
+32,Pain Relief,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,10,3 to 6,rpt01,29/04/2015
+32,Plastic Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,39,3 to 6,rpt01,29/04/2015
+32,Small Volume Specialities,South Infirmary Victoria University Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+33,General Medicine,South Tipperary General Hospital,South/South West Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+33,General Surgery,South Tipperary General Hospital,South/South West Hospital Group,C,22,3 to 6,rpt01,29/04/2015
+33,Gynaecology,South Tipperary General Hospital,South/South West Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+33,Small Volume Specialities,South Tipperary General Hospital,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+34,General Surgery,St. Columcille's Hospital,Ireland East Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+34,Urology,St. Columcille's Hospital,Ireland East Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+34,Small Volume Specialities,St. Columcille's Hospital,Ireland East Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+35,Cardiology,St. James's Hospital,Dublin Midlands Hospital Group,C,42,3 to 6,rpt01,29/04/2015
+35,Cardio-Thoracic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,C,32,3 to 6,rpt01,29/04/2015
+35,Dermatology,St. James's Hospital,Dublin Midlands Hospital Group,C,15,3 to 6,rpt01,29/04/2015
+35,General Surgery,St. James's Hospital,Dublin Midlands Hospital Group,C,164,3 to 6,rpt01,29/04/2015
+35,Geriatric Medicine,St. James's Hospital,Dublin Midlands Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+35,Gynaecology,St. James's Hospital,Dublin Midlands Hospital Group,C,25,3 to 6,rpt01,29/04/2015
+35,Maxillo-Facial,St. James's Hospital,Dublin Midlands Hospital Group,C,52,3 to 6,rpt01,29/04/2015
+35,Orthopaedics,St. James's Hospital,Dublin Midlands Hospital Group,C,119,3 to 6,rpt01,29/04/2015
+35,Otolaryngology (ENT),St. James's Hospital,Dublin Midlands Hospital Group,C,54,3 to 6,rpt01,29/04/2015
+35,Pain Relief,St. James's Hospital,Dublin Midlands Hospital Group,C,73,3 to 6,rpt01,29/04/2015
+35,Plastic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,C,174,3 to 6,rpt01,29/04/2015
+35,Respiratory Medicine,St. James's Hospital,Dublin Midlands Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+35,Urology,St. James's Hospital,Dublin Midlands Hospital Group,C,89,3 to 6,rpt01,29/04/2015
+35,Vascular Surgery,St. James's Hospital,Dublin Midlands Hospital Group,C,154,3 to 6,rpt01,29/04/2015
+35,Small Volume Specialities,St. James's Hospital,Dublin Midlands Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+36,Anaesthetics,St. John's Hospital Limerick,University of Limerick Hospital Group,C,104,3 to 6,rpt01,29/04/2015
+36,General Medicine,St. John's Hospital Limerick,University of Limerick Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+36,General Surgery,St. John's Hospital Limerick,University of Limerick Hospital Group,C,139,3 to 6,rpt01,29/04/2015
+36,Gynaecology,St. John's Hospital Limerick,University of Limerick Hospital Group,C,8,3 to 6,rpt01,29/04/2015
+36,Urology,St. John's Hospital Limerick,University of Limerick Hospital Group,C,19,3 to 6,rpt01,29/04/2015
+36,Small Volume Specialities,St. John's Hospital Limerick,University of Limerick Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+37,General Surgery,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,C,137,3 to 6,rpt01,29/04/2015
+37,Gynaecology,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,C,101,3 to 6,rpt01,29/04/2015
+37,Small Volume Specialities,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+39,Anaesthetics,Tallaght Hospital,Dublin Midlands Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+39,Cardiology,Tallaght Hospital,Dublin Midlands Hospital Group,C,9,3 to 6,rpt01,29/04/2015
+39,Dental Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+39,Dermatology,Tallaght Hospital,Dublin Midlands Hospital Group,C,6,3 to 6,rpt01,29/04/2015
+39,Gastro-Enterology,Tallaght Hospital,Dublin Midlands Hospital Group,C,106,3 to 6,rpt01,29/04/2015
+39,General Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+39,General Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,C,189,3 to 6,rpt01,29/04/2015
+39,Gynaecology,Tallaght Hospital,Dublin Midlands Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+39,Haematology,Tallaght Hospital,Dublin Midlands Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+39,Neurology,Tallaght Hospital,Dublin Midlands Hospital Group,C,5,3 to 6,rpt01,29/04/2015
+39,Orthopaedics,Tallaght Hospital,Dublin Midlands Hospital Group,C,209,3 to 6,rpt01,29/04/2015
+39,Otolaryngology (ENT),Tallaght Hospital,Dublin Midlands Hospital Group,C,24,3 to 6,rpt01,29/04/2015
+39,Paed Orthopaedic,Tallaght Hospital,Dublin Midlands Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+39,Paediatric ENT,Tallaght Hospital,Dublin Midlands Hospital Group,C,40,3 to 6,rpt01,29/04/2015
+39,Paediatric Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,C,41,3 to 6,rpt01,29/04/2015
+39,Paediatric Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+39,Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,C,41,3 to 6,rpt01,29/04/2015
+39,Rheumatology,Tallaght Hospital,Dublin Midlands Hospital Group,C,7,3 to 6,rpt01,29/04/2015
+39,Urology,Tallaght Hospital,Dublin Midlands Hospital Group,C,48,3 to 6,rpt01,29/04/2015
+39,Vascular Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,C,32,3 to 6,rpt01,29/04/2015
+39,Small Volume Specialities,Tallaght Hospital,Dublin Midlands Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+42,Cardiology,University Hospital Limerick,University of Limerick Hospital Group,C,14,3 to 6,rpt01,29/04/2015
+42,Dental Surgery,University Hospital Limerick,University of Limerick Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+42,Gastro-Intestinal Surgery,University Hospital Limerick,University of Limerick Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+42,General Medicine,University Hospital Limerick,University of Limerick Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+42,General Surgery,University Hospital Limerick,University of Limerick Hospital Group,C,18,3 to 6,rpt01,29/04/2015
+42,Gynaecology,University Hospital Limerick,University of Limerick Hospital Group,C,10,3 to 6,rpt01,29/04/2015
+42,Maxillo-Facial,University Hospital Limerick,University of Limerick Hospital Group,C,53,3 to 6,rpt01,29/04/2015
+42,Ophthalmology,University Hospital Limerick,University of Limerick Hospital Group,C,307,3 to 6,rpt01,29/04/2015
+42,Otolaryngology (ENT),University Hospital Limerick,University of Limerick Hospital Group,C,67,3 to 6,rpt01,29/04/2015
+42,Urology,University Hospital Limerick,University of Limerick Hospital Group,C,43,3 to 6,rpt01,29/04/2015
+42,Vascular Surgery,University Hospital Limerick,University of Limerick Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+40,Breast Surgery,University Hospital Waterford,South/South West Hospital Group,C,3,3 to 6,rpt01,29/04/2015
+40,Gastro-Enterology,University Hospital Waterford,South/South West Hospital Group,C,8,3 to 6,rpt01,29/04/2015
+40,Gastro-Intestinal Surgery,University Hospital Waterford,South/South West Hospital Group,C,4,3 to 6,rpt01,29/04/2015
+40,General Surgery,University Hospital Waterford,South/South West Hospital Group,C,43,3 to 6,rpt01,29/04/2015
+40,Gynaecology,University Hospital Waterford,South/South West Hospital Group,C,13,3 to 6,rpt01,29/04/2015
+40,Ophthalmology,University Hospital Waterford,South/South West Hospital Group,C,572,3 to 6,rpt01,29/04/2015
+40,Orthopaedics,University Hospital Waterford,South/South West Hospital Group,C,30,3 to 6,rpt01,29/04/2015
+40,Otolaryngology (ENT),University Hospital Waterford,South/South West Hospital Group,C,102,3 to 6,rpt01,29/04/2015
+40,Pain Relief,University Hospital Waterford,South/South West Hospital Group,C,29,3 to 6,rpt01,29/04/2015
+40,Urology,University Hospital Waterford,South/South West Hospital Group,C,1,3 to 6,rpt01,29/04/2015
+40,Vascular Surgery,University Hospital Waterford,South/South West Hospital Group,C,21,3 to 6,rpt01,29/04/2015
+40,Small Volume Specialities,University Hospital Waterford,South/South West Hospital Group,C,0,3 to 6,rpt01,29/04/2015
+41,General Surgery,Wexford General Hospital,Ireland East Hospital Group,C,104,3 to 6,rpt01,29/04/2015
+41,Small Volume Specialities,Wexford General Hospital,Ireland East Hospital Group,C,2,3 to 6,rpt01,29/04/2015
+1,Small Volume Specialities,Bantry General Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+2,Cardiology,Beaumont Hospital,RCSI Hospitals Group,D,43,6 to 9,rpt01,29/04/2015
+2,Clinical Immunology,Beaumont Hospital,RCSI Hospitals Group,D,7,6 to 9,rpt01,29/04/2015
+2,Dermatology,Beaumont Hospital,RCSI Hospitals Group,D,23,6 to 9,rpt01,29/04/2015
+2,Endocrinology,Beaumont Hospital,RCSI Hospitals Group,D,0,6 to 9,rpt01,29/04/2015
+2,Gastro-Enterology,Beaumont Hospital,RCSI Hospitals Group,D,10,6 to 9,rpt01,29/04/2015
+2,General Surgery,Beaumont Hospital,RCSI Hospitals Group,D,142,6 to 9,rpt01,29/04/2015
+2,Gynaecology,Beaumont Hospital,RCSI Hospitals Group,D,41,6 to 9,rpt01,29/04/2015
+2,Nephrology,Beaumont Hospital,RCSI Hospitals Group,D,0,6 to 9,rpt01,29/04/2015
+2,Neurology,Beaumont Hospital,RCSI Hospitals Group,D,8,6 to 9,rpt01,29/04/2015
+2,Neurosurgery,Beaumont Hospital,RCSI Hospitals Group,D,82,6 to 9,rpt01,29/04/2015
+2,Orthopaedics,Beaumont Hospital,RCSI Hospitals Group,D,68,6 to 9,rpt01,29/04/2015
+2,Otolaryngology (ENT),Beaumont Hospital,RCSI Hospitals Group,D,101,6 to 9,rpt01,29/04/2015
+2,Pain Relief,Beaumont Hospital,RCSI Hospitals Group,D,55,6 to 9,rpt01,29/04/2015
+2,Plastic Surgery,Beaumont Hospital,RCSI Hospitals Group,D,110,6 to 9,rpt01,29/04/2015
+2,Respiratory Medicine,Beaumont Hospital,RCSI Hospitals Group,D,1,6 to 9,rpt01,29/04/2015
+2,Urology,Beaumont Hospital,RCSI Hospitals Group,D,115,6 to 9,rpt01,29/04/2015
+2,Vascular Surgery,Beaumont Hospital,RCSI Hospitals Group,D,100,6 to 9,rpt01,29/04/2015
+2,Small Volume Specialities,Beaumont Hospital,RCSI Hospitals Group,D,1,6 to 9,rpt01,29/04/2015
+3,Orthopaedics,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,D,578,6 to 9,rpt01,29/04/2015
+3,Small Volume Specialities,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+4,General Medicine,Cavan General Hospital,RCSI Hospitals Group,D,0,6 to 9,rpt01,29/04/2015
+4,General Surgery,Cavan General Hospital,RCSI Hospitals Group,D,1,6 to 9,rpt01,29/04/2015
+4,Gynaecology,Cavan General Hospital,RCSI Hospitals Group,D,3,6 to 9,rpt01,29/04/2015
+4,Otolaryngology (ENT),Cavan General Hospital,RCSI Hospitals Group,D,15,6 to 9,rpt01,29/04/2015
+4,Small Volume Specialities,Cavan General Hospital,RCSI Hospitals Group,D,0,6 to 9,rpt01,29/04/2015
+5,Dental Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,D,5,6 to 9,rpt01,29/04/2015
+5,Ophthalmology,Childrens University Hospital Temple Street,Children's Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+5,Orthopaedics,Childrens University Hospital Temple Street,Children's Hospital Group,D,23,6 to 9,rpt01,29/04/2015
+5,Otolaryngology (ENT),Childrens University Hospital Temple Street,Children's Hospital Group,D,5,6 to 9,rpt01,29/04/2015
+5,Paediatric Respiratory Medicine,Childrens University Hospital Temple Street,Children's Hospital Group,D,11,6 to 9,rpt01,29/04/2015
+5,Paediatric Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+5,Paediatrics,Childrens University Hospital Temple Street,Children's Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+5,Plastic Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+5,Urology,Childrens University Hospital Temple Street,Children's Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+5,Small Volume Specialities,Childrens University Hospital Temple Street,Children's Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+6,Cardiology,Connolly Hospital,RCSI Hospitals Group,D,22,6 to 9,rpt01,29/04/2015
+6,Dermatology,Connolly Hospital,RCSI Hospitals Group,D,3,6 to 9,rpt01,29/04/2015
+6,General Surgery,Connolly Hospital,RCSI Hospitals Group,D,48,6 to 9,rpt01,29/04/2015
+6,Geriatric Medicine,Connolly Hospital,RCSI Hospitals Group,D,0,6 to 9,rpt01,29/04/2015
+6,Orthopaedics,Connolly Hospital,RCSI Hospitals Group,D,1,6 to 9,rpt01,29/04/2015
+6,Plastic Surgery,Connolly Hospital,RCSI Hospitals Group,D,2,6 to 9,rpt01,29/04/2015
+6,Respiratory Medicine,Connolly Hospital,RCSI Hospitals Group,D,93,6 to 9,rpt01,29/04/2015
+6,Urology,Connolly Hospital,RCSI Hospitals Group,D,45,6 to 9,rpt01,29/04/2015
+6,Small Volume Specialities,Connolly Hospital,RCSI Hospitals Group,D,0,6 to 9,rpt01,29/04/2015
+7,Breast Surgery,Cork University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+7,Cardiology,Cork University Hospital,South/South West Hospital Group,D,9,6 to 9,rpt01,29/04/2015
+7,Cardio-Thoracic Surgery,Cork University Hospital,South/South West Hospital Group,D,5,6 to 9,rpt01,29/04/2015
+7,General Surgery,Cork University Hospital,South/South West Hospital Group,D,24,6 to 9,rpt01,29/04/2015
+7,Gynaecology,Cork University Hospital,South/South West Hospital Group,D,95,6 to 9,rpt01,29/04/2015
+7,Neurology,Cork University Hospital,South/South West Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+7,Neurosurgery,Cork University Hospital,South/South West Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+7,Plastic Surgery,Cork University Hospital,South/South West Hospital Group,D,17,6 to 9,rpt01,29/04/2015
+7,Respiratory Medicine,Cork University Hospital,South/South West Hospital Group,D,3,6 to 9,rpt01,29/04/2015
+7,Urology,Cork University Hospital,South/South West Hospital Group,D,20,6 to 9,rpt01,29/04/2015
+7,Vascular Surgery,Cork University Hospital,South/South West Hospital Group,D,14,6 to 9,rpt01,29/04/2015
+7,Small Volume Specialities,Cork University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+23,Anaesthetics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+23,Orthopaedics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,D,3,6 to 9,rpt01,29/04/2015
+23,Rheumatology,Croom Orthopaedic Hospital,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+21,General Surgery,Ennis Hospital,University of Limerick Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+21,Plastic Surgery,Ennis Hospital,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+21,Urology,Ennis Hospital,University of Limerick Hospital Group,D,59,6 to 9,rpt01,29/04/2015
+21,Vascular Surgery,Ennis Hospital,University of Limerick Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+21,Small Volume Specialities,Ennis Hospital,University of Limerick Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+8,Cardiology,Galway University Hospital,Saolta University Health Care Group,D,186,6 to 9,rpt01,29/04/2015
+8,Cardio-Thoracic Surgery,Galway University Hospital,Saolta University Health Care Group,D,8,6 to 9,rpt01,29/04/2015
+8,Dermatology,Galway University Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+8,Endocrinology,Galway University Hospital,Saolta University Health Care Group,D,4,6 to 9,rpt01,29/04/2015
+8,Gastro-Enterology,Galway University Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+8,General Medicine,Galway University Hospital,Saolta University Health Care Group,D,32,6 to 9,rpt01,29/04/2015
+8,General Surgery,Galway University Hospital,Saolta University Health Care Group,D,190,6 to 9,rpt01,29/04/2015
+8,Gynaecology,Galway University Hospital,Saolta University Health Care Group,D,14,6 to 9,rpt01,29/04/2015
+8,Neurology,Galway University Hospital,Saolta University Health Care Group,D,14,6 to 9,rpt01,29/04/2015
+8,Ophthalmology,Galway University Hospital,Saolta University Health Care Group,D,264,6 to 9,rpt01,29/04/2015
+8,Oral Surgery,Galway University Hospital,Saolta University Health Care Group,D,163,6 to 9,rpt01,29/04/2015
+8,Orthopaedics,Galway University Hospital,Saolta University Health Care Group,D,114,6 to 9,rpt01,29/04/2015
+8,Otolaryngology (ENT),Galway University Hospital,Saolta University Health Care Group,D,104,6 to 9,rpt01,29/04/2015
+8,Pain Relief,Galway University Hospital,Saolta University Health Care Group,D,81,6 to 9,rpt01,29/04/2015
+8,Plastic Surgery,Galway University Hospital,Saolta University Health Care Group,D,215,6 to 9,rpt01,29/04/2015
+8,Respiratory Medicine,Galway University Hospital,Saolta University Health Care Group,D,50,6 to 9,rpt01,29/04/2015
+8,Urology,Galway University Hospital,Saolta University Health Care Group,D,218,6 to 9,rpt01,29/04/2015
+8,Vascular Surgery,Galway University Hospital,Saolta University Health Care Group,D,46,6 to 9,rpt01,29/04/2015
+8,Small Volume Specialities,Galway University Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+9,General Surgery,Kerry General Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+9,Gynaecology,Kerry General Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+9,Orthopaedics,Kerry General Hospital,South/South West Hospital Group,D,19,6 to 9,rpt01,29/04/2015
+9,Otolaryngology (ENT),Kerry General Hospital,South/South West Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+9,Small Volume Specialities,Kerry General Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+10,Cardiology,Letterkenny General Hospital,Saolta University Health Care Group,D,1,6 to 9,rpt01,29/04/2015
+10,General Medicine,Letterkenny General Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+10,General Surgery,Letterkenny General Hospital,Saolta University Health Care Group,D,211,6 to 9,rpt01,29/04/2015
+10,Gynaecology,Letterkenny General Hospital,Saolta University Health Care Group,D,71,6 to 9,rpt01,29/04/2015
+10,Ophthalmology,Letterkenny General Hospital,Saolta University Health Care Group,D,28,6 to 9,rpt01,29/04/2015
+10,Orthopaedics,Letterkenny General Hospital,Saolta University Health Care Group,D,64,6 to 9,rpt01,29/04/2015
+10,Urology,Letterkenny General Hospital,Saolta University Health Care Group,D,63,6 to 9,rpt01,29/04/2015
+10,Vascular Surgery,Letterkenny General Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+10,Small Volume Specialities,Letterkenny General Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+11,Orthopaedics,Lourdes Orthopaedic Hospital Kilcreene,South/South West Hospital Group,D,11,6 to 9,rpt01,29/04/2015
+12,General Surgery,Louth County Hospital,RCSI Hospitals Group,D,7,6 to 9,rpt01,29/04/2015
+12,Geriatric Medicine,Louth County Hospital,RCSI Hospitals Group,D,45,6 to 9,rpt01,29/04/2015
+12,Gynaecology,Louth County Hospital,RCSI Hospitals Group,D,1,6 to 9,rpt01,29/04/2015
+12,Ophthalmology,Louth County Hospital,RCSI Hospitals Group,D,2,6 to 9,rpt01,29/04/2015
+12,Urology,Louth County Hospital,RCSI Hospitals Group,D,14,6 to 9,rpt01,29/04/2015
+13,General Surgery,Mallow General Hospital,South/South West Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+13,Vascular Surgery,Mallow General Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+13,Small Volume Specialities,Mallow General Hospital,South/South West Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+14,Cardiology,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,163,6 to 9,rpt01,29/04/2015
+14,Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,11,6 to 9,rpt01,29/04/2015
+14,Dental Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,6,6 to 9,rpt01,29/04/2015
+14,Gastro-Intestinal Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,53,6 to 9,rpt01,29/04/2015
+14,General Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,22,6 to 9,rpt01,29/04/2015
+14,Gynaecology,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,6,6 to 9,rpt01,29/04/2015
+14,Ophthalmology,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,358,6 to 9,rpt01,29/04/2015
+14,Orthopaedics,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,44,6 to 9,rpt01,29/04/2015
+14,Otolaryngology (ENT),Mater Misericordiae University Hospital,Ireland East Hospital Group,D,20,6 to 9,rpt01,29/04/2015
+14,Pain Relief,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,87,6 to 9,rpt01,29/04/2015
+14,Plastic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,34,6 to 9,rpt01,29/04/2015
+14,Respiratory Medicine,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+14,Rheumatology,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+14,Urology,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,132,6 to 9,rpt01,29/04/2015
+14,Vascular Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,32,6 to 9,rpt01,29/04/2015
+14,Small Volume Specialities,Mater Misericordiae University Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+15,Gynaecology,Mayo General Hospital,Saolta University Health Care Group,D,15,6 to 9,rpt01,29/04/2015
+15,Orthopaedics,Mayo General Hospital,Saolta University Health Care Group,D,87,6 to 9,rpt01,29/04/2015
+15,Small Volume Specialities,Mayo General Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+16,Cardiology,Mercy University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+16,Gastro-Enterology,Mercy University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+16,Gastro-Intestinal Surgery,Mercy University Hospital,South/South West Hospital Group,D,13,6 to 9,rpt01,29/04/2015
+16,General Surgery,Mercy University Hospital,South/South West Hospital Group,D,29,6 to 9,rpt01,29/04/2015
+16,Hepato-Biliary Surgery,Mercy University Hospital,South/South West Hospital Group,D,27,6 to 9,rpt01,29/04/2015
+16,Ophthalmology,Mercy University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+16,Pain Relief,Mercy University Hospital,South/South West Hospital Group,D,73,6 to 9,rpt01,29/04/2015
+16,Respiratory Medicine,Mercy University Hospital,South/South West Hospital Group,D,11,6 to 9,rpt01,29/04/2015
+16,Urology,Mercy University Hospital,South/South West Hospital Group,D,46,6 to 9,rpt01,29/04/2015
+16,Vascular Surgery,Mercy University Hospital,South/South West Hospital Group,D,18,6 to 9,rpt01,29/04/2015
+16,Small Volume Specialities,Mercy University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+17,General Surgery,Midland Regional Hospital Mullingar,Ireland East Hospital Group,D,20,6 to 9,rpt01,29/04/2015
+17,Gynaecology,Midland Regional Hospital Mullingar,Ireland East Hospital Group,D,35,6 to 9,rpt01,29/04/2015
+18,General Surgery,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,D,7,6 to 9,rpt01,29/04/2015
+18,Gynaecology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,D,14,6 to 9,rpt01,29/04/2015
+18,Pain Relief,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+18,Urology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,D,4,6 to 9,rpt01,29/04/2015
+18,Small Volume Specialities,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+19,Anaesthetics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+19,Cardiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,D,19,6 to 9,rpt01,29/04/2015
+19,General Surgery,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,D,6,6 to 9,rpt01,29/04/2015
+19,Orthopaedics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,D,169,6 to 9,rpt01,29/04/2015
+19,Otolaryngology (ENT),Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,D,171,6 to 9,rpt01,29/04/2015
+19,Radiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+19,Small Volume Specialities,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+24,General Surgery,Naas General Hospital,Dublin Midlands Hospital Group,D,9,6 to 9,rpt01,29/04/2015
+24,Small Volume Specialities,Naas General Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+22,Dermatology,Nenagh Hospital,University of Limerick Hospital Group,D,3,6 to 9,rpt01,29/04/2015
+22,General Surgery,Nenagh Hospital,University of Limerick Hospital Group,D,88,6 to 9,rpt01,29/04/2015
+22,Maxillo-Facial,Nenagh Hospital,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+22,Orthopaedics,Nenagh Hospital,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+22,Urology,Nenagh Hospital,University of Limerick Hospital Group,D,3,6 to 9,rpt01,29/04/2015
+22,Vascular Surgery,Nenagh Hospital,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+22,Small Volume Specialities,Nenagh Hospital,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+25,General Medicine,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,D,4,6 to 9,rpt01,29/04/2015
+25,General Surgery,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,D,85,6 to 9,rpt01,29/04/2015
+25,Gynaecology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,D,24,6 to 9,rpt01,29/04/2015
+25,Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,D,53,6 to 9,rpt01,29/04/2015
+25,Urology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,D,47,6 to 9,rpt01,29/04/2015
+25,Small Volume Specialities,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,D,2,6 to 9,rpt01,29/04/2015
+26,Cardio-Thoracic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+26,Dental Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,53,6 to 9,rpt01,29/04/2015
+26,Dermatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+26,General Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+26,General Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,9,6 to 9,rpt01,29/04/2015
+26,Maxillo-Facial,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,9,6 to 9,rpt01,29/04/2015
+26,Ophthalmology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,59,6 to 9,rpt01,29/04/2015
+26,Orthopaedics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,94,6 to 9,rpt01,29/04/2015
+26,Otolaryngology (ENT),Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,33,6 to 9,rpt01,29/04/2015
+26,Paed Cardiology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,19,6 to 9,rpt01,29/04/2015
+26,Paediatrics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,4,6 to 9,rpt01,29/04/2015
+26,Plastic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,18,6 to 9,rpt01,29/04/2015
+26,Respiratory Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,46,6 to 9,rpt01,29/04/2015
+26,Rheumatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+26,Small Volume Specialities,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+27,Orthopaedics,Our Lady's Hospital Navan,Ireland East Hospital Group,D,34,6 to 9,rpt01,29/04/2015
+27,Small Volume Specialities,Our Lady's Hospital Navan,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+29,General Surgery,Roscommon County Hospital,Saolta University Health Care Group,D,0,6 to 9,rpt01,29/04/2015
+29,Plastic Surgery,Roscommon County Hospital,Saolta University Health Care Group,D,3,6 to 9,rpt01,29/04/2015
+29,Vascular Surgery,Roscommon County Hospital,Saolta University Health Care Group,D,3,6 to 9,rpt01,29/04/2015
+30,Ophthalmology,Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,D,350,6 to 9,rpt01,29/04/2015
+30,Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,D,60,6 to 9,rpt01,29/04/2015
+32,Dermatology,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+32,Endocrinology,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+32,General Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+32,Gynaecology,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,6,6 to 9,rpt01,29/04/2015
+32,Ophthalmology,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,118,6 to 9,rpt01,29/04/2015
+32,Orthopaedics,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,28,6 to 9,rpt01,29/04/2015
+32,Otolaryngology (ENT),South Infirmary Victoria University Hospital,South/South West Hospital Group,D,5,6 to 9,rpt01,29/04/2015
+32,Pain Relief,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+32,Plastic Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,16,6 to 9,rpt01,29/04/2015
+32,Small Volume Specialities,South Infirmary Victoria University Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+33,General Medicine,South Tipperary General Hospital,South/South West Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+33,General Surgery,South Tipperary General Hospital,South/South West Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+33,Gynaecology,South Tipperary General Hospital,South/South West Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+33,Small Volume Specialities,South Tipperary General Hospital,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+34,General Surgery,St. Columcille's Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+34,Urology,St. Columcille's Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+34,Small Volume Specialities,St. Columcille's Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+35,Cardiology,St. James's Hospital,Dublin Midlands Hospital Group,D,24,6 to 9,rpt01,29/04/2015
+35,Cardio-Thoracic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,D,24,6 to 9,rpt01,29/04/2015
+35,Dermatology,St. James's Hospital,Dublin Midlands Hospital Group,D,24,6 to 9,rpt01,29/04/2015
+35,General Surgery,St. James's Hospital,Dublin Midlands Hospital Group,D,138,6 to 9,rpt01,29/04/2015
+35,Geriatric Medicine,St. James's Hospital,Dublin Midlands Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+35,Gynaecology,St. James's Hospital,Dublin Midlands Hospital Group,D,22,6 to 9,rpt01,29/04/2015
+35,Maxillo-Facial,St. James's Hospital,Dublin Midlands Hospital Group,D,41,6 to 9,rpt01,29/04/2015
+35,Orthopaedics,St. James's Hospital,Dublin Midlands Hospital Group,D,69,6 to 9,rpt01,29/04/2015
+35,Otolaryngology (ENT),St. James's Hospital,Dublin Midlands Hospital Group,D,47,6 to 9,rpt01,29/04/2015
+35,Pain Relief,St. James's Hospital,Dublin Midlands Hospital Group,D,96,6 to 9,rpt01,29/04/2015
+35,Plastic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,D,125,6 to 9,rpt01,29/04/2015
+35,Respiratory Medicine,St. James's Hospital,Dublin Midlands Hospital Group,D,3,6 to 9,rpt01,29/04/2015
+35,Urology,St. James's Hospital,Dublin Midlands Hospital Group,D,62,6 to 9,rpt01,29/04/2015
+35,Vascular Surgery,St. James's Hospital,Dublin Midlands Hospital Group,D,147,6 to 9,rpt01,29/04/2015
+35,Small Volume Specialities,St. James's Hospital,Dublin Midlands Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+36,Anaesthetics,St. John's Hospital Limerick,University of Limerick Hospital Group,D,73,6 to 9,rpt01,29/04/2015
+36,General Medicine,St. John's Hospital Limerick,University of Limerick Hospital Group,D,4,6 to 9,rpt01,29/04/2015
+36,General Surgery,St. John's Hospital Limerick,University of Limerick Hospital Group,D,52,6 to 9,rpt01,29/04/2015
+36,Gynaecology,St. John's Hospital Limerick,University of Limerick Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+36,Urology,St. John's Hospital Limerick,University of Limerick Hospital Group,D,4,6 to 9,rpt01,29/04/2015
+36,Small Volume Specialities,St. John's Hospital Limerick,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+37,General Surgery,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,D,63,6 to 9,rpt01,29/04/2015
+37,Gynaecology,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,D,80,6 to 9,rpt01,29/04/2015
+37,Small Volume Specialities,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+39,Anaesthetics,Tallaght Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+39,Cardiology,Tallaght Hospital,Dublin Midlands Hospital Group,D,8,6 to 9,rpt01,29/04/2015
+39,Dental Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+39,Dermatology,Tallaght Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+39,Gastro-Enterology,Tallaght Hospital,Dublin Midlands Hospital Group,D,99,6 to 9,rpt01,29/04/2015
+39,General Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+39,General Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,D,115,6 to 9,rpt01,29/04/2015
+39,Gynaecology,Tallaght Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+39,Haematology,Tallaght Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+39,Neurology,Tallaght Hospital,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+39,Orthopaedics,Tallaght Hospital,Dublin Midlands Hospital Group,D,160,6 to 9,rpt01,29/04/2015
+39,Otolaryngology (ENT),Tallaght Hospital,Dublin Midlands Hospital Group,D,18,6 to 9,rpt01,29/04/2015
+39,Paed Orthopaedic,Tallaght Hospital,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+39,Paediatric ENT,Tallaght Hospital,Dublin Midlands Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+39,Paediatric Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+39,Paediatric Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+39,Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,D,13,6 to 9,rpt01,29/04/2015
+39,Rheumatology,Tallaght Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+39,Urology,Tallaght Hospital,Dublin Midlands Hospital Group,D,50,6 to 9,rpt01,29/04/2015
+39,Vascular Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,D,39,6 to 9,rpt01,29/04/2015
+39,Small Volume Specialities,Tallaght Hospital,Dublin Midlands Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+42,Cardiology,University Hospital Limerick,University of Limerick Hospital Group,D,2,6 to 9,rpt01,29/04/2015
+42,Dental Surgery,University Hospital Limerick,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+42,Gastro-Intestinal Surgery,University Hospital Limerick,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+42,General Medicine,University Hospital Limerick,University of Limerick Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+42,General Surgery,University Hospital Limerick,University of Limerick Hospital Group,D,8,6 to 9,rpt01,29/04/2015
+42,Gynaecology,University Hospital Limerick,University of Limerick Hospital Group,D,10,6 to 9,rpt01,29/04/2015
+42,Maxillo-Facial,University Hospital Limerick,University of Limerick Hospital Group,D,22,6 to 9,rpt01,29/04/2015
+42,Ophthalmology,University Hospital Limerick,University of Limerick Hospital Group,D,187,6 to 9,rpt01,29/04/2015
+42,Otolaryngology (ENT),University Hospital Limerick,University of Limerick Hospital Group,D,40,6 to 9,rpt01,29/04/2015
+42,Urology,University Hospital Limerick,University of Limerick Hospital Group,D,9,6 to 9,rpt01,29/04/2015
+42,Vascular Surgery,University Hospital Limerick,University of Limerick Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+40,Breast Surgery,University Hospital Waterford,South/South West Hospital Group,D,4,6 to 9,rpt01,29/04/2015
+40,Gastro-Enterology,University Hospital Waterford,South/South West Hospital Group,D,6,6 to 9,rpt01,29/04/2015
+40,Gastro-Intestinal Surgery,University Hospital Waterford,South/South West Hospital Group,D,3,6 to 9,rpt01,29/04/2015
+40,General Surgery,University Hospital Waterford,South/South West Hospital Group,D,33,6 to 9,rpt01,29/04/2015
+40,Gynaecology,University Hospital Waterford,South/South West Hospital Group,D,1,6 to 9,rpt01,29/04/2015
+40,Ophthalmology,University Hospital Waterford,South/South West Hospital Group,D,575,6 to 9,rpt01,29/04/2015
+40,Orthopaedics,University Hospital Waterford,South/South West Hospital Group,D,23,6 to 9,rpt01,29/04/2015
+40,Otolaryngology (ENT),University Hospital Waterford,South/South West Hospital Group,D,90,6 to 9,rpt01,29/04/2015
+40,Pain Relief,University Hospital Waterford,South/South West Hospital Group,D,28,6 to 9,rpt01,29/04/2015
+40,Urology,University Hospital Waterford,South/South West Hospital Group,D,4,6 to 9,rpt01,29/04/2015
+40,Vascular Surgery,University Hospital Waterford,South/South West Hospital Group,D,29,6 to 9,rpt01,29/04/2015
+40,Small Volume Specialities,University Hospital Waterford,South/South West Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+41,General Surgery,Wexford General Hospital,Ireland East Hospital Group,D,27,6 to 9,rpt01,29/04/2015
+41,Small Volume Specialities,Wexford General Hospital,Ireland East Hospital Group,D,0,6 to 9,rpt01,29/04/2015
+1,Small Volume Specialities,Bantry General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+2,Cardiology,Beaumont Hospital,RCSI Hospitals Group,E,2,9 to 12,rpt01,29/04/2015
+2,Clinical Immunology,Beaumont Hospital,RCSI Hospitals Group,E,5,9 to 12,rpt01,29/04/2015
+2,Dermatology,Beaumont Hospital,RCSI Hospitals Group,E,8,9 to 12,rpt01,29/04/2015
+2,Endocrinology,Beaumont Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+2,Gastro-Enterology,Beaumont Hospital,RCSI Hospitals Group,E,9,9 to 12,rpt01,29/04/2015
+2,General Surgery,Beaumont Hospital,RCSI Hospitals Group,E,148,9 to 12,rpt01,29/04/2015
+2,Gynaecology,Beaumont Hospital,RCSI Hospitals Group,E,26,9 to 12,rpt01,29/04/2015
+2,Nephrology,Beaumont Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+2,Neurology,Beaumont Hospital,RCSI Hospitals Group,E,9,9 to 12,rpt01,29/04/2015
+2,Neurosurgery,Beaumont Hospital,RCSI Hospitals Group,E,62,9 to 12,rpt01,29/04/2015
+2,Orthopaedics,Beaumont Hospital,RCSI Hospitals Group,E,58,9 to 12,rpt01,29/04/2015
+2,Otolaryngology (ENT),Beaumont Hospital,RCSI Hospitals Group,E,79,9 to 12,rpt01,29/04/2015
+2,Pain Relief,Beaumont Hospital,RCSI Hospitals Group,E,62,9 to 12,rpt01,29/04/2015
+2,Plastic Surgery,Beaumont Hospital,RCSI Hospitals Group,E,85,9 to 12,rpt01,29/04/2015
+2,Respiratory Medicine,Beaumont Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+2,Urology,Beaumont Hospital,RCSI Hospitals Group,E,63,9 to 12,rpt01,29/04/2015
+2,Vascular Surgery,Beaumont Hospital,RCSI Hospitals Group,E,81,9 to 12,rpt01,29/04/2015
+2,Small Volume Specialities,Beaumont Hospital,RCSI Hospitals Group,E,1,9 to 12,rpt01,29/04/2015
+3,Orthopaedics,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,E,463,9 to 12,rpt01,29/04/2015
+3,Small Volume Specialities,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+4,General Medicine,Cavan General Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+4,General Surgery,Cavan General Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+4,Gynaecology,Cavan General Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+4,Otolaryngology (ENT),Cavan General Hospital,RCSI Hospitals Group,E,46,9 to 12,rpt01,29/04/2015
+4,Small Volume Specialities,Cavan General Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+5,Dental Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+5,Ophthalmology,Childrens University Hospital Temple Street,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+5,Orthopaedics,Childrens University Hospital Temple Street,Children's Hospital Group,E,10,9 to 12,rpt01,29/04/2015
+5,Otolaryngology (ENT),Childrens University Hospital Temple Street,Children's Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+5,Paediatric Respiratory Medicine,Childrens University Hospital Temple Street,Children's Hospital Group,E,9,9 to 12,rpt01,29/04/2015
+5,Paediatric Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+5,Paediatrics,Childrens University Hospital Temple Street,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+5,Plastic Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+5,Urology,Childrens University Hospital Temple Street,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+5,Small Volume Specialities,Childrens University Hospital Temple Street,Children's Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+6,Cardiology,Connolly Hospital,RCSI Hospitals Group,E,27,9 to 12,rpt01,29/04/2015
+6,Dermatology,Connolly Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+6,General Surgery,Connolly Hospital,RCSI Hospitals Group,E,8,9 to 12,rpt01,29/04/2015
+6,Geriatric Medicine,Connolly Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+6,Orthopaedics,Connolly Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+6,Plastic Surgery,Connolly Hospital,RCSI Hospitals Group,E,1,9 to 12,rpt01,29/04/2015
+6,Respiratory Medicine,Connolly Hospital,RCSI Hospitals Group,E,49,9 to 12,rpt01,29/04/2015
+6,Urology,Connolly Hospital,RCSI Hospitals Group,E,5,9 to 12,rpt01,29/04/2015
+6,Small Volume Specialities,Connolly Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+7,Breast Surgery,Cork University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+7,Cardiology,Cork University Hospital,South/South West Hospital Group,E,4,9 to 12,rpt01,29/04/2015
+7,Cardio-Thoracic Surgery,Cork University Hospital,South/South West Hospital Group,E,3,9 to 12,rpt01,29/04/2015
+7,General Surgery,Cork University Hospital,South/South West Hospital Group,E,17,9 to 12,rpt01,29/04/2015
+7,Gynaecology,Cork University Hospital,South/South West Hospital Group,E,67,9 to 12,rpt01,29/04/2015
+7,Neurology,Cork University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+7,Neurosurgery,Cork University Hospital,South/South West Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+7,Plastic Surgery,Cork University Hospital,South/South West Hospital Group,E,10,9 to 12,rpt01,29/04/2015
+7,Respiratory Medicine,Cork University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+7,Urology,Cork University Hospital,South/South West Hospital Group,E,4,9 to 12,rpt01,29/04/2015
+7,Vascular Surgery,Cork University Hospital,South/South West Hospital Group,E,22,9 to 12,rpt01,29/04/2015
+7,Small Volume Specialities,Cork University Hospital,South/South West Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+23,Anaesthetics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+23,Orthopaedics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+23,Rheumatology,Croom Orthopaedic Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+21,General Surgery,Ennis Hospital,University of Limerick Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+21,Plastic Surgery,Ennis Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+21,Urology,Ennis Hospital,University of Limerick Hospital Group,E,81,9 to 12,rpt01,29/04/2015
+21,Vascular Surgery,Ennis Hospital,University of Limerick Hospital Group,E,6,9 to 12,rpt01,29/04/2015
+21,Small Volume Specialities,Ennis Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+8,Cardiology,Galway University Hospital,Saolta University Health Care Group,E,184,9 to 12,rpt01,29/04/2015
+8,Cardio-Thoracic Surgery,Galway University Hospital,Saolta University Health Care Group,E,5,9 to 12,rpt01,29/04/2015
+8,Dermatology,Galway University Hospital,Saolta University Health Care Group,E,1,9 to 12,rpt01,29/04/2015
+8,Endocrinology,Galway University Hospital,Saolta University Health Care Group,E,7,9 to 12,rpt01,29/04/2015
+8,Gastro-Enterology,Galway University Hospital,Saolta University Health Care Group,E,1,9 to 12,rpt01,29/04/2015
+8,General Medicine,Galway University Hospital,Saolta University Health Care Group,E,18,9 to 12,rpt01,29/04/2015
+8,General Surgery,Galway University Hospital,Saolta University Health Care Group,E,133,9 to 12,rpt01,29/04/2015
+8,Gynaecology,Galway University Hospital,Saolta University Health Care Group,E,19,9 to 12,rpt01,29/04/2015
+8,Neurology,Galway University Hospital,Saolta University Health Care Group,E,9,9 to 12,rpt01,29/04/2015
+8,Ophthalmology,Galway University Hospital,Saolta University Health Care Group,E,246,9 to 12,rpt01,29/04/2015
+8,Oral Surgery,Galway University Hospital,Saolta University Health Care Group,E,133,9 to 12,rpt01,29/04/2015
+8,Orthopaedics,Galway University Hospital,Saolta University Health Care Group,E,105,9 to 12,rpt01,29/04/2015
+8,Otolaryngology (ENT),Galway University Hospital,Saolta University Health Care Group,E,122,9 to 12,rpt01,29/04/2015
+8,Pain Relief,Galway University Hospital,Saolta University Health Care Group,E,93,9 to 12,rpt01,29/04/2015
+8,Plastic Surgery,Galway University Hospital,Saolta University Health Care Group,E,132,9 to 12,rpt01,29/04/2015
+8,Respiratory Medicine,Galway University Hospital,Saolta University Health Care Group,E,10,9 to 12,rpt01,29/04/2015
+8,Urology,Galway University Hospital,Saolta University Health Care Group,E,122,9 to 12,rpt01,29/04/2015
+8,Vascular Surgery,Galway University Hospital,Saolta University Health Care Group,E,13,9 to 12,rpt01,29/04/2015
+8,Small Volume Specialities,Galway University Hospital,Saolta University Health Care Group,E,0,9 to 12,rpt01,29/04/2015
+9,General Surgery,Kerry General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+9,Gynaecology,Kerry General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+9,Orthopaedics,Kerry General Hospital,South/South West Hospital Group,E,9,9 to 12,rpt01,29/04/2015
+9,Otolaryngology (ENT),Kerry General Hospital,South/South West Hospital Group,E,4,9 to 12,rpt01,29/04/2015
+9,Small Volume Specialities,Kerry General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+10,Cardiology,Letterkenny General Hospital,Saolta University Health Care Group,E,0,9 to 12,rpt01,29/04/2015
+10,General Medicine,Letterkenny General Hospital,Saolta University Health Care Group,E,0,9 to 12,rpt01,29/04/2015
+10,General Surgery,Letterkenny General Hospital,Saolta University Health Care Group,E,148,9 to 12,rpt01,29/04/2015
+10,Gynaecology,Letterkenny General Hospital,Saolta University Health Care Group,E,44,9 to 12,rpt01,29/04/2015
+10,Ophthalmology,Letterkenny General Hospital,Saolta University Health Care Group,E,3,9 to 12,rpt01,29/04/2015
+10,Orthopaedics,Letterkenny General Hospital,Saolta University Health Care Group,E,24,9 to 12,rpt01,29/04/2015
+10,Urology,Letterkenny General Hospital,Saolta University Health Care Group,E,15,9 to 12,rpt01,29/04/2015
+10,Vascular Surgery,Letterkenny General Hospital,Saolta University Health Care Group,E,3,9 to 12,rpt01,29/04/2015
+10,Small Volume Specialities,Letterkenny General Hospital,Saolta University Health Care Group,E,0,9 to 12,rpt01,29/04/2015
+11,Orthopaedics,Lourdes Orthopaedic Hospital Kilcreene,South/South West Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+12,General Surgery,Louth County Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+12,Geriatric Medicine,Louth County Hospital,RCSI Hospitals Group,E,29,9 to 12,rpt01,29/04/2015
+12,Gynaecology,Louth County Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+12,Ophthalmology,Louth County Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+12,Urology,Louth County Hospital,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+13,General Surgery,Mallow General Hospital,South/South West Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+13,Vascular Surgery,Mallow General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+13,Small Volume Specialities,Mallow General Hospital,South/South West Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+14,Cardiology,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,204,9 to 12,rpt01,29/04/2015
+14,Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,21,9 to 12,rpt01,29/04/2015
+14,Dental Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+14,Gastro-Intestinal Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,39,9 to 12,rpt01,29/04/2015
+14,General Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,31,9 to 12,rpt01,29/04/2015
+14,Gynaecology,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+14,Ophthalmology,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,260,9 to 12,rpt01,29/04/2015
+14,Orthopaedics,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,22,9 to 12,rpt01,29/04/2015
+14,Otolaryngology (ENT),Mater Misericordiae University Hospital,Ireland East Hospital Group,E,13,9 to 12,rpt01,29/04/2015
+14,Pain Relief,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,38,9 to 12,rpt01,29/04/2015
+14,Plastic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,17,9 to 12,rpt01,29/04/2015
+14,Respiratory Medicine,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+14,Rheumatology,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,4,9 to 12,rpt01,29/04/2015
+14,Urology,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,59,9 to 12,rpt01,29/04/2015
+14,Vascular Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,23,9 to 12,rpt01,29/04/2015
+14,Small Volume Specialities,Mater Misericordiae University Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+15,Gynaecology,Mayo General Hospital,Saolta University Health Care Group,E,1,9 to 12,rpt01,29/04/2015
+15,Orthopaedics,Mayo General Hospital,Saolta University Health Care Group,E,1,9 to 12,rpt01,29/04/2015
+15,Small Volume Specialities,Mayo General Hospital,Saolta University Health Care Group,E,0,9 to 12,rpt01,29/04/2015
+16,Cardiology,Mercy University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+16,Gastro-Enterology,Mercy University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+16,Gastro-Intestinal Surgery,Mercy University Hospital,South/South West Hospital Group,E,16,9 to 12,rpt01,29/04/2015
+16,General Surgery,Mercy University Hospital,South/South West Hospital Group,E,36,9 to 12,rpt01,29/04/2015
+16,Hepato-Biliary Surgery,Mercy University Hospital,South/South West Hospital Group,E,11,9 to 12,rpt01,29/04/2015
+16,Ophthalmology,Mercy University Hospital,South/South West Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+16,Pain Relief,Mercy University Hospital,South/South West Hospital Group,E,14,9 to 12,rpt01,29/04/2015
+16,Respiratory Medicine,Mercy University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+16,Urology,Mercy University Hospital,South/South West Hospital Group,E,22,9 to 12,rpt01,29/04/2015
+16,Vascular Surgery,Mercy University Hospital,South/South West Hospital Group,E,16,9 to 12,rpt01,29/04/2015
+16,Small Volume Specialities,Mercy University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+17,General Surgery,Midland Regional Hospital Mullingar,Ireland East Hospital Group,E,4,9 to 12,rpt01,29/04/2015
+17,Gynaecology,Midland Regional Hospital Mullingar,Ireland East Hospital Group,E,8,9 to 12,rpt01,29/04/2015
+18,General Surgery,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+18,Gynaecology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,E,3,9 to 12,rpt01,29/04/2015
+18,Pain Relief,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+18,Urology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+18,Small Volume Specialities,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+19,Anaesthetics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+19,Cardiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+19,General Surgery,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,E,6,9 to 12,rpt01,29/04/2015
+19,Orthopaedics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,E,93,9 to 12,rpt01,29/04/2015
+19,Otolaryngology (ENT),Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,E,150,9 to 12,rpt01,29/04/2015
+19,Radiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+19,Small Volume Specialities,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+24,General Surgery,Naas General Hospital,Dublin Midlands Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+24,Small Volume Specialities,Naas General Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+22,Dermatology,Nenagh Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+22,General Surgery,Nenagh Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+22,Maxillo-Facial,Nenagh Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+22,Orthopaedics,Nenagh Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+22,Urology,Nenagh Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+22,Vascular Surgery,Nenagh Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+22,Small Volume Specialities,Nenagh Hospital,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+25,General Medicine,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+25,General Surgery,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,E,49,9 to 12,rpt01,29/04/2015
+25,Gynaecology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,E,17,9 to 12,rpt01,29/04/2015
+25,Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,E,71,9 to 12,rpt01,29/04/2015
+25,Urology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,E,27,9 to 12,rpt01,29/04/2015
+25,Small Volume Specialities,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,E,0,9 to 12,rpt01,29/04/2015
+26,Cardio-Thoracic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+26,Dental Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,11,9 to 12,rpt01,29/04/2015
+26,Dermatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+26,General Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+26,General Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,3,9 to 12,rpt01,29/04/2015
+26,Maxillo-Facial,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+26,Ophthalmology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,21,9 to 12,rpt01,29/04/2015
+26,Orthopaedics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,76,9 to 12,rpt01,29/04/2015
+26,Otolaryngology (ENT),Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,39,9 to 12,rpt01,29/04/2015
+26,Paed Cardiology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,38,9 to 12,rpt01,29/04/2015
+26,Paediatrics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+26,Plastic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,5,9 to 12,rpt01,29/04/2015
+26,Respiratory Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,82,9 to 12,rpt01,29/04/2015
+26,Rheumatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+26,Small Volume Specialities,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+27,Orthopaedics,Our Lady's Hospital Navan,Ireland East Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+27,Small Volume Specialities,Our Lady's Hospital Navan,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+29,General Surgery,Roscommon County Hospital,Saolta University Health Care Group,E,20,9 to 12,rpt01,29/04/2015
+29,Plastic Surgery,Roscommon County Hospital,Saolta University Health Care Group,E,0,9 to 12,rpt01,29/04/2015
+29,Vascular Surgery,Roscommon County Hospital,Saolta University Health Care Group,E,0,9 to 12,rpt01,29/04/2015
+30,Ophthalmology,Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,E,224,9 to 12,rpt01,29/04/2015
+30,Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,E,40,9 to 12,rpt01,29/04/2015
+32,Dermatology,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+32,Endocrinology,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+32,General Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+32,Gynaecology,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+32,Ophthalmology,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,145,9 to 12,rpt01,29/04/2015
+32,Orthopaedics,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,10,9 to 12,rpt01,29/04/2015
+32,Otolaryngology (ENT),South Infirmary Victoria University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+32,Pain Relief,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+32,Plastic Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,3,9 to 12,rpt01,29/04/2015
+32,Small Volume Specialities,South Infirmary Victoria University Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+33,General Medicine,South Tipperary General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+33,General Surgery,South Tipperary General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+33,Gynaecology,South Tipperary General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+33,Small Volume Specialities,South Tipperary General Hospital,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+34,General Surgery,St. Columcille's Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+34,Urology,St. Columcille's Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+34,Small Volume Specialities,St. Columcille's Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+35,Cardiology,St. James's Hospital,Dublin Midlands Hospital Group,E,30,9 to 12,rpt01,29/04/2015
+35,Cardio-Thoracic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,E,20,9 to 12,rpt01,29/04/2015
+35,Dermatology,St. James's Hospital,Dublin Midlands Hospital Group,E,13,9 to 12,rpt01,29/04/2015
+35,General Surgery,St. James's Hospital,Dublin Midlands Hospital Group,E,97,9 to 12,rpt01,29/04/2015
+35,Geriatric Medicine,St. James's Hospital,Dublin Midlands Hospital Group,E,6,9 to 12,rpt01,29/04/2015
+35,Gynaecology,St. James's Hospital,Dublin Midlands Hospital Group,E,8,9 to 12,rpt01,29/04/2015
+35,Maxillo-Facial,St. James's Hospital,Dublin Midlands Hospital Group,E,82,9 to 12,rpt01,29/04/2015
+35,Orthopaedics,St. James's Hospital,Dublin Midlands Hospital Group,E,52,9 to 12,rpt01,29/04/2015
+35,Otolaryngology (ENT),St. James's Hospital,Dublin Midlands Hospital Group,E,59,9 to 12,rpt01,29/04/2015
+35,Pain Relief,St. James's Hospital,Dublin Midlands Hospital Group,E,33,9 to 12,rpt01,29/04/2015
+35,Plastic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,E,84,9 to 12,rpt01,29/04/2015
+35,Respiratory Medicine,St. James's Hospital,Dublin Midlands Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+35,Urology,St. James's Hospital,Dublin Midlands Hospital Group,E,37,9 to 12,rpt01,29/04/2015
+35,Vascular Surgery,St. James's Hospital,Dublin Midlands Hospital Group,E,136,9 to 12,rpt01,29/04/2015
+35,Small Volume Specialities,St. James's Hospital,Dublin Midlands Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+36,Anaesthetics,St. John's Hospital Limerick,University of Limerick Hospital Group,E,10,9 to 12,rpt01,29/04/2015
+36,General Medicine,St. John's Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+36,General Surgery,St. John's Hospital Limerick,University of Limerick Hospital Group,E,6,9 to 12,rpt01,29/04/2015
+36,Gynaecology,St. John's Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+36,Urology,St. John's Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+36,Small Volume Specialities,St. John's Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+37,General Surgery,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+37,Gynaecology,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,E,51,9 to 12,rpt01,29/04/2015
+37,Small Volume Specialities,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Anaesthetics,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Cardiology,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Dental Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Dermatology,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Gastro-Enterology,Tallaght Hospital,Dublin Midlands Hospital Group,E,100,9 to 12,rpt01,29/04/2015
+39,General Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,General Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,E,44,9 to 12,rpt01,29/04/2015
+39,Gynaecology,Tallaght Hospital,Dublin Midlands Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+39,Haematology,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Neurology,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Orthopaedics,Tallaght Hospital,Dublin Midlands Hospital Group,E,87,9 to 12,rpt01,29/04/2015
+39,Otolaryngology (ENT),Tallaght Hospital,Dublin Midlands Hospital Group,E,5,9 to 12,rpt01,29/04/2015
+39,Paed Orthopaedic,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Paediatric ENT,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Paediatric Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+39,Paediatric Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+39,Rheumatology,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+39,Urology,Tallaght Hospital,Dublin Midlands Hospital Group,E,43,9 to 12,rpt01,29/04/2015
+39,Vascular Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,E,17,9 to 12,rpt01,29/04/2015
+39,Small Volume Specialities,Tallaght Hospital,Dublin Midlands Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+42,Cardiology,University Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+42,Dental Surgery,University Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+42,Gastro-Intestinal Surgery,University Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+42,General Medicine,University Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+42,General Surgery,University Hospital Limerick,University of Limerick Hospital Group,E,1,9 to 12,rpt01,29/04/2015
+42,Gynaecology,University Hospital Limerick,University of Limerick Hospital Group,E,3,9 to 12,rpt01,29/04/2015
+42,Maxillo-Facial,University Hospital Limerick,University of Limerick Hospital Group,E,8,9 to 12,rpt01,29/04/2015
+42,Ophthalmology,University Hospital Limerick,University of Limerick Hospital Group,E,75,9 to 12,rpt01,29/04/2015
+42,Otolaryngology (ENT),University Hospital Limerick,University of Limerick Hospital Group,E,37,9 to 12,rpt01,29/04/2015
+42,Urology,University Hospital Limerick,University of Limerick Hospital Group,E,10,9 to 12,rpt01,29/04/2015
+42,Vascular Surgery,University Hospital Limerick,University of Limerick Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+40,Breast Surgery,University Hospital Waterford,South/South West Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+40,Gastro-Enterology,University Hospital Waterford,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+40,Gastro-Intestinal Surgery,University Hospital Waterford,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+40,General Surgery,University Hospital Waterford,South/South West Hospital Group,E,18,9 to 12,rpt01,29/04/2015
+40,Gynaecology,University Hospital Waterford,South/South West Hospital Group,E,2,9 to 12,rpt01,29/04/2015
+40,Ophthalmology,University Hospital Waterford,South/South West Hospital Group,E,564,9 to 12,rpt01,29/04/2015
+40,Orthopaedics,University Hospital Waterford,South/South West Hospital Group,E,15,9 to 12,rpt01,29/04/2015
+40,Otolaryngology (ENT),University Hospital Waterford,South/South West Hospital Group,E,71,9 to 12,rpt01,29/04/2015
+40,Pain Relief,University Hospital Waterford,South/South West Hospital Group,E,18,9 to 12,rpt01,29/04/2015
+40,Urology,University Hospital Waterford,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+40,Vascular Surgery,University Hospital Waterford,South/South West Hospital Group,E,25,9 to 12,rpt01,29/04/2015
+40,Small Volume Specialities,University Hospital Waterford,South/South West Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+41,General Surgery,Wexford General Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+41,Small Volume Specialities,Wexford General Hospital,Ireland East Hospital Group,E,0,9 to 12,rpt01,29/04/2015
+1,Small Volume Specialities,Bantry General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+2,Cardiology,Beaumont Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+2,Clinical Immunology,Beaumont Hospital,RCSI Hospitals Group,F,5,12 Plus,rpt01,29/04/2015
+2,Dermatology,Beaumont Hospital,RCSI Hospitals Group,F,26,12 Plus,rpt01,29/04/2015
+2,Endocrinology,Beaumont Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+2,Gastro-Enterology,Beaumont Hospital,RCSI Hospitals Group,F,12,12 Plus,rpt01,29/04/2015
+2,General Surgery,Beaumont Hospital,RCSI Hospitals Group,F,276,12 Plus,rpt01,29/04/2015
+2,Gynaecology,Beaumont Hospital,RCSI Hospitals Group,F,66,12 Plus,rpt01,29/04/2015
+2,Nephrology,Beaumont Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+2,Neurology,Beaumont Hospital,RCSI Hospitals Group,F,4,12 Plus,rpt01,29/04/2015
+2,Neurosurgery,Beaumont Hospital,RCSI Hospitals Group,F,217,12 Plus,rpt01,29/04/2015
+2,Orthopaedics,Beaumont Hospital,RCSI Hospitals Group,F,141,12 Plus,rpt01,29/04/2015
+2,Otolaryngology (ENT),Beaumont Hospital,RCSI Hospitals Group,F,202,12 Plus,rpt01,29/04/2015
+2,Pain Relief,Beaumont Hospital,RCSI Hospitals Group,F,88,12 Plus,rpt01,29/04/2015
+2,Plastic Surgery,Beaumont Hospital,RCSI Hospitals Group,F,187,12 Plus,rpt01,29/04/2015
+2,Respiratory Medicine,Beaumont Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+2,Urology,Beaumont Hospital,RCSI Hospitals Group,F,53,12 Plus,rpt01,29/04/2015
+2,Vascular Surgery,Beaumont Hospital,RCSI Hospitals Group,F,48,12 Plus,rpt01,29/04/2015
+2,Small Volume Specialities,Beaumont Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+3,Orthopaedics,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,F,269,12 Plus,rpt01,29/04/2015
+3,Small Volume Specialities,Cappagh National Orthopaedic Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+4,General Medicine,Cavan General Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+4,General Surgery,Cavan General Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+4,Gynaecology,Cavan General Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+4,Otolaryngology (ENT),Cavan General Hospital,RCSI Hospitals Group,F,124,12 Plus,rpt01,29/04/2015
+4,Small Volume Specialities,Cavan General Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+5,Dental Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+5,Ophthalmology,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+5,Orthopaedics,Childrens University Hospital Temple Street,Children's Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+5,Otolaryngology (ENT),Childrens University Hospital Temple Street,Children's Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+5,Paediatric Respiratory Medicine,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+5,Paediatric Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+5,Paediatrics,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+5,Plastic Surgery,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+5,Urology,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+5,Small Volume Specialities,Childrens University Hospital Temple Street,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+6,Cardiology,Connolly Hospital,RCSI Hospitals Group,F,6,12 Plus,rpt01,29/04/2015
+6,Dermatology,Connolly Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+6,General Surgery,Connolly Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+6,Geriatric Medicine,Connolly Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+6,Orthopaedics,Connolly Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+6,Plastic Surgery,Connolly Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+6,Respiratory Medicine,Connolly Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+6,Urology,Connolly Hospital,RCSI Hospitals Group,F,1,12 Plus,rpt01,29/04/2015
+6,Small Volume Specialities,Connolly Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+7,Breast Surgery,Cork University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+7,Cardiology,Cork University Hospital,South/South West Hospital Group,F,8,12 Plus,rpt01,29/04/2015
+7,Cardio-Thoracic Surgery,Cork University Hospital,South/South West Hospital Group,F,4,12 Plus,rpt01,29/04/2015
+7,General Surgery,Cork University Hospital,South/South West Hospital Group,F,27,12 Plus,rpt01,29/04/2015
+7,Gynaecology,Cork University Hospital,South/South West Hospital Group,F,110,12 Plus,rpt01,29/04/2015
+7,Neurology,Cork University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+7,Neurosurgery,Cork University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+7,Plastic Surgery,Cork University Hospital,South/South West Hospital Group,F,3,12 Plus,rpt01,29/04/2015
+7,Respiratory Medicine,Cork University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+7,Urology,Cork University Hospital,South/South West Hospital Group,F,10,12 Plus,rpt01,29/04/2015
+7,Vascular Surgery,Cork University Hospital,South/South West Hospital Group,F,51,12 Plus,rpt01,29/04/2015
+7,Small Volume Specialities,Cork University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+23,Anaesthetics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+23,Orthopaedics,Croom Orthopaedic Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+23,Rheumatology,Croom Orthopaedic Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+21,General Surgery,Ennis Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+21,Plastic Surgery,Ennis Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+21,Urology,Ennis Hospital,University of Limerick Hospital Group,F,15,12 Plus,rpt01,29/04/2015
+21,Vascular Surgery,Ennis Hospital,University of Limerick Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+21,Small Volume Specialities,Ennis Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+8,Cardiology,Galway University Hospital,Saolta University Health Care Group,F,40,12 Plus,rpt01,29/04/2015
+8,Cardio-Thoracic Surgery,Galway University Hospital,Saolta University Health Care Group,F,1,12 Plus,rpt01,29/04/2015
+8,Dermatology,Galway University Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+8,Endocrinology,Galway University Hospital,Saolta University Health Care Group,F,8,12 Plus,rpt01,29/04/2015
+8,Gastro-Enterology,Galway University Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+8,General Medicine,Galway University Hospital,Saolta University Health Care Group,F,2,12 Plus,rpt01,29/04/2015
+8,General Surgery,Galway University Hospital,Saolta University Health Care Group,F,215,12 Plus,rpt01,29/04/2015
+8,Gynaecology,Galway University Hospital,Saolta University Health Care Group,F,68,12 Plus,rpt01,29/04/2015
+8,Neurology,Galway University Hospital,Saolta University Health Care Group,F,4,12 Plus,rpt01,29/04/2015
+8,Ophthalmology,Galway University Hospital,Saolta University Health Care Group,F,321,12 Plus,rpt01,29/04/2015
+8,Oral Surgery,Galway University Hospital,Saolta University Health Care Group,F,213,12 Plus,rpt01,29/04/2015
+8,Orthopaedics,Galway University Hospital,Saolta University Health Care Group,F,65,12 Plus,rpt01,29/04/2015
+8,Otolaryngology (ENT),Galway University Hospital,Saolta University Health Care Group,F,205,12 Plus,rpt01,29/04/2015
+8,Pain Relief,Galway University Hospital,Saolta University Health Care Group,F,85,12 Plus,rpt01,29/04/2015
+8,Plastic Surgery,Galway University Hospital,Saolta University Health Care Group,F,169,12 Plus,rpt01,29/04/2015
+8,Respiratory Medicine,Galway University Hospital,Saolta University Health Care Group,F,1,12 Plus,rpt01,29/04/2015
+8,Urology,Galway University Hospital,Saolta University Health Care Group,F,80,12 Plus,rpt01,29/04/2015
+8,Vascular Surgery,Galway University Hospital,Saolta University Health Care Group,F,49,12 Plus,rpt01,29/04/2015
+8,Small Volume Specialities,Galway University Hospital,Saolta University Health Care Group,F,3,12 Plus,rpt01,29/04/2015
+9,General Surgery,Kerry General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+9,Gynaecology,Kerry General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+9,Orthopaedics,Kerry General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+9,Otolaryngology (ENT),Kerry General Hospital,South/South West Hospital Group,F,2,12 Plus,rpt01,29/04/2015
+9,Small Volume Specialities,Kerry General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+10,Cardiology,Letterkenny General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+10,General Medicine,Letterkenny General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+10,General Surgery,Letterkenny General Hospital,Saolta University Health Care Group,F,153,12 Plus,rpt01,29/04/2015
+10,Gynaecology,Letterkenny General Hospital,Saolta University Health Care Group,F,13,12 Plus,rpt01,29/04/2015
+10,Ophthalmology,Letterkenny General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+10,Orthopaedics,Letterkenny General Hospital,Saolta University Health Care Group,F,4,12 Plus,rpt01,29/04/2015
+10,Urology,Letterkenny General Hospital,Saolta University Health Care Group,F,12,12 Plus,rpt01,29/04/2015
+10,Vascular Surgery,Letterkenny General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+10,Small Volume Specialities,Letterkenny General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+11,Orthopaedics,Lourdes Orthopaedic Hospital Kilcreene,South/South West Hospital Group,F,28,12 Plus,rpt01,29/04/2015
+12,General Surgery,Louth County Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+12,Geriatric Medicine,Louth County Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+12,Gynaecology,Louth County Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+12,Ophthalmology,Louth County Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+12,Urology,Louth County Hospital,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+13,General Surgery,Mallow General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+13,Vascular Surgery,Mallow General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+13,Small Volume Specialities,Mallow General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+14,Cardiology,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,147,12 Plus,rpt01,29/04/2015
+14,Cardio-Thoracic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,11,12 Plus,rpt01,29/04/2015
+14,Dental Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,3,12 Plus,rpt01,29/04/2015
+14,Gastro-Intestinal Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,93,12 Plus,rpt01,29/04/2015
+14,General Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,25,12 Plus,rpt01,29/04/2015
+14,Gynaecology,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,11,12 Plus,rpt01,29/04/2015
+14,Ophthalmology,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,510,12 Plus,rpt01,29/04/2015
+14,Orthopaedics,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,56,12 Plus,rpt01,29/04/2015
+14,Otolaryngology (ENT),Mater Misericordiae University Hospital,Ireland East Hospital Group,F,14,12 Plus,rpt01,29/04/2015
+14,Pain Relief,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,4,12 Plus,rpt01,29/04/2015
+14,Plastic Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,43,12 Plus,rpt01,29/04/2015
+14,Respiratory Medicine,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+14,Rheumatology,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+14,Urology,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,103,12 Plus,rpt01,29/04/2015
+14,Vascular Surgery,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,14,12 Plus,rpt01,29/04/2015
+14,Small Volume Specialities,Mater Misericordiae University Hospital,Ireland East Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+15,Gynaecology,Mayo General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+15,Orthopaedics,Mayo General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+15,Small Volume Specialities,Mayo General Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+16,Cardiology,Mercy University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+16,Gastro-Enterology,Mercy University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+16,Gastro-Intestinal Surgery,Mercy University Hospital,South/South West Hospital Group,F,8,12 Plus,rpt01,29/04/2015
+16,General Surgery,Mercy University Hospital,South/South West Hospital Group,F,40,12 Plus,rpt01,29/04/2015
+16,Hepato-Biliary Surgery,Mercy University Hospital,South/South West Hospital Group,F,10,12 Plus,rpt01,29/04/2015
+16,Ophthalmology,Mercy University Hospital,South/South West Hospital Group,F,2,12 Plus,rpt01,29/04/2015
+16,Pain Relief,Mercy University Hospital,South/South West Hospital Group,F,2,12 Plus,rpt01,29/04/2015
+16,Respiratory Medicine,Mercy University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+16,Urology,Mercy University Hospital,South/South West Hospital Group,F,7,12 Plus,rpt01,29/04/2015
+16,Vascular Surgery,Mercy University Hospital,South/South West Hospital Group,F,76,12 Plus,rpt01,29/04/2015
+16,Small Volume Specialities,Mercy University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+17,General Surgery,Midland Regional Hospital Mullingar,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+17,Gynaecology,Midland Regional Hospital Mullingar,Ireland East Hospital Group,F,10,12 Plus,rpt01,29/04/2015
+18,General Surgery,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,F,5,12 Plus,rpt01,29/04/2015
+18,Gynaecology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,F,4,12 Plus,rpt01,29/04/2015
+18,Pain Relief,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+18,Urology,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+18,Small Volume Specialities,Midland Regional Hospital Portlaoise,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+19,Anaesthetics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+19,Cardiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+19,General Surgery,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,F,4,12 Plus,rpt01,29/04/2015
+19,Orthopaedics,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,F,86,12 Plus,rpt01,29/04/2015
+19,Otolaryngology (ENT),Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,F,209,12 Plus,rpt01,29/04/2015
+19,Radiology,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+19,Small Volume Specialities,Midland Regional Hospital Tullamore,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+24,General Surgery,Naas General Hospital,Dublin Midlands Hospital Group,F,4,12 Plus,rpt01,29/04/2015
+24,Small Volume Specialities,Naas General Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+22,Dermatology,Nenagh Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+22,General Surgery,Nenagh Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+22,Maxillo-Facial,Nenagh Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+22,Orthopaedics,Nenagh Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+22,Urology,Nenagh Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+22,Vascular Surgery,Nenagh Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+22,Small Volume Specialities,Nenagh Hospital,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+25,General Medicine,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+25,General Surgery,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,F,21,12 Plus,rpt01,29/04/2015
+25,Gynaecology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,F,2,12 Plus,rpt01,29/04/2015
+25,Otolaryngology (ENT),Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,F,237,12 Plus,rpt01,29/04/2015
+25,Urology,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,F,26,12 Plus,rpt01,29/04/2015
+25,Small Volume Specialities,Our Lady of Lourdes Hospital Drogheda,RCSI Hospitals Group,F,0,12 Plus,rpt01,29/04/2015
+26,Cardio-Thoracic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+26,Dental Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+26,Dermatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+26,General Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+26,General Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+26,Maxillo-Facial,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+26,Ophthalmology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,7,12 Plus,rpt01,29/04/2015
+26,Orthopaedics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,108,12 Plus,rpt01,29/04/2015
+26,Otolaryngology (ENT),Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,103,12 Plus,rpt01,29/04/2015
+26,Paed Cardiology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,28,12 Plus,rpt01,29/04/2015
+26,Paediatrics,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+26,Plastic Surgery,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+26,Respiratory Medicine,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,109,12 Plus,rpt01,29/04/2015
+26,Rheumatology,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+26,Small Volume Specialities,Our Lady's Children's Hospital Crumlin,Children's Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+27,Orthopaedics,Our Lady's Hospital Navan,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+27,Small Volume Specialities,Our Lady's Hospital Navan,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+29,General Surgery,Roscommon County Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+29,Plastic Surgery,Roscommon County Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+29,Vascular Surgery,Roscommon County Hospital,Saolta University Health Care Group,F,0,12 Plus,rpt01,29/04/2015
+30,Ophthalmology,Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,F,172,12 Plus,rpt01,29/04/2015
+30,Otolaryngology (ENT),Royal Victoria Eye and Ear Hospital,Ireland East Hospital Group,F,23,12 Plus,rpt01,29/04/2015
+32,Dermatology,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,Endocrinology,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,General Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,Gynaecology,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,Ophthalmology,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,214,12 Plus,rpt01,29/04/2015
+32,Orthopaedics,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,Otolaryngology (ENT),South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,Pain Relief,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,Plastic Surgery,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+32,Small Volume Specialities,South Infirmary Victoria University Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+33,General Medicine,South Tipperary General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+33,General Surgery,South Tipperary General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+33,Gynaecology,South Tipperary General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+33,Small Volume Specialities,South Tipperary General Hospital,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+34,General Surgery,St. Columcille's Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+34,Urology,St. Columcille's Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+34,Small Volume Specialities,St. Columcille's Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+35,Cardiology,St. James's Hospital,Dublin Midlands Hospital Group,F,11,12 Plus,rpt01,29/04/2015
+35,Cardio-Thoracic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,F,57,12 Plus,rpt01,29/04/2015
+35,Dermatology,St. James's Hospital,Dublin Midlands Hospital Group,F,28,12 Plus,rpt01,29/04/2015
+35,General Surgery,St. James's Hospital,Dublin Midlands Hospital Group,F,149,12 Plus,rpt01,29/04/2015
+35,Geriatric Medicine,St. James's Hospital,Dublin Midlands Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+35,Gynaecology,St. James's Hospital,Dublin Midlands Hospital Group,F,18,12 Plus,rpt01,29/04/2015
+35,Maxillo-Facial,St. James's Hospital,Dublin Midlands Hospital Group,F,387,12 Plus,rpt01,29/04/2015
+35,Orthopaedics,St. James's Hospital,Dublin Midlands Hospital Group,F,55,12 Plus,rpt01,29/04/2015
+35,Otolaryngology (ENT),St. James's Hospital,Dublin Midlands Hospital Group,F,87,12 Plus,rpt01,29/04/2015
+35,Pain Relief,St. James's Hospital,Dublin Midlands Hospital Group,F,15,12 Plus,rpt01,29/04/2015
+35,Plastic Surgery,St. James's Hospital,Dublin Midlands Hospital Group,F,121,12 Plus,rpt01,29/04/2015
+35,Respiratory Medicine,St. James's Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+35,Urology,St. James's Hospital,Dublin Midlands Hospital Group,F,174,12 Plus,rpt01,29/04/2015
+35,Vascular Surgery,St. James's Hospital,Dublin Midlands Hospital Group,F,253,12 Plus,rpt01,29/04/2015
+35,Small Volume Specialities,St. James's Hospital,Dublin Midlands Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+36,Anaesthetics,St. John's Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+36,General Medicine,St. John's Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+36,General Surgery,St. John's Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+36,Gynaecology,St. John's Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+36,Urology,St. John's Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+36,Small Volume Specialities,St. John's Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+37,General Surgery,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+37,Gynaecology,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,F,42,12 Plus,rpt01,29/04/2015
+37,Small Volume Specialities,St. Luke's General Hospital Kilkenny,Ireland East Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+39,Anaesthetics,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Cardiology,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Dental Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Dermatology,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Gastro-Enterology,Tallaght Hospital,Dublin Midlands Hospital Group,F,265,12 Plus,rpt01,29/04/2015
+39,General Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,General Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,F,89,12 Plus,rpt01,29/04/2015
+39,Gynaecology,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Haematology,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Neurology,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Orthopaedics,Tallaght Hospital,Dublin Midlands Hospital Group,F,200,12 Plus,rpt01,29/04/2015
+39,Otolaryngology (ENT),Tallaght Hospital,Dublin Midlands Hospital Group,F,35,12 Plus,rpt01,29/04/2015
+39,Paed Orthopaedic,Tallaght Hospital,Dublin Midlands Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+39,Paediatric ENT,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Paediatric Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Paediatric Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Respiratory Medicine,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Rheumatology,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+39,Urology,Tallaght Hospital,Dublin Midlands Hospital Group,F,6,12 Plus,rpt01,29/04/2015
+39,Vascular Surgery,Tallaght Hospital,Dublin Midlands Hospital Group,F,7,12 Plus,rpt01,29/04/2015
+39,Small Volume Specialities,Tallaght Hospital,Dublin Midlands Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+42,Cardiology,University Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+42,Dental Surgery,University Hospital Limerick,University of Limerick Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+42,Gastro-Intestinal Surgery,University Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+42,General Medicine,University Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+42,General Surgery,University Hospital Limerick,University of Limerick Hospital Group,F,3,12 Plus,rpt01,29/04/2015
+42,Gynaecology,University Hospital Limerick,University of Limerick Hospital Group,F,3,12 Plus,rpt01,29/04/2015
+42,Maxillo-Facial,University Hospital Limerick,University of Limerick Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+42,Ophthalmology,University Hospital Limerick,University of Limerick Hospital Group,F,42,12 Plus,rpt01,29/04/2015
+42,Otolaryngology (ENT),University Hospital Limerick,University of Limerick Hospital Group,F,59,12 Plus,rpt01,29/04/2015
+42,Urology,University Hospital Limerick,University of Limerick Hospital Group,F,10,12 Plus,rpt01,29/04/2015
+42,Vascular Surgery,University Hospital Limerick,University of Limerick Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+40,Breast Surgery,University Hospital Waterford,South/South West Hospital Group,F,6,12 Plus,rpt01,29/04/2015
+40,Gastro-Enterology,University Hospital Waterford,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+40,Gastro-Intestinal Surgery,University Hospital Waterford,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+40,General Surgery,University Hospital Waterford,South/South West Hospital Group,F,21,12 Plus,rpt01,29/04/2015
+40,Gynaecology,University Hospital Waterford,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+40,Ophthalmology,University Hospital Waterford,South/South West Hospital Group,F,437,12 Plus,rpt01,29/04/2015
+40,Orthopaedics,University Hospital Waterford,South/South West Hospital Group,F,14,12 Plus,rpt01,29/04/2015
+40,Otolaryngology (ENT),University Hospital Waterford,South/South West Hospital Group,F,24,12 Plus,rpt01,29/04/2015
+40,Pain Relief,University Hospital Waterford,South/South West Hospital Group,F,28,12 Plus,rpt01,29/04/2015
+40,Urology,University Hospital Waterford,South/South West Hospital Group,F,1,12 Plus,rpt01,29/04/2015
+40,Vascular Surgery,University Hospital Waterford,South/South West Hospital Group,F,4,12 Plus,rpt01,29/04/2015
+40,Small Volume Specialities,University Hospital Waterford,South/South West Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+41,General Surgery,Wexford General Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
+41,Small Volume Specialities,Wexford General Hospital,Ireland East Hospital Group,F,0,12 Plus,rpt01,29/04/2015
