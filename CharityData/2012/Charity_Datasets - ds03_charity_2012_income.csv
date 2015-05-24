@@ -1,0 +1,35 @@
+UID,CHY,Charity,L1,Level1,L2,Level2,L3,Level3,Level4,Amount,Year
+12,5745,Concern,A,Incoming,A1,A1_Funds,A1_1110,Voluntary Income,Voluntary Income,41765000,2012
+6,6271,Goal,A,Incoming,A1,A1_Funds,A1_1110,Voluntary Income,Voluntary Income,7228703,2012
+7,6271,Goal,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Activities for generating funds,884895,2012
+8,6271,Goal,A,Incoming,A1,A1_Funds,A1_1112,Investment Income,Investment Income,722143,2012
+1,6015,Barnardos,A,Incoming,A1,A1_Funds,A1_1110,Voluntary Income,Voluntary Income,6814000,2012
+2,6015,Barnardos,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Activities for generating funds,1126000,2012
+3,6015,Barnardos,A,Incoming,A1,A1_Funds,A1_1112,Investment Income,Investment Income,15783000,2012
+17,6434,Worldvision,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Committed giving schemes,3093473,2012
+18,6434,Worldvision,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Tax recovered,745984,2012
+19,6434,Worldvision,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Corporate donations,38406,2012
+20,6434,Worldvision,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Emergency appeals,41777,2012
+21,6434,Worldvision,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Grants from World Vision International,0,2012
+22,6434,Worldvision,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Other donations,378396,2012
+23,6434,Worldvision,A,Incoming,A1,A1_Funds,A1_1112,Investment Income,Bank interest,24262,2012
+33,8703,Debra,A,Incoming,A1,A1_Funds,A1_1110,Voluntary Income,Voluntary Income,768723,2012
+34,8703,Debra,A,Incoming,A1,A1_Funds,A1_1111,Activities for generating funds,Activities for Generating Funds,815534,2012
+35,8703,Debra,A,Incoming,A1,A1_Funds,A1_1112,Investment Income,Investment Income,35781,2012
+13,5745,Concern,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,Grant Income,93807000,2012
+14,5745,Concern,A,Incoming,A2,A2_Activaties,A2_1211,Misc. Charitable Activities,Charitable activaties,7190000,2012
+9,6271,Goal,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,Grant Income,48952474,2012
+10,6271,Goal,A,Incoming,A2,A2_Activaties,A2_1211,Misc. Charitable Activities,Charitable activaties,3046050,2012
+4,6015,Barnardos,A,Incoming,A2,A2_Activaties,A2_1200,Charitable activaties,Charitable activaties,198000,2012
+24,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,Emergency Response Fund,88801,2012
+25,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,Somalia - Puntland WASH phase ii,295000,2012
+26,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,Somalia - Puntland emergency primary health care,275000,2012
+27,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,"Somalia - Emergency basic health care, water and sanitation project",600000,2012
+28,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,South Sudan - Juba community drive protection project phase ii,270000,2012
+29,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,AIM health programme,1482820,2012
+30,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,European Union,55112,2012
+31,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,World Food Food distribution,14505,2012
+32,6434,Worldvision,A,Incoming,A2,A2_Activaties,A2_1210,Grant Income,World Food Food distribution,43941,2012
+15,5745,Concern,A,Incoming,A3,A3_Other,A3_1300,Other incoming resources,Other incoming resources,662000,2012
+11,6271,Goal,A,Incoming,A3,A3_Other,A3_1300,Other incoming resources,Other incoming resources,193218,2012
+5,6015,Barnardos,A,Incoming,A3,A3_Other,A3_1300,Other incoming resources,Other incoming resources,31000,2012
