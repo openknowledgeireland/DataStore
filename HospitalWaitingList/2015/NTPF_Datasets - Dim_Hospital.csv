@@ -1,0 +1,63 @@
+hid,region,hospital1,hospital5,hgid,hgroup,code,hospital,hospital2,osm_wid,osm,lon,lat
+1,South West,Bantry,BantryGene,5,South/South West Hospital Group,202,Bantry General Hospital,Bantry General Hospital,177777682,177777682,-9.45014,51.6762219
+2,Dublin North East,Beaumount,BeaumontHo,4,RCSI Hospitals Group,37,Beaumont Hospital,Beaumont Hospital,22634348,22634348,-6.222199,53.3923659
+3,Dublin East,Cappagh,CappaghNat,2,Ireland East Hospital Group,11,Cappagh National Orthopaedic Hospital,Cappagh National Orthopaedic Hospital,42352117,42352117,-6.3249131,53.3923766
+4,Dublin North East,Cavan,CavanGener,4,RCSI Hospitals Group,702,Cavan General Hospital,Cavan Monaghan Hospital Group,152613437,152613437,-7.37236,54.0010159
+5,Paediatrics,Temple Street,ChildrensU,7,Children's Hospital Group,14,Childrens University Hospital Temple Street,"Childrens University Hospital, Temple Street",137349173,137349173,-6.26157,53.3570939
+6,Dublin North East,Conolly,ConnollyHo,4,RCSI Hospitals Group,22,Connolly Hospital,"Connolly Hospital, Blanchardstown",,,-6.36742,53.3891651
+7,South West,Cork University,CorkUniver,5,South/South West Hospital Group,235,Cork University Hospital,Cork University Hospital,118618667,118618667,-8.51207,51.8833781
+8,North West,Galway University,GalwayUniv,1,Saolta University Health Care Group,404,Galway University Hospital,Galway University Hospital,,,-9.06685,53.2770613
+9,South West,Kerry General,KerryGener,5,South/South West Hospital Group,236,Kerry General Hospital,Kerry General Hospital,111471269,111471269,-9.6876,52.2658252
+10,North West,Letterkenny,Letterkenn,1,Saolta University Health Care Group,601,Letterkenny General Hospital,Letterkenny General Hospital,,,-7.73483,54.9601244
+11,South West,Kilcreene,LourdesOrt,5,South/South West Hospital Group,104,Lourdes Orthopaedic Hospital Kilcreene,"Lourdes Orthopaedic Hospital, Kilcreene",,,-7.27489,52.6524252
+12,Dublin North East,Louth County,LouthCount,4,RCSI Hospitals Group,703,Louth County Hospital,Louth County Hospital,,,-6.40043,53.9879808
+13,South West,Mallow General,MallowGene,5,South/South West Hospital Group,207,Mallow General Hospital,Mallow General Hospital,,,-8.66377,52.15165
+14,Dublin East,Mater,MaterMiser,2,Ireland East Hospital Group,5,Mater Misericordiae University Hospital,Mater Misericordiae University Hospital,,,-6.26706,53.3595011
+15,North West,Mayo General,MayoGenera,1,Saolta University Health Care Group,405,Mayo General Hospital,Mayo General Hospital,,,-9.30332,53.8519319
+16,South West,Mercy,MercyUnive,5,South/South West Hospital Group,203,Mercy University Hospital,Mercy University Hospital,,,-8.48233,51.8989341
+17,Dublin East,MRH Mullingar,MRHMillingar,2,Ireland East Hospital Group,503,Midland Regional Hospital Mullingar,Midland Regional Hospital Mullingar,176503889,176503889,-7.34904,53.5344207
+18,Midlands,MRH Portlaoise,MRHPortlaoise,3,Dublin Midlands Hospital Group,506,Midland Regional Hospital Portlaoise,Midland Regional Hospital Portlaoise,223248196,223248196,-7.27536,53.0375537
+19,Midlands,MRH Tullamore,MRHTullamore,3,Dublin Midlands Hospital Group,501,Midland Regional Hospital Tullamore,Midland Regional Hospital Tullamore,56968562,56968562,-7.48884,53.2829733
+21,Midwest,Ennis,EnnisHospi,6,University of Limerick Hospital Group,307,Ennis Hospital,"Mid-Western Regional Hospital, Ennis",,,-8.98328,52.85109
+22,Midwest,Nenagh,NenaghHosp,6,University of Limerick Hospital Group,308,Nenagh Hospital,"Mid-Western Regional Hospital, Nenagh",,,-8.191,52.8577881
+23,Midwest,Croom,CroomOrtho,6,University of Limerick Hospital Group,304,Croom Orthopaedic Hospital,"Mid-Western Regional Orthopaedic Hospital, Croom",,,-8.71139,52.527117
+24,Midlands,Naas General,NaasGenera,3,Dublin Midlands Hospital Group,4,Naas General Hospital,Naas General Hospital,91506380,91506380,-6.66089,53.211388
+25,Dublin North East,Lourdes Drogheda,OurLadyDrogh,4,RCSI Hospitals Group,701,Our Lady of Lourdes Hospital Drogheda,"Our Lady of Lourdes Hospital, Drogheda",,,-6.35392,53.7221584
+26,Paediatrics,Children's Crumlin,OurLadyCrum,7,Children's Hospital Group,1,Our Lady's Children's Hospital Crumlin,"Our Lady's Children's Hospital, Crumlin",,,-6.31889,53.3261478
+27,Dublin East,Our Lady's Navan,OurLadyNavan,2,Ireland East Hospital Group,705,Our Lady's Hospital Navan,"Our Lady's Hospital, Navan",,,-6.69748,53.6502026
+28,North West,Portiuncla Hospital,Portiuncla,1,Saolta University Health Care Group,403,Portiuncla Hospital,Portiuncula Hospital,183750993,183750993,-8.23557,53.3271067
+29,North West,Roscommon,RoscommonC,1,Saolta University Health Care Group,401,Roscommon County Hospital,Roscommon Hospital,196744297,196744297,-8.17541,53.6245107
+30,Dublin East,Eye and Ear,RoyalVicto,2,Ireland East Hospital Group,24,Royal Victoria Eye and Ear Hospital,Royal Victoria Eye and Ear Hospital,,,-6.2557,53.3328326
+31,North West,Sligo General,SligoGener,1,Saolta University Health Care Group,602,Sligo General Hospital,Sligo Regional Hospital,,,-8.464,54.2750308
+32,South West,South Infirmary Victoria,SouthInfir,5,South/South West Hospital Group,206,South Infirmary Victoria University Hospital,South Infirmary - Victoria University Hospital,,,-8.46417,51.8935797
+33,South West,South Tipperary General,SouthTippe,5,South/South West Hospital Group,105,South Tipperary General Hospital,South Tipperary General Hospital,,,-7.71574,52.355711
+34,Dublin East,St. Columcille's,StColumci,2,Ireland East Hospital Group,3,St. Columcille's Hospital,St. Columcille's Hospital,,,-6.1329,53.242361
+35,Midlands,St. James's ,StJamess,3,Dublin Midlands Hospital Group,21,St. James's Hospital,St. James's Hospital,,,-6.29577,53.3401298
+36,Midwest,St. John's Limerick,StJohnsH,6,University of Limerick Hospital Group,305,St. John's Hospital Limerick,St. John's Hospital Limerick,,,-8.6168,52.6633523
+37,Dublin East,St. Luke's Kilkenny,StLukesG,2,Ireland East Hospital Group,101,St. Luke's General Hospital Kilkenny,"St. Luke's General Hospital, Kilkenny",,,-7.26285,52.6664671
+38,Dublin East,St. Vincent's University,StVincent,2,Ireland East Hospital Group,7,St. Vincent's University Hospital Elm Park,St. Vincent's University Hospital,,,-6.21262,53.3168507
+39,Midlands,Tallaght Hospital,TallaghtHo,3,Dublin Midlands Hospital Group,41,Tallaght Hospital,Tallaght Hospital (AMNCH),,,-6.37887,53.2911892
+40,South West,University Waterford,UniWaterford,5,South/South West Hospital Group,100,University Hospital Waterford,Waterford Regional Hospital,,,-7.07887,52.2489542
+41,Dublin East,Wexford General,WexfordGen,2,Ireland East Hospital Group,103,Wexford General Hospital,Wexford General Hospital,,,-6.48187,52.3431683
+42,,,,,,9,"Peamount Hospital, Newcastle",,,,,
+42,Midwest,University Limerick,UniLimerick,6,University of Limerick Hospital Group,,University Hospital Limerick,University Hospital Limerick,45766917,45766917,-8.6529512,52.6362418
+43,,,,,,15,"St. Luke's & St. Anne's Hospital, Dublin",,,,,
+43,Dublin East,St. Michaels,StMichael,,,23,St. Michael's Dun Laoghaire,St. Michael's Dun Laoghaire,,,,
+44,,,,,,26,"National Rehabilitation Hospital, (NHR), Dun Laoghaire",,,,,
+45,,,,,,27,"St. Joseph's Unit, Harold's Cross",,,,,
+46,,,,,,28,"Our Lady's Hospice, Harold's Cross, Dublin",,,,,
+47,,,,,,35,"Cherry Orchard Hospital, Ballyfermot",,,,,
+48,,,,,,38,"Coombe Women's Hospital, Dublin",,,,,
+49,,,,,,39,"Rotunda Hospital, Dublin",,,,,
+50,,,,,,40,"National Maternity Hospital, Holles St, Dublin",,,,,
+51,,,,,,44,"St Joseph Hospital, Raheny",,,,,
+52,,,,,,47,"Incorporated Orthopaedic Hospital, Clontarf",,,,,
+53,,,,,,48,Blackrock Hospice,,,,,
+54,,,,,,90,St Luke's Centre at St James,,,,,
+55,,,,,,91,St Luke's Centre at Beaumont,,,,,
+56,,,,,,200,"St. Finbarr's Hospital, Cork",,,,,
+57,,,,,,208,"St. Mary's Orthopaedic Hospital, Gurrenabraher",,,,,
+58,,,,,,302,Midwestern Regional Maternity Hospital Limerick,,,,,
+59,,,,,,303,"Midwestern Regional Hospital, Dooradoyle",,,,,
+60,,,,,,406,Ballina District Hospital,,,,,
+61,,,,,,704,Monaghan General Hospital,,,,,
