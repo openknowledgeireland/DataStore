@@ -1,0 +1,157 @@
+@prefix	rdfs:	<http://www.w3.org/2000/01/rdf-schema#>	.
+@prefix	xsd:	<http://www.w3.org/2001/XMLSchema#>	.
+@prefix	osm:	<http://osm.org/ontology#>	.
+			
+<osm:way111471269>	osm:country	"Republic of Ireland" .
+<osm:way111471269>	osm:county	"County Kerry" .
+<osm:way111471269>	osm:lat	"52.2658252"^^xsd:decimal .
+<osm:way111471269>	osm:lon	"-9.6876"^^xsd:decimal .
+<osm:way111471269>	osm:road	"Marian Park" .
+<osm:way111471269>	osm:town	"Tralee" .
+<osm:way118618667>	osm:country	"Republic of Ireland" .
+<osm:way118618667>	osm:county	"County Cork" .
+<osm:way118618667>	osm:lat	"51.8833781"^^xsd:decimal .
+<osm:way118618667>	osm:lon	"-8.51207"^^xsd:decimal .
+<osm:way118618667>	osm:road	"Labernum Park" .
+<osm:way120235458>	osm:country	"Republic of Ireland" .
+<osm:way120235458>	osm:county	"County Kilkenny" .
+<osm:way120235458>	osm:lat	"52.6664671"^^xsd:decimal .
+<osm:way120235458>	osm:lon	"-7.26285"^^xsd:decimal .
+<osm:way120235458>	osm:road	"Freshford Road" .
+<osm:way120235458>	osm:town	"Kilkenny" .
+<osm:way12219521>	osm:country	"Republic of Ireland" .
+<osm:way12219521>	osm:county	"County Dublin" .
+<osm:way12219521>	osm:lat	"53.3891651"^^xsd:decimal .
+<osm:way12219521>	osm:lon	"-6.36742"^^xsd:decimal .
+<osm:way12219521>	osm:road	"Erris Square" .
+<osm:way12219521>	osm:town	"Blanchardstown" .
+<osm:way137349173>	osm:country	"Republic of Ireland" .
+<osm:way137349173>	osm:county	"County Dublin" .
+<osm:way137349173>	osm:lat	"53.3570939"^^xsd:decimal .
+<osm:way137349173>	osm:lon	"-6.26157"^^xsd:decimal .
+<osm:way137349173>	osm:road	"Nerney's Court" .
+<osm:way152613437>	osm:country	"Republic of Ireland" .
+<osm:way152613437>	osm:county	"County Cavan" .
+<osm:way152613437>	osm:lat	"54.0010159"^^xsd:decimal .
+<osm:way152613437>	osm:lon	"-7.37236"^^xsd:decimal .
+<osm:way152613437>	osm:road	"Farnham Road" .
+<osm:way154858816>	osm:country	"Republic of Ireland" .
+<osm:way154858816>	osm:county	"County Kilkenny" .
+<osm:way154858816>	osm:lat	"52.6524252"^^xsd:decimal .
+<osm:way154858816>	osm:lon	"-7.27489"^^xsd:decimal .
+<osm:way154858816>	osm:road	"Ballycallan Road" .
+<osm:way154858816>	osm:town	"Kilkenny" .
+<osm:way176503889>	osm:lat	"53.5344207"^^xsd:decimal .
+<osm:way176503889>	osm:lon	"-7.34904"^^xsd:decimal .
+<osm:way177571700>	osm:country	"Republic of Ireland" .
+<osm:way177571700>	osm:county	"County Cork" .
+<osm:way177571700>	osm:lat	"52.15165"^^xsd:decimal .
+<osm:way177571700>	osm:lon	"-8.66377"^^xsd:decimal .
+<osm:way177571700>	osm:road	"L1200" .
+<osm:way177777682>	osm:country	"Republic of Ireland" .
+<osm:way177777682>	osm:county	"County Cork" .
+<osm:way177777682>	osm:lat	"51.6762219"^^xsd:decimal .
+<osm:way177777682>	osm:lon	"-9.45014"^^xsd:decimal .
+<osm:way177777682>	osm:road	"Hospital Road" .
+<osm:way177777682>	osm:town	"Bantry" .
+<osm:way179377994>	osm:country	"Republic of Ireland" .
+<osm:way179377994>	osm:county	"County Mayo" .
+<osm:way179377994>	osm:lat	"53.8519319"^^xsd:decimal .
+<osm:way179377994>	osm:lon	"-9.30332"^^xsd:decimal .
+<osm:way179377994>	osm:road	"Old Westport Road" .
+<osm:way179377994>	osm:town	"Castlebar" .
+<osm:way183750993>	osm:country	"Republic of Ireland" .
+<osm:way183750993>	osm:county	"County Galway" .
+<osm:way183750993>	osm:lat	"53.3271067"^^xsd:decimal .
+<osm:way183750993>	osm:lon	"-8.23557"^^xsd:decimal .
+<osm:way183750993>	osm:road	"R446" .
+<osm:way183750993>	osm:town	"Ballinasloe" .
+<osm:way196744297>	osm:country	"Republic of Ireland" .
+<osm:way196744297>	osm:county	"County Roscommon" .
+<osm:way196744297>	osm:lat	"53.6245107"^^xsd:decimal .
+<osm:way196744297>	osm:lon	"-8.17541"^^xsd:decimal .
+<osm:way196744297>	osm:road	"N61" .
+<osm:way196744297>	osm:town	"Roscommon" .
+<osm:way223248196>	osm:country	"Republic of Ireland" .
+<osm:way223248196>	osm:county	"County Laois" .
+<osm:way223248196>	osm:lat	"53.0375537"^^xsd:decimal .
+<osm:way223248196>	osm:lon	"-7.27536"^^xsd:decimal .
+<osm:way223248196>	osm:road	"Dublin Road" .
+<osm:way223248196>	osm:town	"Port Laoise" .
+<osm:way22634348>	osm:country	"Republic of Ireland" .
+<osm:way22634348>	osm:county	"County Dublin" .
+<osm:way22634348>	osm:lat	"53.3923659"^^xsd:decimal .
+<osm:way22634348>	osm:lon	"-6.222199"^^xsd:decimal .
+<osm:way22634348>	osm:road	"Beaumont Hospital" .
+<osm:way26131060>	osm:country	"Republic of Ireland" .
+<osm:way26131060>	osm:county	"County Galway" .
+<osm:way26131060>	osm:lat	"53.2770613"^^xsd:decimal .
+<osm:way26131060>	osm:lon	"-9.06685"^^xsd:decimal .
+<osm:way26131060>	osm:road	"Newcastle Avenue" .
+<osm:way26131060>	osm:town	"Galway Municipal District" .
+<osm:way32015912>	osm:country	"Republic of Ireland" .
+<osm:way32015912>	osm:county	"County Dublin" .
+<osm:way32015912>	osm:lat	"53.3401298"^^xsd:decimal .
+<osm:way32015912>	osm:lon	"-6.29577"^^xsd:decimal .
+<osm:way32015912>	osm:road	"Set Down Only" .
+<osm:way32063615>	osm:country	"Republic of Ireland" .
+<osm:way32063615>	osm:county	"County Dublin" .
+<osm:way32063615>	osm:lat	"53.3261478"^^xsd:decimal .
+<osm:way32063615>	osm:lon	"-6.31889"^^xsd:decimal .
+<osm:way32063615>	osm:road	"Errigal Gardens" .
+<osm:way32152329>	osm:country	"Republic of Ireland" .
+<osm:way32152329>	osm:county	"County Waterford" .
+<osm:way32152329>	osm:lat	"52.2489542"^^xsd:decimal .
+<osm:way32152329>	osm:lon	"-7.07887"^^xsd:decimal .
+<osm:way32152329>	osm:road	"Nursery Road" .
+<osm:way33005181>	osm:country	"Republic of Ireland" .
+<osm:way33005181>	osm:county	"County Dublin" .
+<osm:way33005181>	osm:lat	"53.3595011"^^xsd:decimal .
+<osm:way33005181>	osm:lon	"-6.26706"^^xsd:decimal .
+<osm:way33005181>	osm:road	"North Circular Road" .
+<osm:way353427032>	osm:country	"Republic of Ireland" .
+<osm:way353427032>	osm:county	"County Cork" .
+<osm:way353427032>	osm:lat	"51.8989341"^^xsd:decimal .
+<osm:way353427032>	osm:lon	"-8.48233"^^xsd:decimal .
+<osm:way353427032>	osm:road	"Henry Street" .
+<osm:way353438490>	osm:country	"Republic of Ireland" .
+<osm:way353438490>	osm:county	"County Wexford" .
+<osm:way353438490>	osm:lat	"52.3431683"^^xsd:decimal .
+<osm:way353438490>	osm:lon	"-6.48187"^^xsd:decimal .
+<osm:way353438490>	osm:road	"Newtown Road" .
+<osm:way353438490>	osm:town	"Wexford" .
+<osm:way353439545>	osm:country	"Republic of Ireland" .
+<osm:way353439545>	osm:county	"County Donegal" .
+<osm:way353439545>	osm:lat	"54.9601244"^^xsd:decimal .
+<osm:way353439545>	osm:lon	"-7.73483"^^xsd:decimal .
+<osm:way353439545>	osm:road	"Mortuary Chapel and Car Park" .
+<osm:way36393501>	osm:country	"Republic of Ireland" .
+<osm:way36393501>	osm:county	"County Tipperary" .
+<osm:way36393501>	osm:lat	"52.8577881"^^xsd:decimal .
+<osm:way36393501>	osm:lon	"-8.191"^^xsd:decimal .
+<osm:way36393501>	osm:road	"Thurles Road" .
+<osm:way36393501>	osm:town	"Nenagh" .
+<osm:way42352117>	osm:country	"Republic of Ireland" .
+<osm:way42352117>	osm:county	"County Dublin" .
+<osm:way42352117>	osm:lat	"53.3923766"^^xsd:decimal .
+<osm:way42352117>	osm:lon	"-6.3249131"^^xsd:decimal .
+<osm:way42352117>	osm:road	"Ratoath Road" .
+<osm:way45766917>	osm:country	"Republic of Ireland" .
+<osm:way45766917>	osm:county	"County Limerick" .
+<osm:way45766917>	osm:lat	"52.6362418"^^xsd:decimal .
+<osm:way45766917>	osm:lon	"-8.6529512"^^xsd:decimal .
+<osm:way45766917>	osm:road	"Carrig Drive" .
+<osm:way51231573>	osm:country	"Republic of Ireland" .
+<osm:way51231573>	osm:county	"County Dublin" .
+<osm:way51231573>	osm:lat	"53.2911892"^^xsd:decimal .
+<osm:way51231573>	osm:lon	"-6.37887"^^xsd:decimal .
+<osm:way51231573>	osm:road	"Cookstown Way" .
+<osm:way51231573>	osm:town	"Tallaght" .
+<osm:way56968562>	osm:country	"Republic of Ireland" .
+<osm:way56968562>	osm:county	"County Offaly" .
+<osm:way56968562>	osm:lat	"53.2829733"^^xsd:decimal .
+<osm:way56968562>	osm:lon	"-7.48884"^^xsd:decimal .
+<osm:way56968562>	osm:road	"Arden Vale" .
+<osm:way56968562>	osm:town	"Tullamore" .
+<osm:way91506380>	osm:lat	"53.211388"^^xsd:decimal .
+<osm:way91506380>	osm:lon	"-6.66089"^^xsd:decimal .

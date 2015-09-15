@@ -1,0 +1,172 @@
+@prefix	rdfs:	<http://www.w3.org/2000/01/rdf-schema#>	.
+@prefix	dbo:	<http://dbpedia.org/ontology/>	.
+@prefix	owl:	<http://dbpedia.org/ontology#>	.
+@prefix	xsd:	<http://www.w3.org/2001/XMLSchema#>	.
+@prefix	okirl:	<http://okirl.org/ontology#>	.
+@prefix	osm:	<http://osm.org/ontology#>	.
+			
+<okirl:huid10>	dbo:Hospital	<http://dbpedia.org/resource/Letterkenny_General_Hospital> .
+<okirl:huid10>	okirl:code	"601"^^xsd:integer .
+<okirl:huid10>	okirl:hguid	<okirl:hguid1> .
+<okirl:huid10>	okirl:id	"10"^^xsd:integer .
+<okirl:huid10>	okirl:name	"Letterkenny General Hospital" .
+<okirl:huid10>	okirl:osm_wid	<osm:way353439545> .
+<okirl:huid11>	dbo:Hospital	<http://dbpedia.org/resource/Lourdes_Orthopaedic_Hospital> .
+<okirl:huid11>	okirl:code	"104"^^xsd:integer .
+<okirl:huid11>	okirl:hguid	<okirl:hguid5> .
+<okirl:huid11>	okirl:id	"11"^^xsd:integer .
+<okirl:huid11>	okirl:name	"Lourdes Orthopaedic Hospital Kilcreene" .
+<okirl:huid11>	okirl:osm_wid	<osm:way154858816> .
+<okirl:huid13>	dbo:Hospital	<http://dbpedia.org/resource/Mallow_General_Hospital> .
+<okirl:huid13>	okirl:code	"207"^^xsd:integer .
+<okirl:huid13>	okirl:hguid	<okirl:hguid5> .
+<okirl:huid13>	okirl:id	"13"^^xsd:integer .
+<okirl:huid13>	okirl:name	"Mallow General Hospital" .
+<okirl:huid13>	okirl:osm_wid	<osm:way177571700> .
+<okirl:huid14>	dbo:Hospital	<http://dbpedia.org/resource/Mater_Misericordiae_University_Hospital> .
+<okirl:huid14>	okirl:code	"5"^^xsd:integer .
+<okirl:huid14>	okirl:hguid	<okirl:hguid2> .
+<okirl:huid14>	okirl:id	"14"^^xsd:integer .
+<okirl:huid14>	okirl:name	"Mater Misericordiae University Hospital" .
+<okirl:huid14>	okirl:osm_wid	<osm:way33005181> .
+<okirl:huid15>	dbo:Hospital	<http://dbpedia.org/resource/Mayo_General_Hospital> .
+<okirl:huid15>	okirl:code	"405"^^xsd:integer .
+<okirl:huid15>	okirl:hguid	<okirl:hguid1> .
+<okirl:huid15>	okirl:id	"15"^^xsd:integer .
+<okirl:huid15>	okirl:name	"Mayo General Hospital" .
+<okirl:huid15>	okirl:osm_wid	<osm:way179377994> .
+<okirl:huid16>	okirl:code	"203"^^xsd:integer .
+<okirl:huid16>	okirl:hguid	<okirl:hguid5> .
+<okirl:huid16>	okirl:id	"16"^^xsd:integer .
+<okirl:huid16>	okirl:name	"Mercy University Hospital" .
+<okirl:huid16>	okirl:osm_wid	<osm:way353427032> .
+<okirl:huid17>	dbo:Hospital	<http://dbpedia.org/resource/Midland_Regional_Hospital,_Mullingar> .
+<okirl:huid17>	okirl:code	"503"^^xsd:integer .
+<okirl:huid17>	okirl:hguid	<okirl:hguid2> .
+<okirl:huid17>	okirl:id	"17"^^xsd:integer .
+<okirl:huid17>	okirl:name	"Midland Regional Hospital Mullingar" .
+<okirl:huid17>	okirl:osm_wid	<osm:way176503889> .
+<okirl:huid18>	dbo:Hospital	<http://dbpedia.org/resource/Midland_Regional_Hospital,_Portlaoise> .
+<okirl:huid18>	okirl:code	"506"^^xsd:integer .
+<okirl:huid18>	okirl:hguid	<okirl:hguid3> .
+<okirl:huid18>	okirl:id	"18"^^xsd:integer .
+<okirl:huid18>	okirl:name	"Midland Regional Hospital Portlaoise" .
+<okirl:huid18>	okirl:osm_wid	<osm:way223248196> .
+<okirl:huid19>	dbo:Hospital	<http://dbpedia.org/resource/Midland_Regional_Hospital,_Tullamore> .
+<okirl:huid19>	okirl:code	"501"^^xsd:integer .
+<okirl:huid19>	okirl:hguid	<okirl:hguid3> .
+<okirl:huid19>	okirl:id	"19"^^xsd:integer .
+<okirl:huid19>	okirl:name	"Midland Regional Hospital Tullamore" .
+<okirl:huid19>	okirl:osm_wid	<osm:way56968562> .
+<okirl:huid1>	dbo:Hospital	<http://dbpedia.org/resource/Bantry_General_Hospital> .
+<okirl:huid1>	okirl:code	"202"^^xsd:integer .
+<okirl:huid1>	okirl:hguid	<okirl:hguid5> .
+<okirl:huid1>	okirl:id	"1"^^xsd:integer .
+<okirl:huid1>	okirl:name	"Bantry General Hospital" .
+<okirl:huid1>	okirl:osm_wid	<osm:way177777682> .
+<okirl:huid22>	dbo:Hospital	<http://dbpedia.org/resource/Mid-Western_Regional_Hospital,_Nenagh> .
+<okirl:huid22>	okirl:code	"308"^^xsd:integer .
+<okirl:huid22>	okirl:hguid	<okirl:hguid6> .
+<okirl:huid22>	okirl:id	"22"^^xsd:integer .
+<okirl:huid22>	okirl:name	"Nenagh Hospital" .
+<okirl:huid22>	okirl:osm_wid	<osm:way36393501> .
+<okirl:huid24>	okirl:code	"4"^^xsd:integer .
+<okirl:huid24>	okirl:hguid	<okirl:hguid3> .
+<okirl:huid24>	okirl:id	"24"^^xsd:integer .
+<okirl:huid24>	okirl:name	"Naas General Hospital" .
+<okirl:huid24>	okirl:osm_wid	<osm:way91506380> .
+<okirl:huid26>	okirl:code	"1"^^xsd:integer .
+<okirl:huid26>	okirl:hguid	<okirl:hguid7> .
+<okirl:huid26>	okirl:id	"26"^^xsd:integer .
+<okirl:huid26>	okirl:name	"Our Lady's Children's Hospital Crumlin" .
+<okirl:huid26>	okirl:osm_wid	<osm:way32063615> .
+<okirl:huid28>	dbo:Hospital	<http://dbpedia.org/page/Portiuncula_Hospital> .
+<okirl:huid28>	okirl:code	"403"^^xsd:integer .
+<okirl:huid28>	okirl:hguid	<okirl:hguid1> .
+<okirl:huid28>	okirl:id	"28"^^xsd:integer .
+<okirl:huid28>	okirl:name	"Portiuncla Hospital" .
+<okirl:huid28>	okirl:osm_wid	<osm:way183750993> .
+<okirl:huid29>	dbo:Hospital	<http://dbpedia.org/resource/Roscommon_County_Hospital> .
+<okirl:huid29>	okirl:code	"401"^^xsd:integer .
+<okirl:huid29>	okirl:hguid	<okirl:hguid1> .
+<okirl:huid29>	okirl:id	"29"^^xsd:integer .
+<okirl:huid29>	okirl:name	"Roscommon County Hospital" .
+<okirl:huid29>	okirl:osm_wid	<osm:way196744297> .
+<okirl:huid2>	dbo:Hospital	<http://dbpedia.org/resource/Beaumont_Hospital,_Dublin> .
+<okirl:huid2>	okirl:code	"37"^^xsd:integer .
+<okirl:huid2>	okirl:hguid	<okirl:hguid4> .
+<okirl:huid2>	okirl:id	"2"^^xsd:integer .
+<okirl:huid2>	okirl:name	"Beaumont Hospital" .
+<okirl:huid2>	okirl:osm_wid	<osm:way22634348> .
+<okirl:huid35>	dbo:Hospital	<http://dbpedia.org/page/St._James60s_Hospital> .
+<okirl:huid35>	okirl:code	"21"^^xsd:integer .
+<okirl:huid35>	okirl:hguid	<okirl:hguid3> .
+<okirl:huid35>	okirl:id	"35"^^xsd:integer .
+<okirl:huid35>	okirl:name	"St. James's Hospital" .
+<okirl:huid35>	okirl:osm_wid	<osm:way32015912> .
+<okirl:huid37>	okirl:code	"101"^^xsd:integer .
+<okirl:huid37>	okirl:hguid	<okirl:hguid2> .
+<okirl:huid37>	okirl:id	"37"^^xsd:integer .
+<okirl:huid37>	okirl:name	"St. Luke's General Hospital Kilkenny" .
+<okirl:huid37>	okirl:osm_wid	<osm:way120235458> .
+<okirl:huid39>	dbo:Hospital	<http://dbpedia.org/resource/Tallaght_Hospital> .
+<okirl:huid39>	okirl:code	"41"^^xsd:integer .
+<okirl:huid39>	okirl:hguid	<okirl:hguid3> .
+<okirl:huid39>	okirl:id	"39"^^xsd:integer .
+<okirl:huid39>	okirl:name	"Tallaght Hospital" .
+<okirl:huid39>	okirl:osm_wid	<osm:way51231573> .
+<okirl:huid3>	okirl:code	"11"^^xsd:integer .
+<okirl:huid3>	okirl:hguid	<okirl:hguid2> .
+<okirl:huid3>	okirl:id	"3"^^xsd:integer .
+<okirl:huid3>	okirl:name	"Cappagh National Orthopaedic Hospital" .
+<okirl:huid3>	okirl:osm_wid	<osm:way42352117> .
+<okirl:huid40>	dbo:Hospital	<http://dbpedia.org/resource/University_Hospital_Waterford> .
+<okirl:huid40>	okirl:code	"100"^^xsd:integer .
+<okirl:huid40>	okirl:hguid	<okirl:hguid5> .
+<okirl:huid40>	okirl:id	"40"^^xsd:integer .
+<okirl:huid40>	okirl:name	"University Hospital Waterford" .
+<okirl:huid40>	okirl:osm_wid	<osm:way32152329> .
+<okirl:huid41>	okirl:code	"103"^^xsd:integer .
+<okirl:huid41>	okirl:hguid	<okirl:hguid2> .
+<okirl:huid41>	okirl:id	"41"^^xsd:integer .
+<okirl:huid41>	okirl:name	"Wexford General Hospital" .
+<okirl:huid41>	okirl:osm_wid	<osm:way353438490> .
+<okirl:huid42>	okirl:hguid	<okirl:hguid6> .
+<okirl:huid42>	okirl:id	"42"^^xsd:integer .
+<okirl:huid42>	okirl:name	"University Hospital Limerick" .
+<okirl:huid42>	okirl:osm_wid	<osm:way45766917> .
+<okirl:huid4>	dbo:Hospital	<http://dbpedia.org/resource/Cavan_General_Hospital> .
+<okirl:huid4>	okirl:code	"702"^^xsd:integer .
+<okirl:huid4>	okirl:hguid	<okirl:hguid4> .
+<okirl:huid4>	okirl:id	"4"^^xsd:integer .
+<okirl:huid4>	okirl:name	"Cavan General Hospital" .
+<okirl:huid4>	okirl:osm_wid	<osm:way152613437> .
+<okirl:huid5>	okirl:code	"14"^^xsd:integer .
+<okirl:huid5>	okirl:hguid	<okirl:hguid7> .
+<okirl:huid5>	okirl:id	"5"^^xsd:integer .
+<okirl:huid5>	okirl:name	"Childrens University Hospital Temple Street" .
+<okirl:huid5>	okirl:osm_wid	<osm:way137349173> .
+<okirl:huid6>	dbo:Hospital	<http://dbpedia.org/resource/Connolly_Hospital> .
+<okirl:huid6>	okirl:code	"22"^^xsd:integer .
+<okirl:huid6>	okirl:hguid	<okirl:hguid4> .
+<okirl:huid6>	okirl:id	"6"^^xsd:integer .
+<okirl:huid6>	okirl:name	"Connolly Hospital" .
+<okirl:huid6>	okirl:osm_wid	<osm:way12219521> .
+<okirl:huid7>	dbo:Hospital	<http://dbpedia.org/resource/Cork_University_Hospital> .
+<okirl:huid7>	okirl:code	"235"^^xsd:integer .
+<okirl:huid7>	okirl:hguid	<okirl:hguid5> .
+<okirl:huid7>	okirl:id	"7"^^xsd:integer .
+<okirl:huid7>	okirl:name	"Cork University Hospital" .
+<okirl:huid7>	okirl:osm_wid	<osm:way118618667> .
+<okirl:huid8>	dbo:Hospital	<http://dbpedia.org/resource/University_Hospital_Galway> .
+<okirl:huid8>	okirl:code	"404"^^xsd:integer .
+<okirl:huid8>	okirl:hguid	<okirl:hguid1> .
+<okirl:huid8>	okirl:id	"8"^^xsd:integer .
+<okirl:huid8>	okirl:name	"Galway University Hospital" .
+<okirl:huid8>	okirl:osm_wid	<osm:way26131060> .
+<okirl:huid9>	dbo:Hospital	<http://dbpedia.org/resource/Kerry_General_Hospital> .
+<okirl:huid9>	okirl:code	"236"^^xsd:integer .
+<okirl:huid9>	okirl:hguid	<okirl:hguid5> .
+<okirl:huid9>	okirl:id	"9"^^xsd:integer .
+<okirl:huid9>	okirl:name	"Kerry General Hospital" .
+<okirl:huid9>	okirl:osm_wid	<osm:way111471269> .

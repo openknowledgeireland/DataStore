@@ -1,0 +1,323 @@
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix owl:   <http://dbpedia.org/ontology#> .
+@prefix prop:  <http://dbpedia.org/property/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix type:  <http://dbpedia.org/class/yago/> .
+
+<http://dbpedia.org/resource/St._James's_Hospital>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  6112006 ;
+        prop:name       "St. James&#39;s Hospital"@en .
+
+<http://dbpedia.org/resource/St._Luke's_Hospital,_Rathgar>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28597519 ;
+        prop:name       "St. Luke's Hospital, Rathgar"@en .
+
+<http://dbpedia.org/resource/Mallow_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "81"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28310810 ;
+        prop:name       "Mallow General Hospital"@en .
+
+<http://dbpedia.org/resource/Mater_Misericordiae_University_Hospital>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  1687481 ;
+        prop:name       "Mater Misericordiae University Hospital"@en .
+
+<http://dbpedia.org/resource/St._Columcille's_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "118"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27989846 ;
+        prop:name       "St. Columcille's Hospital, Loughlinstown"@en .
+
+<http://dbpedia.org/resource/Sligo_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "359"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  7762541 ;
+        prop:name       "Sligo Regional Hospital"@en .
+
+<http://dbpedia.org/resource/St._Dympna's_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "115"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  32534798 ;
+        prop:name       "St. Dympna's Hospital, Carlow"@en .
+
+<http://dbpedia.org/resource/Aut_Even_Hospital>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27802483 ;
+        prop:name       "Aut Even Hospital"@en .
+
+<http://dbpedia.org/resource/Lourdes_Orthopaedic_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "51"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28732621 ;
+        prop:name       "Lourdes Orthopaedic Hospital"@en .
+
+<http://dbpedia.org/resource/West_/_North_West_Hospitals_Group>
+        a               dbo:Hospital ;
+        dbo:bedCount    "1770"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  41612611 ;
+        prop:name       "West / North West Hospitals Group"@en , "Grúpa Ospidéil an Iarthair / an Iarthuaiscirt"@en .
+
+<http://dbpedia.org/resource/Bantry_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "104"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28364679 ;
+        prop:name       "Bantry General Hospital"@en .
+
+<http://dbpedia.org/resource/Cork_University_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "1000"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27989367 ;
+        prop:name       "Cork University Hospital"@en , "Ospidéal Ollscoil Chorcaí"@en .
+
+<http://dbpedia.org/resource/Midland_Regional_Hospital,_Portlaoise>
+        a               dbo:Hospital ;
+        dbo:bedCount    "200"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27986777 ;
+        prop:name       "Midlands Regional Hospital, Portlaoise"@en .
+
+<http://dbpedia.org/resource/Midland_Regional_Hospital,_Mullingar>
+        a               dbo:Hospital ;
+        dbo:bedCount    "211"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27989820 ;
+        prop:name       "Midland Regional Hospital, Mullingar"@en .
+
+<http://dbpedia.org/resource/University_Hospital_Galway>
+        a               dbo:Hospital ;
+        dbo:bedCount    "708"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  7862220 ;
+        prop:name       "University Hospital Galway"@en , "Ospidéil na hOllscoile Gaillimh"@en .
+
+<http://dbpedia.org/resource/Connolly_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "271"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  11189947 ;
+        prop:name       "Connolly Hospital, Blanchardstown"@en .
+
+<http://dbpedia.org/resource/Midland_Regional_Hospital,_Tullamore>
+        a               dbo:Hospital ;
+        dbo:bedCount    "254"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27989807 ;
+        prop:name       "Midland Regional Hospital, Tullamore"@en .
+
+<http://dbpedia.org/resource/Leopardstown_Park_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "197"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27809381 ;
+        prop:name       "Leopardstown Park Hospital"@en .
+
+<http://dbpedia.org/resource/Roscommon_County_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "115"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  35738546 ;
+        prop:name       "Roscommon County Hospital"@en .
+
+<http://dbpedia.org/resource/Mayo_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "332"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  6273544 ;
+        prop:name       "Mayo General Hospital"@en .
+
+<http://dbpedia.org/resource/St._Luke's_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "285"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27802127 ;
+        prop:name       "St. Luke's General Hospital, Kilkenny"@en .
+
+<http://dbpedia.org/resource/Bon_Secours_Hospital,_Cork>
+        a               dbo:Hospital ;
+        dbo:bedCount    "343"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28354786 ;
+        prop:name       "Bon Secours Hospital"@en .
+
+<http://dbpedia.org/resource/Blackrock_Clinic>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  19257964 ;
+        prop:name       "Blackrock Clinic"@en .
+
+<http://dbpedia.org/resource/Coombe_Women_&_Infants_University_Hospital>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  16892571 ;
+        prop:name       "Coombe Women & Infants University Hospital"@en .
+
+<http://dbpedia.org/resource/Our_Lady_of_Lourdes_Hospital,_Drogheda>
+        a               dbo:Hospital ;
+        dbo:bedCount    "340"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28713435 ;
+        prop:name       "Our Lady of Lourdes Hospital"@en .
+
+<http://dbpedia.org/resource/St._Brendan's_Hospital_(Grangegorman)>
+        a               dbo:Hospital ;
+        dbo:bedCount    "84"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  30802967 ;
+        prop:name       "St. Brendan's Hospital, Grangegorman"@en .
+
+<http://dbpedia.org/resource/Erinville_Hospital>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  8947287 ;
+        prop:name       "Erinville Hospital"@en .
+
+<http://dbpedia.org/resource/Beaumont_Hospital,_Dublin>
+        a               dbo:Hospital ;
+        dbo:bedCount    "820"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  6112359 ;
+        prop:name       "Beaumont Hospital"@en .
+
+<http://dbpedia.org/resource/Galway_Clinic>
+        a               dbo:Hospital ;
+        dbo:bedCount    "126"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  11419689 ;
+        prop:name       "Galway Clinic"@en .
+
+<http://dbpedia.org/resource/University_Hospital_Waterford>
+        a               dbo:Hospital ;
+        dbo:bedCount    "545"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28690307 ;
+        prop:name       "University Hospital Waterford"@en .
+
+<http://dbpedia.org/resource/St_Ita's_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "200"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  1114922 ;
+        prop:name       "St Ita's Hospital, Portrane"@en .
+
+<http://dbpedia.org/resource/Bon_Secours_Hospital,_Galway>
+        a               dbo:Hospital ;
+        dbo:bedCount    "120"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28540894 ;
+        prop:name       "Bon Secours Hospital"@en .
+
+<http://dbpedia.org/resource/Kerry_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "377"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  37859862 ;
+        prop:name       "Kerry General Hospital, Tralee"@en .
+
+<http://dbpedia.org/resource/St._Joseph's_Hospital,_Sligo>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  27802604 ;
+        prop:name       "St. Joseph's Hospital"@en .
+
+<http://dbpedia.org/resource/St._Mary's_Orthopaedic_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "91"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28311175 ;
+        prop:name       "St. Mary's Orthopaedic Hospital"@en .
+
+<http://dbpedia.org/resource/Mid-Western_Regional_Hospital,_Ennis>
+        a               dbo:Hospital ;
+        dbo:bedCount    "102"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28290020 ;
+        prop:name       "Mid-Western Regional Hospital, Ennis"@en .
+
+<http://dbpedia.org/resource/Bon_Secours_Hospital,_Tralee>
+        a               dbo:Hospital ;
+        dbo:bedCount    "130"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28541271 ;
+        prop:name       "Bon Secours Hospital"@en .
+
+<http://dbpedia.org/resource/Royal_Victoria_Eye_and_Ear_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "80"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  22375789 ;
+        prop:name       "Royal Victoria Eye and Ear Hospital"@en .
+
+<http://dbpedia.org/resource/Letterkenny_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Ireland> ;
+        dbo:wikiPageID  7880177 ;
+        prop:name       "Letterkenny General Hospital"@en .
+
+<http://dbpedia.org/resource/Westmoreland_Lock_Hospital>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  26035227 ;
+        prop:name       "Westmoreland Lock Hospital"@en .
+
+<http://dbpedia.org/resource/Sacred_Heart_Hospital_(Roscommon)>
+        a               dbo:Hospital ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  35738601 ;
+        prop:name       "Sacred Heart Hospital"@en .
+
+<http://dbpedia.org/resource/Mid-Western_Regional_Hospital,_Nenagh>
+        a               dbo:Hospital ;
+        dbo:bedCount    "70"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  22057342 ;
+        prop:name       "Mid-Western Regional Hospital, Nenagh"@en .
+
+<http://dbpedia.org/resource/South_Tipperary_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "255"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28290620 ;
+        prop:name       "South Tipperary General Hospital, Clonmel"@en .
+
+<http://dbpedia.org/resource/Tallaght_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "600"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  16597959 ;
+        prop:name       "Adelaide and Meath Hospital, Dublin, incorporating the National Children's Hospital"@en .
+
+<http://dbpedia.org/resource/Portiuncula_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "220"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28754185 ;
+        prop:name       "Portiuncula Hospital"@en .
+
+<http://dbpedia.org/resource/Cavan_General_Hospital>
+        a               dbo:Hospital ;
+        dbo:bedCount    "264"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28302699 ;
+        prop:name       "Cavan General Hospital"@en .
+
+<http://dbpedia.org/resource/Bon_Secours_Hospital,_Dublin>
+        a               dbo:Hospital ;
+        dbo:bedCount    "150"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> ;
+        dbo:country     <http://dbpedia.org/resource/Republic_of_Ireland> ;
+        dbo:wikiPageID  28353433 ;
+        prop:name       "Bon Secours Hospital"@en .
