@@ -1,0 +1,28 @@
+@prefix :      <file:///C:/Users/corcorana/Documents/R/NTPF/02%20Datasets/graph/> .
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix owl:   <http://dbpedia.org/ontology#> .
+@prefix osm:   <http://osm.org/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix okirl: <http://okirl.org/ontology#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<okirl:hguid5>  okirl:id  5 ;
+        okirl:name  "South/South West Hospital Group" .
+
+<okirl:hguid3>  okirl:id  3 ;
+        okirl:name  "Dublin Midlands Hospital Group" .
+
+<okirl:hguid1>  okirl:id  1 ;
+        okirl:name  "Saolta University Health Care Group" .
+
+<okirl:hguid6>  okirl:id  6 ;
+        okirl:name  "University of Limerick Hospital Group" .
+
+<okirl:hguid4>  okirl:id  4 ;
+        okirl:name  "RCSI Hospitals Group" .
+
+<okirl:hguid2>  okirl:id  2 ;
+        okirl:name  "Ireland East Hospital Group" .
+
+<okirl:hguid7>  okirl:id  7 ;
+        okirl:name  "Children's Hospital Group" .

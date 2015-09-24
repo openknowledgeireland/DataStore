@@ -1,0 +1,873 @@
+@prefix :      <file:///C:/Users/corcorana/Documents/R/NTPF/02%20Datasets/graph/> .
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix owl:   <http://dbpedia.org/ontology#> .
+@prefix osm:   <http://osm.org/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix okirl: <http://okirl.org/ontology#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time:  <http://www.w3.org/2006/time#> .
+@prefix co:    <http://purl.org/ontology/co/core#> .
+
+<okirl:metric7.20150409>
+        a                   co:Counter ;
+        co:count            14653 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-04-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150402>
+        a                   co:Counter ;
+        co:count            406427 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-02T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150528>
+        a                   co:Counter ;
+        co:count            414778 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-28T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150305>
+        a                   co:Counter ;
+        co:count            21219 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150409>
+        a                   co:Counter ;
+        co:count            45460 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-04-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150123>
+        a                   co:Counter ;
+        co:count            393074 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20141223>
+        a                   co:Counter ;
+        co:count            12978 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2014-12-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150205>
+        a                   co:Counter ;
+        co:count            20519 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20141223>
+        a                   co:Counter ;
+        co:count            43888 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2014-12-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150723>
+        a                   co:Counter ;
+        co:count            15964 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-07-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20141223>
+        a                   co:Counter ;
+        co:count            385781 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2014-12-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150723>
+        a                   co:Counter ;
+        co:count            47662 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-07-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150827>
+        a                   co:Counter ;
+        co:count            404320 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-27T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150604>
+        a                   co:Counter ;
+        co:count            20718 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-04T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150416>
+        a                   co:Counter ;
+        co:count            14480 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-04-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150312>
+        a                   co:Counter ;
+        co:count            21688 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150507>
+        a                   co:Counter ;
+        co:count            413766 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-07T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150416>
+        a                   co:Counter ;
+        co:count            45817 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-04-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150429>
+        a                   co:Counter ;
+        co:count            14519 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-04-29T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150130>
+        a                   co:Counter ;
+        co:count            395720 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150429>
+        a                   co:Counter ;
+        co:count            46174 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-04-29T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150109>
+        a                   co:Counter ;
+        co:count            12852 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-01-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150212>
+        a                   co:Counter ;
+        co:count            20823 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150730>
+        a                   co:Counter ;
+        co:count            15986 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-07-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150109>
+        a                   co:Counter ;
+        co:count            44130 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-01-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150730>
+        a                   co:Counter ;
+        co:count            47962 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-07-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150630>
+        a                   co:Counter ;
+        co:count            15925 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-06-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150423>
+        a                   co:Counter ;
+        co:count            14426 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-04-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150611>
+        a                   co:Counter ;
+        co:count            20774 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-11T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150806>
+        a                   co:Counter ;
+        co:count            402212 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-06T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150709>
+        a                   co:Counter ;
+        co:count            20182 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150514>
+        a                   co:Counter ;
+        co:count            413805 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-14T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150423>
+        a                   co:Counter ;
+        co:count            46000 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-04-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150630>
+        a                   co:Counter ;
+        co:count            47022 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-06-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150116>
+        a                   co:Counter ;
+        co:count            12864 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-01-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150116>
+        a                   co:Counter ;
+        co:count            43748 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-01-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150813>
+        a                   co:Counter ;
+        co:count            405464 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-13T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150716>
+        a                   co:Counter ;
+        co:count            20534 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150521>
+        a                   co:Counter ;
+        co:count            415408 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-21T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150402>
+        a                   co:Counter ;
+        co:count            14579 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-04-02T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150528>
+        a                   co:Counter ;
+        co:count            15769 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-05-28T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150402>
+        a                   co:Counter ;
+        co:count            45491 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-04-02T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150528>
+        a                   co:Counter ;
+        co:count            46608 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-05-28T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150123>
+        a                   co:Counter ;
+        co:count            12809 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-01-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150409>
+        a                   co:Counter ;
+        co:count            21700 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150123>
+        a                   co:Counter ;
+        co:count            43959 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-01-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20141223>
+        a                   co:Counter ;
+        co:count            19717 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2014-12-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150820>
+        a                   co:Counter ;
+        co:count            405879 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-20T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150827>
+        a                   co:Counter ;
+        co:count            16311 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-08-27T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150723>
+        a                   co:Counter ;
+        co:count            20799 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150827>
+        a                   co:Counter ;
+        co:count            47545 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-08-27T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150507>
+        a                   co:Counter ;
+        co:count            14543 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-05-07T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150507>
+        a                   co:Counter ;
+        co:count            46373 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-05-07T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150130>
+        a                   co:Counter ;
+        co:count            12926 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-01-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150416>
+        a                   co:Counter ;
+        co:count            21613 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150130>
+        a                   co:Counter ;
+        co:count            43466 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-01-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150319>
+        a                   co:Counter ;
+        co:count            403944 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150429>
+        a                   co:Counter ;
+        co:count            20991 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-29T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150109>
+        a                   co:Counter ;
+        co:count            20052 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150730>
+        a                   co:Counter ;
+        co:count            20824 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150219>
+        a                   co:Counter ;
+        co:count            398288 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150806>
+        a                   co:Counter ;
+        co:count            16072 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-08-06T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150514>
+        a                   co:Counter ;
+        co:count            14799 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-05-14T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150806>
+        a                   co:Counter ;
+        co:count            48019 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-08-06T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150514>
+        a                   co:Counter ;
+        co:count            46440 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-05-14T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150630>
+        a                   co:Counter ;
+        co:count            20173 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150423>
+        a                   co:Counter ;
+        co:count            21378 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150618>
+        a                   co:Counter ;
+        co:count            413101 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-18T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150326>
+        a                   co:Counter ;
+        co:count            405501 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150116>
+        a                   co:Counter ;
+        co:count            20166 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150226>
+        a                   co:Counter ;
+        co:count            399399 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150813>
+        a                   co:Counter ;
+        co:count            15945 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-08-13T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150521>
+        a                   co:Counter ;
+        co:count            15134 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-05-21T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150813>
+        a                   co:Counter ;
+        co:count            47792 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-08-13T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150521>
+        a                   co:Counter ;
+        co:count            46374 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-05-21T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150625>
+        a                   co:Counter ;
+        co:count            410916 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-25T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150402>
+        a                   co:Counter ;
+        co:count            21816 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-02T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150528>
+        a                   co:Counter ;
+        co:count            20751 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-28T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150305>
+        a                   co:Counter ;
+        co:count            401147 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150123>
+        a                   co:Counter ;
+        co:count            20288 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150820>
+        a                   co:Counter ;
+        co:count            16173 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-08-20T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150205>
+        a                   co:Counter ;
+        co:count            397028 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150820>
+        a                   co:Counter ;
+        co:count            48018 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-08-20T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150827>
+        a                   co:Counter ;
+        co:count            21018 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-27T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150604>
+        a                   co:Counter ;
+        co:count            415109 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-04T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150507>
+        a                   co:Counter ;
+        co:count            21021 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-07T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150312>
+        a                   co:Counter ;
+        co:count            400587 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150319>
+        a                   co:Counter ;
+        co:count            14414 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-03-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150319>
+        a                   co:Counter ;
+        co:count            45027 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-03-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150130>
+        a                   co:Counter ;
+        co:count            20274 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150212>
+        a                   co:Counter ;
+        co:count            396937 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150219>
+        a                   co:Counter ;
+        co:count            13432 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-02-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150219>
+        a                   co:Counter ;
+        co:count            43739 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-02-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150903>
+        a                   co:Counter ;
+        co:count            402933 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-09-03T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150806>
+        a                   co:Counter ;
+        co:count            20900 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-06T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150611>
+        a                   co:Counter ;
+        co:count            414231 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-11T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150618>
+        a                   co:Counter ;
+        co:count            15588 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-06-18T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150514>
+        a                   co:Counter ;
+        co:count            20763 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-14T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150709>
+        a                   co:Counter ;
+        co:count            398620 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150326>
+        a                   co:Counter ;
+        co:count            14206 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-03-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150618>
+        a                   co:Counter ;
+        co:count            47592 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-06-18T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150326>
+        a                   co:Counter ;
+        co:count            45162 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-03-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150226>
+        a                   co:Counter ;
+        co:count            13706 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-02-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150226>
+        a                   co:Counter ;
+        co:count            43866 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-02-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150910>
+        a                   co:Counter ;
+        co:count            402294 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-09-10T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150813>
+        a                   co:Counter ;
+        co:count            21015 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-13T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150625>
+        a                   co:Counter ;
+        co:count            15563 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-06-25T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150521>
+        a                   co:Counter ;
+        co:count            20763 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-21T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150716>
+        a                   co:Counter ;
+        co:count            400107 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150625>
+        a                   co:Counter ;
+        co:count            47135 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-06-25T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150305>
+        a                   co:Counter ;
+        co:count            13855 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-03-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150305>
+        a                   co:Counter ;
+        co:count            44095 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-03-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150409>
+        a                   co:Counter ;
+        co:count            408593 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150205>
+        a                   co:Counter ;
+        co:count            13093 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-02-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150205>
+        a                   co:Counter ;
+        co:count            43367 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-02-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150820>
+        a                   co:Counter ;
+        co:count            20989 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-20T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150723>
+        a                   co:Counter ;
+        co:count            400712 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150604>
+        a                   co:Counter ;
+        co:count            15630 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-06-04T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150312>
+        a                   co:Counter ;
+        co:count            14238 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-03-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150604>
+        a                   co:Counter ;
+        co:count            46880 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-06-04T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150312>
+        a                   co:Counter ;
+        co:count            44453 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-03-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150416>
+        a                   co:Counter ;
+        co:count            409672 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150319>
+        a                   co:Counter ;
+        co:count            21810 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150212>
+        a                   co:Counter ;
+        co:count            13479 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-02-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150429>
+        a                   co:Counter ;
+        co:count            412422 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-29T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150212>
+        a                   co:Counter ;
+        co:count            43562 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-02-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150109>
+        a                   co:Counter ;
+        co:count            389749 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150903>
+        a                   co:Counter ;
+        co:count            16854 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-09-03T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150219>
+        a                   co:Counter ;
+        co:count            20795 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150730>
+        a                   co:Counter ;
+        co:count            401060 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150611>
+        a                   co:Counter ;
+        co:count            15530 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-06-11T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150709>
+        a                   co:Counter ;
+        co:count            16278 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-07-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150611>
+        a                   co:Counter ;
+        co:count            47237 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-06-11T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150709>
+        a                   co:Counter ;
+        co:count            47264 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-07-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150618>
+        a                   co:Counter ;
+        co:count            20565 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-18T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150423>
+        a                   co:Counter ;
+        co:count            410597 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150630>
+        a                   co:Counter ;
+        co:count            402156 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150326>
+        a                   co:Counter ;
+        co:count            21710 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150116>
+        a                   co:Counter ;
+        co:count            391883 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150910>
+        a                   co:Counter ;
+        co:count            16815 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-09-10T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150226>
+        a                   co:Counter ;
+        co:count            21026 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric7.20150716>
+        a                   co:Counter ;
+        co:count            16096 ;
+        co:object           <okirl:metric7> ;
+        time:inXSDDateTime  "2015-07-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric4.20150716>
+        a                   co:Counter ;
+        co:count            47399 ;
+        co:object           <okirl:metric4> ;
+        time:inXSDDateTime  "2015-07-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150625>
+        a                   co:Counter ;
+        co:count            20242 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-25T00:00:00+00:00"^^xsd:dateTime .

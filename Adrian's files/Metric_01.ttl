@@ -1,0 +1,268 @@
+@prefix :      <file:///C:/Users/corcorana/Documents/R/NTPF/02%20Datasets/graph/> .
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix owl:   <http://dbpedia.org/ontology#> .
+@prefix osm:   <http://osm.org/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix okirl: <http://okirl.org/ontology#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time:  <http://www.w3.org/2006/time#> .
+@prefix co:    <http://purl.org/ontology/co/core#> .
+
+<okirl:metric1.20150903>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            402933 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-09-03T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150813>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            405464 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-13T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150212>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            396937 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150723>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            400712 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150416>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            409672 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150109>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            389749 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150326>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            405501 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150827>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            404320 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-27T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150604>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            415109 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-04T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150709>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            398620 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150226>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            399399 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150514>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            413805 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-14T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150130>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            395720 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150910>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            402294 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-09-10T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150820>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            405879 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-20T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150730>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            401060 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150618>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            413101 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-18T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150305>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            401147 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150423>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            410597 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150429>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            412422 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-29T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150116>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            391883 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150528>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            414778 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-28T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20141223>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            385781 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2014-12-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150630>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            402156 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150806>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            402212 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-08-06T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150611>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            414231 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-11T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150205>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            397028 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150716>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            400107 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-07-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150521>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            415408 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-21T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150409>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            408593 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150319>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            403944 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150625>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            410916 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-06-25T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150402>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            406427 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-04-02T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150507>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            413766 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-05-07T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150219>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            398288 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-02-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150312>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            400587 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-03-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric1.20150123>
+        a                   co:Counter ;
+        okirl:name          "Outpatient Trend" ;
+        co:count            393074 ;
+        co:object           <okirl:metric1> ;
+        time:inXSDDateTime  "2015-01-23T00:00:00+00:00"^^xsd:dateTime .

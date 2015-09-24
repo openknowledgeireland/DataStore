@@ -1,0 +1,536 @@
+@prefix :      <file:///C:/Users/corcorana/Documents/R/NTPF/02%20Datasets/graph/> .
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix dbr:   <http://dbpedia.org/resource/> .
+@prefix owl:   <http://dbpedia.org/ontology#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix osm:   <http://osm.org/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix okirl: <http://okirl.org/ontology#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<okirl:huid37>  a     dbo:Hospital ;
+        okirl:hgid    2 ;
+        okirl:hgroup  "Ireland East Hospital Group" ;
+        okirl:hguid   <okirl:hguid2> ;
+        okirl:hid     37 ;
+        okirl:name    "St. Luke's General Hospital Kilkenny" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Kilkenny" ;
+        osm:lat       52.6664671 ;
+        osm:lon       -7.26285 ;
+        osm:road      "Freshford Road" ;
+        osm:town      "Kilkenny" ;
+        osm:way       <osm:way120235458> .
+
+<okirl:huid31>  a     dbo:Hospital ;
+        okirl:hgid    1 ;
+        okirl:hgroup  "Saolta University Health Care Group" ;
+        okirl:hguid   <okirl:hguid1> ;
+        okirl:hid     31 ;
+        okirl:name    "Sligo General Hospital" .
+
+<okirl:huid16>  a     dbo:Hospital ;
+        okirl:hgid    5 ;
+        okirl:hgroup  "South/South West Hospital Group" ;
+        okirl:hguid   <okirl:hguid5> ;
+        okirl:hid     16 ;
+        okirl:name    "Mercy University Hospital" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Cork" ;
+        osm:lat       51.8989341 ;
+        osm:lon       -8.48233 ;
+        osm:road      "Henry Street" ;
+        osm:way       <osm:way353427032> .
+
+<okirl:huid29>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:Roscommon_County_Hospital ;
+        dbo:bedCount    "115"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  35738546 ;
+        okirl:hgid      1 ;
+        okirl:hgroup    "Saolta University Health Care Group" ;
+        okirl:hguid     <okirl:hguid1> ;
+        okirl:hid       29 ;
+        okirl:name      "Roscommon County Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Roscommon" ;
+        osm:lat         53.6245107 ;
+        osm:lon         -8.17541 ;
+        osm:road        "N61" ;
+        osm:town        "Roscommon" ;
+        osm:way         <osm:way196744297> .
+
+<okirl:huid7>  a        dbo:Hospital ;
+        dbo:Hospital    dbr:Cork_University_Hospital ;
+        dbo:bedCount    "1000"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  27989367 ;
+        okirl:hgid      5 ;
+        okirl:hgroup    "South/South West Hospital Group" ;
+        okirl:hguid     <okirl:hguid5> ;
+        okirl:hid       7 ;
+        okirl:name      "Cork University Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Cork" ;
+        osm:lat         51.8833781 ;
+        osm:lon         -8.51207 ;
+        osm:road        "Labernum Park" ;
+        osm:way         <osm:way118618667> .
+
+<okirl:huid10>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:Letterkenny_General_Hospital ;
+        dbo:wikiPageID  7880177 ;
+        okirl:hgid      1 ;
+        okirl:hgroup    "Saolta University Health Care Group" ;
+        okirl:hguid     <okirl:hguid1> ;
+        okirl:hid       10 ;
+        okirl:name      "Letterkenny General Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Donegal" ;
+        osm:lat         54.9601244 ;
+        osm:lon         -7.73483 ;
+        osm:road        "Mortuary Chapel and Car Park" ;
+        osm:way         <osm:way353439545> .
+
+<okirl:huid23>  a     dbo:Hospital ;
+        okirl:hgid    6 ;
+        okirl:hgroup  "University of Limerick Hospital Group" ;
+        okirl:hguid   <okirl:hguid6> ;
+        okirl:hid     23 ;
+        okirl:name    "Croom Orthopaedic Hospital" .
+
+<okirl:huid1>  a        dbo:Hospital ;
+        dbo:Hospital    dbr:Bantry_General_Hospital ;
+        dbo:bedCount    "104"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28364679 ;
+        okirl:hgid      5 ;
+        okirl:hgroup    "South/South West Hospital Group" ;
+        okirl:hguid     <okirl:hguid5> ;
+        okirl:hid       1 ;
+        okirl:name      "Bantry General Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Cork" ;
+        osm:lat         51.6762219 ;
+        osm:lon         -9.45014 ;
+        osm:road        "Hospital Road" ;
+        osm:town        "Bantry" ;
+        osm:way         <osm:way177777682> .
+
+<okirl:huid36>  a     dbo:Hospital ;
+        okirl:hgid    6 ;
+        okirl:hgroup  "University of Limerick Hospital Group" ;
+        okirl:hguid   <okirl:hguid6> ;
+        okirl:hid     36 ;
+        okirl:name    "St. John's Hospital Limerick" .
+
+<okirl:huid30>  a     dbo:Hospital ;
+        okirl:hgid    2 ;
+        okirl:hgroup  "Ireland East Hospital Group" ;
+        okirl:hguid   <okirl:hguid2> ;
+        okirl:hid     30 ;
+        okirl:name    "Royal Victoria Eye and Ear Hospital" .
+
+<okirl:huid15>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:Mayo_General_Hospital ;
+        dbo:bedCount    "332"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  6273544 ;
+        okirl:hgid      1 ;
+        okirl:hgroup    "Saolta University Health Care Group" ;
+        okirl:hguid     <okirl:hguid1> ;
+        okirl:hid       15 ;
+        okirl:name      "Mayo General Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Mayo" ;
+        osm:lat         53.8519319 ;
+        osm:lon         -9.30332 ;
+        osm:road        "Old Westport Road" ;
+        osm:town        "Castlebar" ;
+        osm:way         <osm:way179377994> .
+
+<okirl:huid28>  a     dbo:Hospital ;
+        okirl:hgid    1 ;
+        okirl:hgroup  "Saolta University Health Care Group" ;
+        okirl:hguid   <okirl:hguid1> ;
+        okirl:hid     28 ;
+        okirl:name    "Portiuncla Hospital" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Galway" ;
+        osm:lat       53.3271067 ;
+        osm:lon       -8.23557 ;
+        osm:road      "R446" ;
+        osm:town      "Ballinasloe" ;
+        osm:way       <osm:way183750993> .
+
+<okirl:huid6>  a        dbo:Hospital ;
+        dbo:Hospital    dbr:Connolly_Hospital ;
+        dbo:bedCount    "271"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  11189947 ;
+        okirl:hgid      4 ;
+        okirl:hgroup    "RCSI Hospitals Group" ;
+        okirl:hguid     <okirl:hguid4> ;
+        okirl:hid       6 ;
+        okirl:name      "Connolly Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Dublin" ;
+        osm:lat         53.3891651 ;
+        osm:lon         -6.36742 ;
+        osm:road        "Erris Square" ;
+        osm:town        "Blanchardstown" ;
+        osm:way         <osm:way12219521> .
+
+<okirl:huid22>  a       dbo:Hospital ;
+        dbo:Hospital    <http://dbpedia.org/resource/Mid-Western_Regional_Hospital,_Nenagh> ;
+        dbo:bedCount    "70"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  22057342 ;
+        okirl:hgid      6 ;
+        okirl:hgroup    "University of Limerick Hospital Group" ;
+        okirl:hguid     <okirl:hguid6> ;
+        okirl:hid       22 ;
+        okirl:name      "Nenagh Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Tipperary" ;
+        osm:lat         52.8577881 ;
+        osm:lon         -8.191 ;
+        osm:road        "Thurles Road" ;
+        osm:town        "Nenagh" ;
+        osm:way         <osm:way36393501> .
+
+<okirl:huid35>  a     dbo:Hospital ;
+        okirl:hgid    3 ;
+        okirl:hgroup  "Dublin Midlands Hospital Group" ;
+        okirl:hguid   <okirl:hguid3> ;
+        okirl:hid     35 ;
+        okirl:name    "St. James's Hospital" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Dublin" ;
+        osm:lat       53.3401298 ;
+        osm:lon       -6.29577 ;
+        osm:road      "Set Down Only" ;
+        osm:way       <osm:way32015912> .
+
+<okirl:huid42>  a     dbo:Hospital ;
+        okirl:hgid    6 ;
+        okirl:hgroup  "University of Limerick Hospital Group" ;
+        okirl:hguid   <okirl:hguid6> ;
+        okirl:hid     42 ;
+        okirl:name    "University Hospital Limerick" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Limerick" ;
+        osm:lat       52.6362418 ;
+        osm:lon       -8.6529512 ;
+        osm:road      "Carrig Drive" ;
+        osm:way       <osm:way45766917> .
+
+<okirl:huid14>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:Mater_Misericordiae_University_Hospital ;
+        dbo:wikiPageID  1687481 ;
+        okirl:hgid      2 ;
+        okirl:hgroup    "Ireland East Hospital Group" ;
+        okirl:hguid     <okirl:hguid2> ;
+        okirl:hid       14 ;
+        okirl:name      "Mater Misericordiae University Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Dublin" ;
+        osm:lat         53.3595011 ;
+        osm:lon         -6.26706 ;
+        osm:road        "North Circular Road" ;
+        osm:way         <osm:way33005181> .
+
+<okirl:huid27>  a     dbo:Hospital ;
+        okirl:hgid    2 ;
+        okirl:hgroup  "Ireland East Hospital Group" ;
+        okirl:hguid   <okirl:hguid2> ;
+        okirl:hid     27 ;
+        okirl:name    "Our Lady's Hospital Navan" .
+
+<okirl:huid5>  a      dbo:Hospital ;
+        okirl:hgid    7 ;
+        okirl:hgroup  "Children's Hospital Group" ;
+        okirl:hguid   <okirl:hguid7> ;
+        okirl:hid     5 ;
+        okirl:name    "Childrens University Hospital Temple Street" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Dublin" ;
+        osm:lat       53.3570939 ;
+        osm:lon       -6.26157 ;
+        osm:road      "Nerney's Court" ;
+        osm:way       <osm:way137349173> .
+
+<okirl:huid21>  a       dbo:Hospital ;
+        dbo:Hospital    <http://dbpedia.org/resource/Mid-Western_Regional_Hospital,_Ennis> ;
+        dbo:bedCount    "102"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28290020 ;
+        okirl:hgid      6 ;
+        okirl:hgroup    "University of Limerick Hospital Group" ;
+        okirl:hguid     <okirl:hguid6> ;
+        okirl:hid       21 ;
+        okirl:name      "Ennis Hospital" .
+
+<okirl:huid34>  a     dbo:Hospital ;
+        okirl:hgid    2 ;
+        okirl:hgroup  "Ireland East Hospital Group" ;
+        okirl:hguid   <okirl:hguid2> ;
+        okirl:hid     34 ;
+        okirl:name    "St. Columcille's Hospital" .
+
+<okirl:huid19>  a       dbo:Hospital ;
+        dbo:Hospital    <http://dbpedia.org/resource/Midland_Regional_Hospital,_Tullamore> ;
+        dbo:bedCount    "254"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  27989807 ;
+        okirl:hgid      3 ;
+        okirl:hgroup    "Dublin Midlands Hospital Group" ;
+        okirl:hguid     <okirl:hguid3> ;
+        okirl:hid       19 ;
+        okirl:name      "Midland Regional Hospital Tullamore" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Offaly" ;
+        osm:lat         53.2829733 ;
+        osm:lon         -7.48884 ;
+        osm:road        "Arden Vale" ;
+        osm:town        "Tullamore" ;
+        osm:way         <osm:way56968562> .
+
+<okirl:huid41>  a     dbo:Hospital ;
+        okirl:hgid    2 ;
+        okirl:hgroup  "Ireland East Hospital Group" ;
+        okirl:hguid   <okirl:hguid2> ;
+        okirl:hid     41 ;
+        okirl:name    "Wexford General Hospital" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Wexford" ;
+        osm:lat       52.3431683 ;
+        osm:lon       -6.48187 ;
+        osm:road      "Newtown Road" ;
+        osm:town      "Wexford" ;
+        osm:way       <osm:way353438490> .
+
+<okirl:huid13>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:Mallow_General_Hospital ;
+        dbo:bedCount    "81"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28310810 ;
+        okirl:hgid      5 ;
+        okirl:hgroup    "South/South West Hospital Group" ;
+        okirl:hguid     <okirl:hguid5> ;
+        okirl:hid       13 ;
+        okirl:name      "Mallow General Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Cork" ;
+        osm:lat         52.15165 ;
+        osm:lon         -8.66377 ;
+        osm:road        "L1200" ;
+        osm:way         <osm:way177571700> .
+
+<okirl:huid26>  a     dbo:Hospital ;
+        okirl:hgid    7 ;
+        okirl:hgroup  "Children's Hospital Group" ;
+        okirl:hguid   <okirl:hguid7> ;
+        okirl:hid     26 ;
+        okirl:name    "Our Lady's Children's Hospital Crumlin" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Dublin" ;
+        osm:lat       53.3261478 ;
+        osm:lon       -6.31889 ;
+        osm:road      "Errigal Gardens" ;
+        osm:way       <osm:way32063615> .
+
+<okirl:huid4>  a        dbo:Hospital ;
+        dbo:Hospital    dbr:Cavan_General_Hospital ;
+        dbo:bedCount    "264"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28302699 ;
+        okirl:hgid      4 ;
+        okirl:hgroup    "RCSI Hospitals Group" ;
+        okirl:hguid     <okirl:hguid4> ;
+        okirl:hid       4 ;
+        okirl:name      "Cavan General Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Cavan" ;
+        osm:lat         54.0010159 ;
+        osm:lon         -7.37236 ;
+        osm:road        "Farnham Road" ;
+        osm:way         <osm:way152613437> .
+
+<okirl:huid39>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:Tallaght_Hospital ;
+        dbo:bedCount    "600"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  16597959 ;
+        okirl:hgid      3 ;
+        okirl:hgroup    "Dublin Midlands Hospital Group" ;
+        okirl:hguid     <okirl:hguid3> ;
+        okirl:hid       39 ;
+        okirl:name      "Tallaght Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Dublin" ;
+        osm:lat         53.2911892 ;
+        osm:lon         -6.37887 ;
+        osm:road        "Cookstown Way" ;
+        osm:town        "Tallaght" ;
+        osm:way         <osm:way51231573> .
+
+<okirl:huid33>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:South_Tipperary_General_Hospital ;
+        dbo:bedCount    "255"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28290620 ;
+        okirl:hgid      5 ;
+        okirl:hgroup    "South/South West Hospital Group" ;
+        okirl:hguid     <okirl:hguid5> ;
+        okirl:hid       33 ;
+        okirl:name      "South Tipperary General Hospital" .
+
+<okirl:huid18>  a       dbo:Hospital ;
+        dbo:Hospital    <http://dbpedia.org/resource/Midland_Regional_Hospital,_Portlaoise> ;
+        dbo:bedCount    "200"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  27986777 ;
+        okirl:hgid      3 ;
+        okirl:hgroup    "Dublin Midlands Hospital Group" ;
+        okirl:hguid     <okirl:hguid3> ;
+        okirl:hid       18 ;
+        okirl:name      "Midland Regional Hospital Portlaoise" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Laois" ;
+        osm:lat         53.0375537 ;
+        osm:lon         -7.27536 ;
+        osm:road        "Dublin Road" ;
+        osm:town        "Port Laoise" ;
+        osm:way         <osm:way223248196> .
+
+<okirl:huid9>  a        dbo:Hospital ;
+        dbo:Hospital    dbr:Kerry_General_Hospital ;
+        dbo:bedCount    "377"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  37859862 ;
+        okirl:hgid      5 ;
+        okirl:hgroup    "South/South West Hospital Group" ;
+        okirl:hguid     <okirl:hguid5> ;
+        okirl:hid       9 ;
+        okirl:name      "Kerry General Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Kerry" ;
+        osm:lat         52.2658252 ;
+        osm:lon         -9.6876 ;
+        osm:road        "Marian Park" ;
+        osm:town        "Tralee" ;
+        osm:way         <osm:way111471269> .
+
+<okirl:huid40>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:University_Hospital_Waterford ;
+        dbo:bedCount    "545"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28690307 ;
+        okirl:hgid      5 ;
+        okirl:hgroup    "South/South West Hospital Group" ;
+        okirl:hguid     <okirl:hguid5> ;
+        okirl:hid       40 ;
+        okirl:name      "University Hospital Waterford" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Waterford" ;
+        osm:lat         52.2489542 ;
+        osm:lon         -7.07887 ;
+        osm:road        "Nursery Road" ;
+        osm:way         <osm:way32152329> .
+
+<okirl:huid12>  a     dbo:Hospital ;
+        okirl:hgid    4 ;
+        okirl:hgroup  "RCSI Hospitals Group" ;
+        okirl:hguid   <okirl:hguid4> ;
+        okirl:hid     12 ;
+        okirl:name    "Louth County Hospital" .
+
+<okirl:huid25>  a       dbo:Hospital ;
+        dbo:Hospital    <http://dbpedia.org/resource/Our_Lady_of_Lourdes_Hospital,_Drogheda> ;
+        dbo:bedCount    "340"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28713435 ;
+        okirl:hgid      4 ;
+        okirl:hgroup    "RCSI Hospitals Group" ;
+        okirl:hguid     <okirl:hguid4> ;
+        okirl:hid       25 ;
+        okirl:name      "Our Lady of Lourdes Hospital Drogheda" .
+
+<okirl:huid3>  a      dbo:Hospital ;
+        okirl:hgid    2 ;
+        okirl:hgroup  "Ireland East Hospital Group" ;
+        okirl:hguid   <okirl:hguid2> ;
+        okirl:hid     3 ;
+        okirl:name    "Cappagh National Orthopaedic Hospital" ;
+        osm:country   "Republic of Ireland" ;
+        osm:county    "County Dublin" ;
+        osm:lat       53.3923766 ;
+        osm:lon       -6.3249131 ;
+        osm:road      "Ratoath Road" ;
+        osm:way       <osm:way42352117> .
+
+<okirl:huid38>  a     dbo:Hospital ;
+        okirl:hgid    2 ;
+        okirl:hgroup  "Ireland East Hospital Group" ;
+        okirl:hguid   <okirl:hguid2> ;
+        okirl:hid     38 ;
+        okirl:name    "St. Vincent's University Hospital Elm Park" .
+
+<okirl:huid32>  a     dbo:Hospital ;
+        okirl:hgid    5 ;
+        okirl:hgroup  "South/South West Hospital Group" ;
+        okirl:hguid   <okirl:hguid5> ;
+        okirl:hid     32 ;
+        okirl:name    "South Infirmary Victoria University Hospital" .
+
+<okirl:huid17>  a       dbo:Hospital ;
+        dbo:Hospital    <http://dbpedia.org/resource/Midland_Regional_Hospital,_Mullingar> ;
+        dbo:bedCount    "211"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  27989820 ;
+        okirl:hgid      2 ;
+        okirl:hgroup    "Ireland East Hospital Group" ;
+        okirl:hguid     <okirl:hguid2> ;
+        okirl:hid       17 ;
+        okirl:name      "Midland Regional Hospital Mullingar" .
+
+<okirl:huid8>  a        dbo:Hospital ;
+        dbo:Hospital    dbr:University_Hospital_Galway ;
+        dbo:bedCount    "708"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  7862220 ;
+        okirl:hgid      1 ;
+        okirl:hgroup    "Saolta University Health Care Group" ;
+        okirl:hguid     <okirl:hguid1> ;
+        okirl:hid       8 ;
+        okirl:name      "Galway University Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Galway" ;
+        osm:lat         53.2770613 ;
+        osm:lon         -9.06685 ;
+        osm:road        "Newcastle Avenue" ;
+        osm:town        "Galway Municipal District" ;
+        osm:way         <osm:way26131060> .
+
+<okirl:huid11>  a       dbo:Hospital ;
+        dbo:Hospital    dbr:Lourdes_Orthopaedic_Hospital ;
+        dbo:bedCount    "51"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  28732621 ;
+        okirl:hgid      5 ;
+        okirl:hgroup    "South/South West Hospital Group" ;
+        okirl:hguid     <okirl:hguid5> ;
+        okirl:hid       11 ;
+        okirl:name      "Lourdes Orthopaedic Hospital Kilcreene" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Kilkenny" ;
+        osm:lat         52.6524252 ;
+        osm:lon         -7.27489 ;
+        osm:road        "Ballycallan Road" ;
+        osm:town        "Kilkenny" ;
+        osm:way         <osm:way154858816> .
+
+<okirl:huid24>  a     dbo:Hospital ;
+        okirl:hgid    3 ;
+        okirl:hgroup  "Dublin Midlands Hospital Group" ;
+        okirl:hguid   <okirl:hguid3> ;
+        okirl:hid     24 ;
+        okirl:name    "Naas General Hospital" .
+
+<okirl:huid2>  a        dbo:Hospital ;
+        dbo:Hospital    <http://dbpedia.org/resource/Beaumont_Hospital,_Dublin> ;
+        dbo:bedCount    "820"^^xsd:nonNegativeInteger ;
+        dbo:wikiPageID  6112359 ;
+        okirl:hgid      4 ;
+        okirl:hgroup    "RCSI Hospitals Group" ;
+        okirl:hguid     <okirl:hguid4> ;
+        okirl:hid       2 ;
+        okirl:name      "Beaumont Hospital" ;
+        osm:country     "Republic of Ireland" ;
+        osm:county      "County Dublin" ;
+        osm:lat         53.3923659 ;
+        osm:lon         -6.222199 ;
+        osm:road        "Beaumont Hospital" ;
+        osm:way         <osm:way22634348> .

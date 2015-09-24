@@ -1,0 +1,254 @@
+@prefix :      <file:///C:/Users/corcorana/Documents/R/NTPF/02%20Datasets/graph/> .
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix owl:   <http://dbpedia.org/ontology#> .
+@prefix osm:   <http://osm.org/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix okirl: <http://okirl.org/ontology#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time:  <http://www.w3.org/2006/time#> .
+@prefix co:    <http://purl.org/ontology/co/core#> .
+
+<okirl:metric3.20150820>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20989 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-20T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150730>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20824 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150618>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20565 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-18T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150429>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20991 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-29T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150423>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21378 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150305>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21219 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150116>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20166 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150528>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20751 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-28T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150630>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20173 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-30T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150806>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20900 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-06T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150611>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20774 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-11T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150205>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20519 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-05T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150716>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20534 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150521>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20763 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-21T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150409>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21700 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150319>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21810 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150625>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20242 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-25T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150507>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21021 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-07T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150402>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21816 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-02T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20141223>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            19717 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2014-12-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150219>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20795 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-19T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150312>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21688 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150123>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20288 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150813>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21015 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-13T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150212>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20823 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-12T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150723>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20799 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-23T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150416>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21613 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-04-16T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150109>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20052 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150326>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21710 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-03-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150827>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21018 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-08-27T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150604>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20718 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-06-04T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150709>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20182 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-07-09T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150226>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            21026 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-02-26T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150514>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20763 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-05-14T00:00:00+00:00"^^xsd:dateTime .
+
+<okirl:metric3.20150130>
+        a                   co:Counter ;
+        okirl:name          "Inpatient (inpatient)" ;
+        co:count            20274 ;
+        co:object           <okirl:metric3> ;
+        time:inXSDDateTime  "2015-01-30T00:00:00+00:00"^^xsd:dateTime .

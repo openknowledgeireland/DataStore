@@ -1,0 +1,33 @@
+@prefix :      <file:///C:/Users/corcorana/Documents/R/NTPF/02%20Datasets/graph/> .
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix owl:   <http://dbpedia.org/ontology#> .
+@prefix osm:   <http://osm.org/ontology#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix okirl: <http://okirl.org/ontology#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time:  <http://www.w3.org/2006/time#> .
+@prefix co:    <http://purl.org/ontology/co/core#> .
+
+<okirl:metric2>  okirl:id  2 ;
+        okirl:name  "Outpatient by Group" .
+
+<okirl:metric7>  okirl:id  7 ;
+        okirl:name  "GI Trend" .
+
+<okirl:metric5>  okirl:id  5 ;
+        okirl:name  "Inpatient by Group (inpatient)" .
+
+<okirl:metric3>  okirl:id  3 ;
+        okirl:name  "Inpatient (inpatient)" .
+
+<okirl:metric8>  okirl:id  8 ;
+        okirl:name  "GI by Group" .
+
+<okirl:metric1>  okirl:id  1 ;
+        okirl:name  "Outpatient Trend" .
+
+<okirl:metric6>  okirl:id  6 ;
+        okirl:name  "Inpatient by Group (day)" .
+
+<okirl:metric4>  okirl:id  4 ;
+        okirl:name  "Inpatient (day)" .
